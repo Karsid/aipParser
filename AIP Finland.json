@@ -1,6 +1,6 @@
 {
 	"eBagLib": {
-		"0: Published - 2020-06-18": {
+		"0: Generated - 2023-02-19": {
 		},
 		"Enontekiö : EFET": {
 			"Tekstisivut / Textpages": {
@@ -54,6 +54,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_TWY.pdf",
 				"filename": "EFET - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_FAS_DB.pdf",
+				"filename": "EFET - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Halli : EFHA": {
@@ -128,6 +132,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_TWY.pdf",
 				"filename": "EFHA - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_FAS_DB.pdf",
+				"filename": "EFHA - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Helsinki-Vantaa : EFHK": {
@@ -365,6 +373,14 @@
 				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_0422_AOC.pdf",
 				"filename": "EFIV - AOC RWY 04-22.pdf"
 			},
+			"RNAV SID RWY 04": {
+				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_SIDR.pdf",
+				"filename": "EFIV - RNAV SID RWY 04.pdf"
+			},
+			"RNAV SID RWY 22": {
+				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_SIDR.pdf",
+				"filename": "EFIV - RNAV SID RWY 22.pdf"
+			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_OMNIDEP.pdf",
 				"filename": "EFIV - OMNIDIRECTIONAL DEPARTURES.pdf"
@@ -424,6 +440,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_TWY.pdf",
 				"filename": "EFIV - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_FAS_DB.pdf",
+				"filename": "EFIV - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Joensuu : EFJO": {
@@ -438,6 +458,14 @@
 			"AOC RWY 10/28": {
 				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_1028_AOC.pdf",
 				"filename": "EFJO - AOC RWY 10-28.pdf"
+			},
+			"RNAV SID RWY 10": {
+				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_SIDR.pdf",
+				"filename": "EFJO - RNAV SID RWY 10.pdf"
+			},
+			"RNAV SID RWY 28": {
+				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_SIDR.pdf",
+				"filename": "EFJO - RNAV SID RWY 28.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_OMNIDEP.pdf",
@@ -576,6 +604,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_TWY.pdf",
 				"filename": "EFJY - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_FAS_DB.pdf",
+				"filename": "EFJY - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Kajaani : EFKI": {
@@ -646,6 +678,24 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_TWY.pdf",
 				"filename": "EFKI - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_FAS_DB.pdf",
+				"filename": "EFKI - FAS DATA BLOCK.pdf"
+			}
+		},
+		"Kauhava : EFKA": {
+			"Tekstisivut / Textpages": {
+				"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_EN.pdf",
+				"filename": "EFKA - Tekstisivut - Textpages.pdf"
+			},
+			"RNP RWY 17": {
+				"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_17_RNP.pdf",
+				"filename": "EFKA - RNP RWY 17.pdf"
+			},
+			"RNP RWY 35": {
+				"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_35_RNP.pdf",
+				"filename": "EFKA - RNP RWY 35.pdf"
 			}
 		},
 		"Kemi-Tornio : EFKE": {
@@ -660,6 +710,14 @@
 			"AOC RWY 18/36": {
 				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_1836_AOC.pdf",
 				"filename": "EFKE - AOC RWY 18-36.pdf"
+			},
+			"RNAV SID RWY 18": {
+				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_SIDR.pdf",
+				"filename": "EFKE - RNAV SID RWY 18.pdf"
+			},
+			"RNAV SID RWY 36": {
+				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_SIDR.pdf",
+				"filename": "EFKE - RNAV SID RWY 36.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_OMNIDEP.pdf",
@@ -720,6 +778,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_TWY.pdf",
 				"filename": "EFKE - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_FAS_DB.pdf",
+				"filename": "EFKE - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Kittilä : EFKT": {
@@ -738,6 +800,14 @@
 			"ATC SMAC": {
 				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_ATCSMAC.pdf",
 				"filename": "EFKT - ATC SMAC.pdf"
+			},
+			"RNAV SID RWY 16": {
+				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_SIDR.pdf",
+				"filename": "EFKT - RNAV SID RWY 16.pdf"
+			},
+			"RNAV SID RWY 34": {
+				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_SIDR.pdf",
+				"filename": "EFKT - RNAV SID RWY 34.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_OMNIDEP.pdf",
@@ -802,6 +872,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_TWY.pdf",
 				"filename": "EFKT - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_FAS_DB.pdf",
+				"filename": "EFKT - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Kokkola-Pietarsaari : EFKK": {
@@ -816,6 +890,14 @@
 			"AOC RWY 01/19": {
 				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_0119_AOC.pdf",
 				"filename": "EFKK - AOC RWY 01-19.pdf"
+			},
+			"RNAV SID RWY 01": {
+				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_SIDR.pdf",
+				"filename": "EFKK - RNAV SID RWY 01.pdf"
+			},
+			"RNAV SID RWY 19": {
+				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_SIDR.pdf",
+				"filename": "EFKK - RNAV SID RWY 19.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_OMNIDEP.pdf",
@@ -890,6 +972,10 @@
 			"ADC": {
 				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_ADC.pdf",
 				"filename": "EFKU - ADC.pdf"
+			},
+			"AGMC": {
+				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_AGMC.pdf",
+				"filename": "EFKU - AGMC.pdf"
 			},
 			"AOC RWY 15/33": {
 				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_1533_AOC.pdf",
@@ -970,6 +1056,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_TWY.pdf",
 				"filename": "EFKU - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_FAS_DB.pdf",
+				"filename": "EFKU - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Kuusamo : EFKS": {
@@ -984,6 +1074,14 @@
 			"AOC RWY 12/30": {
 				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_1230_AOC.pdf",
 				"filename": "EFKS - AOC RWY 12-30.pdf"
+			},
+			"RNAV SID RWY 12": {
+				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_SIDR.pdf",
+				"filename": "EFKS - RNAV SID RWY 12.pdf"
+			},
+			"RNAV SID RWY 30": {
+				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_SIDR.pdf",
+				"filename": "EFKS - RNAV SID RWY 30.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_OMNIDEP.pdf",
@@ -1032,6 +1130,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_TWY.pdf",
 				"filename": "EFKS - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_FAS_DB.pdf",
+				"filename": "EFKS - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Lappeenranta : EFLP": {
@@ -1102,6 +1204,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_TWY.pdf",
 				"filename": "EFLP - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_FAS_DB.pdf",
+				"filename": "EFLP - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Mariehamn : EFMA": {
@@ -1120,6 +1226,14 @@
 			"ATC SMAC": {
 				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_ATCSMAC.pdf",
 				"filename": "EFMA - ATC SMAC.pdf"
+			},
+			"RNAV SID RWY 03": {
+				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_SIDR.pdf",
+				"filename": "EFMA - RNAV SID RWY 03.pdf"
+			},
+			"RNAV SID RWY 21": {
+				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_SIDR.pdf",
+				"filename": "EFMA - RNAV SID RWY 21.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_OMNIDEP.pdf",
@@ -1238,6 +1352,18 @@
 			"PRD INDEX": {
 				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_PRD_INDEX.pdf",
 				"filename": "EFMI - PRD INDEX.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_FAS_DB.pdf",
+				"filename": "EFMI - FAS DATA BLOCK.pdf"
+			},
+			"APRONS AND ACFT STANDS": {
+				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_APN_STANDS.pdf",
+				"filename": "EFMI - APRONS AND ACFT STANDS.pdf"
+			},
+			"TAXIWAYS": {
+				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_TWY.pdf",
+				"filename": "EFMI - TAXIWAYS.pdf"
 			}
 		},
 		"Oulu : EFOU": {
@@ -1371,6 +1497,14 @@
 				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_ATCSMAC.pdf",
 				"filename": "EFPO - ATC SMAC.pdf"
 			},
+			"RNAV SID RWY 12": {
+				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_SIDR.pdf",
+				"filename": "EFPO - RNAV SID RWY 12.pdf"
+			},
+			"RNAV SID RWY 30": {
+				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_SIDR.pdf",
+				"filename": "EFPO - RNAV SID RWY 30.pdf"
+			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_OMNIDEP.pdf",
 				"filename": "EFPO - OMNIDIRECTIONAL DEPARTURES.pdf"
@@ -1438,6 +1572,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_TWY.pdf",
 				"filename": "EFPO - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_FAS_DB.pdf",
+				"filename": "EFPO - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Rovaniemi : EFRO": {
@@ -1456,6 +1594,10 @@
 			"APDC": {
 				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_APDC.pdf",
 				"filename": "EFRO - APDC.pdf"
+			},
+			"AGMC": {
+				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_AGMC.pdf",
+				"filename": "EFRO - AGMC.pdf"
 			},
 			"AOC RWY 03/21": {
 				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_0321_AOC.pdf",
@@ -1618,6 +1760,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_TWY.pdf",
 				"filename": "EFSA - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_FAS_DB.pdf",
+				"filename": "EFSA - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Seinäjoki : EFSI": {
@@ -1684,6 +1830,10 @@
 			"TAXIWAYS": {
 				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_TWY.pdf",
 				"filename": "EFSI - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_FAS_DB.pdf",
+				"filename": "EFSI - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Tampere-Pirkkala : EFTP": {
@@ -1694,6 +1844,10 @@
 			"ADC": {
 				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_ADC.pdf",
 				"filename": "EFTP - ADC.pdf"
+			},
+			"AGMC": {
+				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_AGMC.pdf",
+				"filename": "EFTP - AGMC.pdf"
 			},
 			"AOC RWY 06/24": {
 				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_0624_AOC.pdf",
@@ -1792,6 +1946,10 @@
 			"ADC": {
 				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_ADC.pdf",
 				"filename": "EFTU - ADC.pdf"
+			},
+			"AGMC": {
+				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_AGMC.pdf",
+				"filename": "EFTU - AGMC.pdf"
 			},
 			"AOC RWY 08/26": {
 				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_0826_AOC.pdf",
@@ -1895,9 +2053,25 @@
 				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_0725_AOC.pdf",
 				"filename": "EFUT - AOC RWY 07-25.pdf"
 			},
+			"RNAV SID RWY 07": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_SIDR.pdf",
+				"filename": "EFUT - RNAV SID RWY 07.pdf"
+			},
+			"RNAV SID RWY 25": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_SIDR.pdf",
+				"filename": "EFUT - RNAV SID RWY 25.pdf"
+			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_OMNIDEP.pdf",
 				"filename": "EFUT - OMNIDIRECTIONAL DEPARTURES.pdf"
+			},
+			"RNAV STAR RWY 07": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_STAR.pdf",
+				"filename": "EFUT - RNAV STAR RWY 07.pdf"
+			},
+			"RNAV STAR RWY 25": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_STAR.pdf",
+				"filename": "EFUT - RNAV STAR RWY 25.pdf"
 			},
 			"RNP RWY 07 ": {
 				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_RNP.pdf",
@@ -1938,6 +2112,18 @@
 			"PRD INDEX": {
 				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_PRD_INDEX.pdf",
 				"filename": "EFUT - PRD INDEX.pdf"
+			},
+			"APRONS AND ACFT STANDS": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_APN_STANDS.pdf",
+				"filename": "EFUT - APRONS AND ACFT STANDS.pdf"
+			},
+			"TAXIWAYS": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_TWY.pdf",
+				"filename": "EFUT - TAXIWAYS.pdf"
+			},
+			"FAS DATA BLOCK": {
+				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_FAS_DB.pdf",
+				"filename": "EFUT - FAS DATA BLOCK.pdf"
 			}
 		},
 		"Vaasa : EFVA": {
@@ -1956,6 +2142,14 @@
 			"ATC SMAC": {
 				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_ATCSMAC.pdf",
 				"filename": "EFVA - ATC SMAC.pdf"
+			},
+			"RNAV SID RWY 16": {
+				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_SIDR.pdf",
+				"filename": "EFVA - RNAV SID RWY 16.pdf"
+			},
+			"RNAV SID RWY 34": {
+				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_SIDR.pdf",
+				"filename": "EFVA - RNAV SID RWY 34.pdf"
 			},
 			"OMNIDIRECTIONAL DEPARTURES": {
 				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_OMNIDEP.pdf",
