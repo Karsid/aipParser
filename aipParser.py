@@ -190,8 +190,8 @@ logging.getLogger("aipParser").addHandler(console)
 
 # set up what user agent we want to mimic, as some site block
 # unknown agent types
-header_user_agent="Mozilla/5.0"
-#header_user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30"
+#header_user_agent="Mozilla/5.0"
+header_user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30"
 
 #
 # parse the main BE AIP page to get list of Aerodromes and their
@@ -661,7 +661,7 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
     # loop through all the link tags
     aipPages = {}
     pdfPages = {}
-    type = "AERODROME"
+    type = ""
     for script in html.find_all("script"):
         if ("language" in script.attrs):
             continue
@@ -679,18 +679,34 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
             if ("ItemBegin" == line[:9]):
                 itemBegin = line[10:-2].replace("\", ", ",").replace("\"", "").split(",")
                 itemLink = ""
-                if (int(itemBegin[0]) < 5127):
-                    itemBegin = ""
+                if type in (None, ""):
+                    if itemBegin[2] == "AD 2. Aerodromes":
+                        logger.debug ("Found AERODROME section.")
+                        type = "AERODROME"
+                        continue
+                    else:
+                        itemBegin = ""
+                        continue
+                if itemBegin[2] == "AD 3 Helidromes":
+                    logger.debug ("Found HELIPORT section.")
+                    type = "HELIPORT"
                     continue
-                if (itemBegin[1]):
-                    break
-                code = itemBegin[2][:4]
-                name = itemBegin[2][5:].strip()
+                elif itemBegin[2] in ("AD 4 Other aerodromes", "AD 4. Other aerodromes", "Aerodromes classes 4D"):
+                    logger.debug ("Found OTHER section.")
+                    # not interested in anything not AD 2 or AD 3, so lets stop parsing
+                    itemBegin = ""
+                    type = ""
+                    continue
+                # only interested if its names properly
+                if len(itemBegin[2]) > 4:
+                    if itemBegin[2][4] == ".":
+                        code = itemBegin[2][:4]
+                        name = itemBegin[2][5:].strip()
 
                 # check if this is a valid link we want
                 if (code):
                     aipPages[code] = type, name, ""
-                    logger.debug ("    {0} == {1} == {2}".format(type, code, name))
+                    logger.debug ("  {0} == {1} == {2}".format(type, code, name))
             if ("ItemLink" == line[:8]):
                 if (not itemBegin):
                     continue
