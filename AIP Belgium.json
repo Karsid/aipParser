@@ -1,1414 +1,1418 @@
 {
 	"eBagLib": {
-		"0: Published - 2023-01-26": {
+		"0: Published - 2023-02-23": {
 		},
-		"ANTWERPEN / Deurne : EBAW": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ADC01_v40.pdf",
-				"filename": "EBAW - Aerodrome Chart - ICAO.pdf"
+		"AD 2 AERODROMES": {
+			"ANTWERPEN / Deurne : EBAW": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ADC01_v41.pdf",
+					"filename": "EBAW - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 1: Runway Marking and Lighting Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ADC02_v04.pdf",
+					"filename": "EBAW - Aerodrome Chart - ICAO. Appendix 1: Runway Marking and Lighting Aids.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 2: Hot Spots": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ADC03_v02.pdf",
+					"filename": "EBAW - Aerodrome Chart - ICAO. Appendix 2: Hot Spots.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_AOC01_v09.pdf",
+					"filename": "EBAW - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
+				},
+				"ATC Surveillance Minimum Altitude Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ATCSMAC01_v12.pdf",
+					"filename": "EBAW - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_STAR01_v08.pdf",
+					"filename": "EBAW - Standard Arrival Chart - Instrument - ICAO.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 11": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_SID01_v18.pdf",
+					"filename": "EBAW - Standard Departure Chart - Instrument - ICAO: RWY 11.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_SID02_v18.pdf",
+					"filename": "EBAW - Standard Departure Chart - Instrument - ICAO: RWY 29.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC01_v28.pdf",
+					"filename": "EBAW - Instrument Approach Chart - ICAO: ILS or LOC RWY 29.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 11": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC02_v14.pdf",
+					"filename": "EBAW - Instrument Approach Chart - ICAO: RNP RWY 11.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 11. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC02a_v02.pdf",
+					"filename": "EBAW - Instrument Approach Chart - ICAO: RNP RWY 11. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 11": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC03_v24.pdf",
+					"filename": "EBAW - Instrument Approach Chart - ICAO: VOR RWY 11.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC04_v21.pdf",
+					"filename": "EBAW - Instrument Approach Chart - ICAO: VOR RWY 29.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_VAC01_v21.pdf",
+					"filename": "EBAW - Visual Approach Chart - ICAO.pdf"
+				},
+				"Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_VAC02_v11.pdf",
+					"filename": "EBAW - Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit.pdf"
+				},
+				"Visual Approach Chart - ICAO. Appendix 2: Helicopter Procedures": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_VAC03_v06.pdf",
+					"filename": "EBAW - Visual Approach Chart - ICAO. Appendix 2: Helicopter Procedures.pdf"
+				}
 			},
-			"Aerodrome Chart - ICAO. Appendix 1: Runway Marking and Lighting Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ADC02_v04.pdf",
-				"filename": "EBAW - Aerodrome Chart - ICAO. Appendix 1: Runway Marking and Lighting Aids.pdf"
+			"BRUSSELS / Brussels-National : EBBR": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ADC01_v49.pdf",
+					"filename": "EBBR - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO: Appendix 1: Runway Marking Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ADC02_v18.pdf",
+					"filename": "EBBR - Aerodrome Chart - ICAO: Appendix 1: Runway Marking Aids.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 2: Runway Lighting Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ADC03_v07.pdf",
+					"filename": "EBBR - Aerodrome Chart - ICAO. Appendix 2: Runway Lighting Aids.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC01_v53.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (a)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02a_v28.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (a).pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (b)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02b_v37.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (b).pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (c)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02c_v32.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (c).pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (d)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02d_v05.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (d).pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC03_v14.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 3: Low Visibility Procedures": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC04_v20.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 3: Low Visibility Procedures.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC05_v08.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 5: A380 Ground Movements": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC06a_v15.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 5: A380 Ground Movements.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 6: B747-8/-8F Ground Movements": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC06b_v16.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 6: B747-8--8F Ground Movements.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 7: De-icing": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC07_v11.pdf",
+					"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 7: De-icing.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC01_v70.pdf",
+					"filename": "EBBR - Aircraft Parking Docking Chart - ICAO.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO: Apron 9": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC02_v24.pdf",
+					"filename": "EBBR - Aircraft Parking Docking Chart - ICAO: Apron 9.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO: General Aviation": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC03_v15.pdf",
+					"filename": "EBBR - Aircraft Parking Docking Chart - ICAO: General Aviation.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO: Mil Apron": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC04_v04.pdf",
+					"filename": "EBBR - Aircraft Parking Docking Chart - ICAO: Mil Apron.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 01/19": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC01_v11.pdf",
+					"filename": "EBBR - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 01-19.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07L/25R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC02_v09.pdf",
+					"filename": "EBBR - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07L-25R.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07R/25L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC03_v09.pdf",
+					"filename": "EBBR - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07R-25L.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC04_v06.pdf",
+					"filename": "EBBR - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 25L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_PATC01_v03.pdf",
+					"filename": "EBBR - Precision Approach Terrain Chart - ICAO: RWY 25L.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 25R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_PATC02_v03.pdf",
+					"filename": "EBBR - Precision Approach Terrain Chart - ICAO: RWY 25R.pdf"
+				},
+				"ATC Surveillance Minimum Altitude Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ATCSMAC01_v10.pdf",
+					"filename": "EBBR - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_STAR01_v20.pdf",
+					"filename": "EBBR - Standard Arrival Chart - Instrument - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_STAR02_v12.pdf",
+					"filename": "EBBR - Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 01": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID01_v23.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 01.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 07L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID02a_v10.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07L.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 07L (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID02b_v09.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07L (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 07R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID03a_v10.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07R.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 07R (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID03b_v11.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07R (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 19": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID04a_v11.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 19.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 19 (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID04b_v14.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 19 (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25L (C Departures)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05a_v14.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (C Departures).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25L (D - Q Departures)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05b_v10.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (D - Q Departures).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25L (E - G Departures; RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05c_v12.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (E - G Departures; RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25L (K Departures; RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05d_v10.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (K Departures; RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25R (C Departures)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06a_v12.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (C Departures).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25R (D - Z Departures)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06b_v14.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (D - Z Departures).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25R (G Departures; RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06c_v11.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (G Departures; RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25R (D - K Departures; RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06d_v12.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (D - K Departures; RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 25R (M Departures; RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06e_v11.pdf",
+					"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (M Departures; RNAV1 Overlay).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC a RWY 25R (IAF ANT/KERKY)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC01_v30.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC a RWY 25R (IAF ANT-KERKY).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC b RWY 25R (IAF FLO)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC02_v28.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC b RWY 25R (IAF FLO).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC z RWY 25L (IAF ANT/KERKY)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC03_v28.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC z RWY 25L (IAF ANT-KERKY).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC y RWY 25L (IAF FLO)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC04_v29.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC y RWY 25L (IAF FLO).pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR z RWY 25L (IAF ANT/KERKY)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC05_v27.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: VOR z RWY 25L (IAF ANT-KERKY).pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR y RWY 25L (IAF FLO)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC06_v23.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: VOR y RWY 25L (IAF FLO).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 01": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC07a_v13.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC RWY 01.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 01. Appendix: Alternate routes RWY 01 - on ATC discretion only": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC07b_v13.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC RWY 01. Appendix: Alternate routes RWY 01 - on ATC discretion only.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 07R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC08_v25.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: VOR RWY 07R.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 19": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC09_v25.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC RWY 19.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 07L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC10_v19.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: VOR RWY 07L.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 01": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC11_v11.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 01.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 01. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC11a_v02.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 01. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 25L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC12_v12.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25L.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 25L. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC12a_v02.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25L. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 25R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC13_v11.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25R.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 25R. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC13a_v03.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25R. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 19": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC14_v08.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 19.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 19. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC14a_v02.pdf",
+					"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 19. Appendix: FAS Datablock.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_VAC01_v24.pdf",
+					"filename": "EBBR - Visual Approach Chart - ICAO.pdf"
+				}
 			},
-			"Aerodrome Chart - ICAO. Appendix 2: Hot Spots": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ADC03_v02.pdf",
-				"filename": "EBAW - Aerodrome Chart - ICAO. Appendix 2: Hot Spots.pdf"
+			"CHARLEROI / Brussels South : EBCI": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_ADC01_v26.pdf",
+					"filename": "EBCI - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Light Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_ADC02_v15.pdf",
+					"filename": "EBCI - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Light Aids.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC01_v26.pdf",
+					"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC02_v11.pdf",
+					"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC03_v08.pdf",
+					"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 3: Hot Spots": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC04_v02.pdf",
+					"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO. Appendix 3: Hot Spots.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_AOC01_v11.pdf",
+					"filename": "EBCI - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_PATC01_v03.pdf",
+					"filename": "EBCI - Precision Approach Terrain Chart - ICAO: RWY 24.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_STAR01_v13.pdf",
+					"filename": "EBCI - Standard Arrival Chart - Instrument - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_STAR02_v05.pdf",
+					"filename": "EBCI - Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID01_v18.pdf",
+					"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 06.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID02_v18.pdf",
+					"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 24.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 06 (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID03_v12.pdf",
+					"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 06 (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 24 (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID04_v13.pdf",
+					"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 24 (RNAV1 Overlay).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC01_v26.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: ILS or LOC RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC02-v24.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: VOR RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC03_v26.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: VOR RWY 06.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC04_v15.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 06.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC04a_v04.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC05_v14.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC05a_v04.pdf",
+					"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_VAC01_v19.pdf",
+					"filename": "EBCI - Visual Approach Chart - ICAO.pdf"
+				}
 			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_AOC01_v09.pdf",
-				"filename": "EBAW - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
+			"KORTRIJK / Wevelgem : EBKT": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_ADC01_v23.pdf",
+					"filename": "EBKT - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_ADC02_v07.pdf",
+					"filename": "EBKT - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_GMC01_v03.pdf",
+					"filename": "EBKT - Aerodrome Ground Movement Chart - ICAO.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Movement of Aircraft Greater than Code B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_GMC02_v01.pdf",
+					"filename": "EBKT - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Movement of Aircraft Greater than Code B.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_AOC01_v11.pdf",
+					"filename": "EBKT - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_AOC02_v09.pdf",
+					"filename": "EBKT - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_SID02_v03.pdf",
+					"filename": "EBKT - Standard Departure Chart - Instrument - ICAO: RWY 24.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_SID03_v04.pdf",
+					"filename": "EBKT - Standard Departure Chart - Instrument - ICAO: RWY 06.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_IAC01_v20.pdf",
+					"filename": "EBKT - Instrument Approach Chart - ICAO: RNP RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_IAC01a_v02.pdf",
+					"filename": "EBKT - Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_IAC02_v06.pdf",
+					"filename": "EBKT - Instrument Approach Chart - ICAO: RNP RWY 06.pdf"
+				},
+				"Visual Approach Chart - ICAO: RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_VAC01_v22.pdf",
+					"filename": "EBKT - Visual Approach Chart - ICAO: RWY 06.pdf"
+				},
+				"Visual Approach Chart - ICAO: RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_VAC02_v11.pdf",
+					"filename": "EBKT - Visual Approach Chart - ICAO: RWY 24.pdf"
+				}
 			},
-			"ATC Surveillance Minimum Altitude Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_ATCSMAC01_v12.pdf",
-				"filename": "EBAW - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
+			"LIÈGE / Liège : EBLG": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_ADC01_v39.pdf",
+					"filename": "EBLG - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_ADC02_v16.pdf",
+					"filename": "EBLG - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC01_v32.pdf",
+					"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures (RWY 22L)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC02a_v08.pdf",
+					"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures (RWY 22L).pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Low Visibility Procedures (RWY 04R)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC02b_v08.pdf",
+					"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Low Visibility Procedures (RWY 04R).pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 3: Ground Movement Responsibilities": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC03_v07.pdf",
+					"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 3: Ground Movement Responsibilities.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC04_v06.pdf",
+					"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 5: De-icing Area": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC05_v11.pdf",
+					"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 5: De-icing Area.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04R/22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_AOC01_v12.pdf",
+					"filename": "EBLG - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04R-22L.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04L/22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_AOC02_v09.pdf",
+					"filename": "EBLG - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04L-22R.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 04R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_PATC01_v02.pdf",
+					"filename": "EBLG - Precision Approach Terrain Chart - ICAO: RWY 04R.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_PATC02_v02.pdf",
+					"filename": "EBLG - Precision Approach Terrain Chart - ICAO: RWY 22L.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_PATC03_v02.pdf",
+					"filename": "EBLG - Precision Approach Terrain Chart - ICAO: RWY 22R.pdf"
+				},
+				"ATC Surveillance Minimum Altitude Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_ATCSMAC01_v03.pdf",
+					"filename": "EBLG - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO: ATC discretion only": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR01_v26.pdf",
+					"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO: ATC discretion only.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR02_v21.pdf",
+					"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO: ATC discretion only (RNAV 1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR03_v06.pdf",
+					"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO: ATC discretion only (RNAV 1 Overlay).pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO (RNAV 1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR04_v06.pdf",
+					"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO (RNAV 1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 04L/R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID01_v25.pdf",
+					"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 04L-R.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 22L/R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID02-v24.pdf",
+					"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 22L-R.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 04L/R (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID03-v17.pdf",
+					"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 04L-R (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 22L/R (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID04-v18.pdf",
+					"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 22L-R (RNAV1 Overlay).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC01_v24.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 22L.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC02_v23.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: VOR RWY 22L.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC03_v21.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: ILS or LOC RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT A-B)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC04_v22.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT A-B).pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT C-D)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC05_v22.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT C-D).pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 04R (CAT A-B)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC06_v23.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: VOR RWY 04R (CAT A-B).pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 04R (CAT C-D)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC07_v23.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: VOR RWY 04R (CAT C-D).pdf"
+				},
+				"Instrument Approach Chart - ICAO. RNP RWY 22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC08_v15.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO. RNP RWY 22L.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 22L. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC08a_v02.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 22L. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC09_v15.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 22R. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC09a_v03.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 22R. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC10_v15.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04L.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 04L. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC10a_v03.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04L. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 04R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC11_v14.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04R.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 04R. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC11a_v02.pdf",
+					"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04R. Appendix: FAS Datablock.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_VAC01_v20.pdf",
+					"filename": "EBLG - Visual Approach Chart - ICAO.pdf"
+				}
 			},
-			"Standard Arrival Chart - Instrument - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_STAR01_v08.pdf",
-				"filename": "EBAW - Standard Arrival Chart - Instrument - ICAO.pdf"
+			"LUXEMBOURG / Luxembourg : ELLX": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_ADC01_v44.pdf",
+					"filename": "ELLX - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_ADC02_v19.pdf",
+					"filename": "ELLX - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_GMC01_v41.pdf",
+					"filename": "ELLX - Aerodrome Ground Movement Chart - ICAO.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways and Aprons": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_GMC02_v15.pdf",
+					"filename": "ELLX - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways and Aprons.pdf"
+				},
+				"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Hot Spots": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_GMC03_v23.pdf",
+					"filename": "ELLX - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Hot Spots.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_APDC01_v38.pdf",
+					"filename": "ELLX - Aircraft Parking Docking Chart - ICAO.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO: Apron 5": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_APDC02_v17.pdf",
+					"filename": "ELLX - Aircraft Parking Docking Chart - ICAO: Apron 5.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 06/24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_AOC01_v06.pdf",
+					"filename": "ELLX - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 06-24.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_PATC01_v03.pdf",
+					"filename": "ELLX - Precision Approach Terrain Chart - ICAO: RWY 06.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_PATC02_v03.pdf",
+					"filename": "ELLX - Precision Approach Terrain Chart - ICAO: RWY 24.pdf"
+				},
+				"ATC Surveillance Minimum Altitude Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_ATCSMAC01_v10.pdf",
+					"filename": "ELLX - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO: Holding DIK DVOR/DME": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR01_v34.pdf",
+					"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: Holding DIK DVOR-DME.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO: RNAV ALL RWY": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR02_v35.pdf",
+					"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: RNAV ALL RWY.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR03_v09.pdf",
+					"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 06.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR04_v10.pdf",
+					"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 24.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_SID01_v34.pdf",
+					"filename": "ELLX - Standard Departure Chart - Instrument - ICAO: RWY 06.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_SID02_v36.pdf",
+					"filename": "ELLX - Standard Departure Chart - Instrument - ICAO: RWY 24.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RNAV RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_SID04_v03.pdf",
+					"filename": "ELLX - Standard Departure Chart - Instrument - ICAO: RNAV RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC01_v26.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: ILS or LOC RWY 06.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC02_v26.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 06 IAF DIK": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC03_v26.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: VOR RWY 06 IAF DIK.pdf"
+				},
+				"Instrument Approach Chart - ICAO: VOR RWY 24 IAF DIK": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC04_v25.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: VOR RWY 24 IAF DIK.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 06": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC05_v09.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 06.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC05a_v03.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 24": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC06_v07.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 24.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC06a_v02.pdf",
+					"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_VAC01_v27.pdf",
+					"filename": "ELLX - Visual Approach Chart - ICAO.pdf"
+				},
+				"Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_VAC02_v14.pdf",
+					"filename": "ELLX - Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit.pdf"
+				}
 			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 11": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_SID01_v18.pdf",
-				"filename": "EBAW - Standard Departure Chart - Instrument - ICAO: RWY 11.pdf"
+			"OOSTENDE-BRUGGE / Oostende : EBOS": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_ADC01_v33.pdf",
+					"filename": "EBOS - Aerodrome Chart - ICAO.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_ADC02_v05.pdf",
+					"filename": "EBOS - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
+				},
+				"Aerodrome Chart - ICAO. Appendix 2: Hot Spots": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_ADC03_v03.pdf",
+					"filename": "EBOS - Aerodrome Chart - ICAO. Appendix 2: Hot Spots.pdf"
+				},
+				"Aircraft Parking Docking Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_APDC01_v09.pdf",
+					"filename": "EBOS - Aircraft Parking Docking Chart - ICAO.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_AOC01_v08.pdf",
+					"filename": "EBOS - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_AOC02_v09.pdf",
+					"filename": "EBOS - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 08": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_PATC01.pdf",
+					"filename": "EBOS - Precision Approach Terrain Chart - ICAO: RWY 08.pdf"
+				},
+				"Precision Approach Terrain Chart - ICAO: RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_PATC02.pdf",
+					"filename": "EBOS - Precision Approach Terrain Chart - ICAO: RWY 26.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_STAR01_v17.pdf",
+					"filename": "EBOS - Standard Arrival Chart - Instrument - ICAO.pdf"
+				},
+				"Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_STAR02_v05.pdf",
+					"filename": "EBOS - Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay).pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 08": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_SID01_v21.pdf",
+					"filename": "EBOS - Standard Departure Chart - Instrument - ICAO: RWY 08.pdf"
+				},
+				"Standard Departure Chart - Instrument - ICAO: RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_SID02_v22.pdf",
+					"filename": "EBOS - Standard Departure Chart - Instrument - ICAO: RWY 26.pdf"
+				},
+				"Instrument Approach Chart - ICAO: L RWY 08": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC01_v24.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: L RWY 08.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC02_v23.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: ILS or LOC RWY 26.pdf"
+				},
+				"Instrument Approach Chart - ICAO: NDB RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC03_v24.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: NDB RWY 26.pdf"
+				},
+				"Instrument Approach Chart - ICAO: ILS or LOC RWY 08": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC04_v20.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: ILS or LOC RWY 08.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC05_v06.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 26.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 26. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC05a_v02.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 26. Appendix: FAS Datablock.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 08": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC06_v06.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 08.pdf"
+				},
+				"Instrument Approach Chart - ICAO: RNP RWY 08. Appendix: FAS Datablock": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC06a_v02.pdf",
+					"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 08. Appendix: FAS Datablock.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_VAC01_v22.pdf",
+					"filename": "EBOS - Visual Approach Chart - ICAO.pdf"
+				}
 			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_SID02_v18.pdf",
-				"filename": "EBAW - Standard Departure Chart - Instrument - ICAO: RWY 29.pdf"
+			"BEAUVECHAIN (MIL)  : EBBE": {
+				"Aerodrome chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_ADC_01_en_v13.pdf",
+					"filename": "EBBE - Aerodrome chart.pdf"
+				},
+				"Aerodrome Ground Movement Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_GMC_01_en_v10.pdf",
+					"filename": "EBBE - Aerodrome Ground Movement Chart.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04L/22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_AOC_01_en_v05.pdf",
+					"filename": "EBBE - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04L-22R.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04R/22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_AOC_02_en_v05.pdf",
+					"filename": "EBBE - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04R-22L.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_AOC_03_en_v02.pdf",
+					"filename": "EBBE - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BE 04A - 04B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_01_en_v10.pdf",
+					"filename": "EBBE - Instrument Departure Chart - MIPS: HPMA BE 04A - 04B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BE 22A - 22B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_02_en_v10.pdf",
+					"filename": "EBBE - Instrument Departure Chart - MIPS: HPMA BE 22A - 22B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: BE 04C - 22C": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_03_en_v09.pdf",
+					"filename": "EBBE - Instrument Departure Chart - MIPS: BE 04C - 22C.pdf"
+				},
+				"Instrument Departure Chart - MIPS: BE 04D - 22D": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_04_en_v11.pdf",
+					"filename": "EBBE - Instrument Departure Chart - MIPS: BE 04D - 22D.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BE 04E - 22E": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_05_en_v12.pdf",
+					"filename": "EBBE - Instrument Departure Chart - MIPS: HPMA BE 04E - 22E.pdf"
+				},
+				"Minimum Vectoring Altitude - MIPS: MVA CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_MISC_01_en_v08.pdf",
+					"filename": "EBBE - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
+				},
+				"Approach Surveillance Radar - MIPS: ASR CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_MISC_02_en_v04.pdf",
+					"filename": "EBBE - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
+				},
+				"Standard Arrival Chart - MIPS: HPMA STAR TAC RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_STAR_01_en_v09.pdf",
+					"filename": "EBBE - Standard Arrival Chart - MIPS: HPMA STAR TAC RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_01_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: HPMA TACAN RWY 04L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_02_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: HPMA TACAN RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS x RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_03_en_v14.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: ILS x RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS y RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_04_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: ILS y RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS z RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_05_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: ILS z RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS y RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_06_en_v12.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: ILS y RWY 04L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS z RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_07_en_v11.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: ILS z RWY 04L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN y RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_08_en_v12.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN y RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN z RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_09_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN z RWY 22R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN y RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_10_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN y RWY 04L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN z RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_11_en_v11.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN z RWY 04L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_12_en_v14.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN RWY 22L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 04R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_13_en_v14.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN RWY 04R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 22R (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_14_en_v14.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 22R (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 04L (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_15_en_v14.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 04L (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 22L (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_16_en_v13.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 22L (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 04R (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_17_en_v11.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 04R (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_19_en_v03.pdf",
+					"filename": "EBBE - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
+				},
+				"Visual Approach Chart: JET RWY 04L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_01_en_v11.pdf",
+					"filename": "EBBE - Visual Approach Chart: JET RWY 04L.pdf"
+				},
+				"Visual Approach Chart: JET RWY 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_02_en_v11.pdf",
+					"filename": "EBBE - Visual Approach Chart: JET RWY 22R.pdf"
+				},
+				"Visual Approach Chart: PROP RWY 04R - 22L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_03_en_v09.pdf",
+					"filename": "EBBE - Visual Approach Chart: PROP RWY 04R - 22L.pdf"
+				},
+				"Visual Approach Chart: HEL RWY 04L - 22R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_04_en_v11.pdf",
+					"filename": "EBBE - Visual Approach Chart: HEL RWY 04L - 22R.pdf"
+				}
 			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC01_v27.pdf",
-				"filename": "EBAW - Instrument Approach Chart - ICAO: ILS or LOC RWY 29.pdf"
+			"CHIÈVRES (MIL)  : EBCV": {
+				"Aerodrome Ground Movement Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_GMC_01_en_v01.pdf",
+					"filename": "EBCV - Aerodrome Ground Movement Chart.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS or LOC RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_01_en_v08.pdf",
+					"filename": "EBCV - Instrument Approach Chart - MIPS: ILS or LOC RWY 26.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_02_en_v08.pdf",
+					"filename": "EBCV - Instrument Approach Chart - MIPS: TACAN RWY 26.pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 26 (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_03_en_v08.pdf",
+					"filename": "EBCV - Instrument Approach Chart - MIPS: RNP RWY 26 (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_04_en_v01.pdf",
+					"filename": "EBCV - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
+				}
 			},
-			"Instrument Approach Chart - ICAO: RNP RWY 11": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC02_v13.pdf",
-				"filename": "EBAW - Instrument Approach Chart - ICAO: RNP RWY 11.pdf"
+			"FLORENNES (MIL) : EBFS": {
+				"Aerodrome Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_ADC_01_en_v22.pdf",
+					"filename": "EBFS - Aerodrome Chart.pdf"
+				},
+				"Aerodrome Ground Movement Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_GMC_01_en_v13.pdf",
+					"filename": "EBFS - Aerodrome Ground Movement Chart.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08L/26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_AOC_01_v07.pdf",
+					"filename": "EBFS - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08L-26R.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08R/26L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_AOC_02_v07.pdf",
+					"filename": "EBFS - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08R-26L.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_AOC_03_v06.pdf",
+					"filename": "EBFS - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: FS 08A - 26A": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_01_en_v10.pdf",
+					"filename": "EBFS - Instrument Departure Chart - MIPS: FS 08A - 26A.pdf"
+				},
+				"Instrument Departure Chart - MIPS: FS 08B - 26B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_02_en_v10.pdf",
+					"filename": "EBFS - Instrument Departure Chart - MIPS: FS 08B - 26B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: FS 08C - 26C": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_03_en_v10.pdf",
+					"filename": "EBFS - Instrument Departure Chart - MIPS: FS 08C - 26C.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA FS 08D - 08E": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_04_en_v11.pdf",
+					"filename": "EBFS - Instrument Departure Chart - MIPS: HPMA FS 08D - 08E.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA FS 26D - 26E": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_05_en_v11.pdf",
+					"filename": "EBFS - Instrument Departure Chart - MIPS: HPMA FS 26D - 26E.pdf"
+				},
+				"Minimum Vectoring Altitude - MIPS: MVA CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_MISC_01_en_v16.pdf",
+					"filename": "EBFS - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
+				},
+				"Approach Surveillance Radar - MIPS: ASR CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_MISC_02_en_v09.pdf",
+					"filename": "EBFS - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA ILS RWY 26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_01_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA ILS RWY 26R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA ILS RWY 08L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_02_en_v14.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA ILS RWY 08L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_03_en_v14.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 26R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 26L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_04_en_v14.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 26L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 08L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_05_en_v12.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 08L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 08R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_06_en_v11.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 08R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS RWY 26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_07_en_v12.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: ILS RWY 26R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS RWY 08L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_08_en_v14.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: ILS RWY 08L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_09_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 26R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 26L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_10_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 26L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 08L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_11_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 08L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 08R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_12_en_v14.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 08R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_13_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 26R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 08L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_14_en_v12.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 08L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_15_en_v12.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_16_en_v11.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_17_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_18_en_v15.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 26R (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_19_en_v13.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 26R (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 08L (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_20_en_v10.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 08L (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 26L (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_21_en_v03.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 26L (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 08R (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_22_en_v04.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 08R (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_24_en_v06.pdf",
+					"filename": "EBFS - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
+				},
+				"Visual Approach Chart: JET RWY 08 - 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_01_en_v09.pdf",
+					"filename": "EBFS - Visual Approach Chart: JET RWY 08 - 26.pdf"
+				},
+				"Visual Approach Chart: PROP RWY 08 - 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_02_en_v10.pdf",
+					"filename": "EBFS - Visual Approach Chart: PROP RWY 08 - 26.pdf"
+				},
+				"Visual Approach Chart: DEP RWY 08 - 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_03_en_v07.pdf",
+					"filename": "EBFS - Visual Approach Chart: DEP RWY 08 - 26.pdf"
+				},
+				"Visual Approach Chart: HEL RWY 08 - 26": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_04_en_v07.pdf",
+					"filename": "EBFS - Visual Approach Chart: HEL RWY 08 - 26.pdf"
+				}
 			},
-			"Instrument Approach Chart - ICAO: RNP RWY 11. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC02a_v02.pdf",
-				"filename": "EBAW - Instrument Approach Chart - ICAO: RNP RWY 11. Appendix: FAS Datablock.pdf"
+			"KLEINE-BROGEL (MIL) : EBBL": {
+				"Aerodrome Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_ADC_01_en_v16.pdf",
+					"filename": "EBBL - Aerodrome Chart.pdf"
+				},
+				"Aerodrome Ground Movement Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_GMC_01_en_v16.pdf",
+					"filename": "EBBL - Aerodrome Ground Movement Chart.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05L/23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_AOC_01_en_v08.pdf",
+					"filename": "EBBL - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05L-23R.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05R/23L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_AOC_02_en_v08.pdf",
+					"filename": "EBBL - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05R-23L.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_AOC_03_en_v07.pdf",
+					"filename": "EBBL - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BL 05A - 05B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_01_en_v11.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 05A - 05B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: BL 05A - 05B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_02_en_v11.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: BL 05A - 05B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BL 23A - 23B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_03_en_v13.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 23A - 23B.pdf"
+				},
+				"National Corridor EBBL to TSA 24, 25 & 26: REMBA CORRIDOR SB or NB": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_04_en_v09.pdf",
+					"filename": "EBBL - National Corridor EBBL to TSA 24, 25 & 26: REMBA CORRIDOR SB or NB.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BL 05C - 23C": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_05_en_v13.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 05C - 23C.pdf"
+				},
+				"National Corridor TRA South to EBBL: LIEGE CORRIDOR SB or NB": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_06_en_v11.pdf",
+					"filename": "EBBL - National Corridor TRA South to EBBL: LIEGE CORRIDOR SB or NB.pdf"
+				},
+				"Instrument Departure Chart - MIPS: BL 05D - 23D": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_07_en_v13.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: BL 05D - 23D.pdf"
+				},
+				"National Corridor EBBL to TSA 24, 25 & 26: SINT-TRUIDEN CORRIDOR": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_08_en_v10.pdf",
+					"filename": "EBBL - National Corridor EBBL to TSA 24, 25 & 26: SINT-TRUIDEN CORRIDOR.pdf"
+				},
+				"Instrument Departure Chart - MIPS: HPMA BL 05E - 23E": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_09_en_v14.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 05E - 23E.pdf"
+				},
+				"Instrument Departure Chart - MIPS: BL 23F": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_10_en_v15.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: BL 23F.pdf"
+				},
+				"Instrument Departure Chart - MIPS: PAMPA": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_11_en_v03.pdf",
+					"filename": "EBBL - Instrument Departure Chart - MIPS: PAMPA.pdf"
+				},
+				"Minimum Vectoring Altitude - MIPS: MVA CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_MISC_01_en_v12.pdf",
+					"filename": "EBBL - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
+				},
+				"Approach Surveillance Radar - MIPS: ASR CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_MISC_02_en_v06.pdf",
+					"filename": "EBBL - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA ILS RWY 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_01_en_v18.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA ILS RWY 23R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA ILS RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_02_en_v17.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA ILS RWY 05L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_03_en_v17.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 23R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_04_en_v17.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 05L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 23L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_05_en_v15.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 23L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 05R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_06_en_v18.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 05R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS RWY 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_07_en_v16.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: ILS RWY 23R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: ILS RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_08_en_v14.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: ILS RWY 05L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_09_en_v17.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY 23R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_10_en_v15.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY 05L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 23L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_11_en_v18.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY 23L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY  05R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_12_en_v15.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY  05R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_13_en_v16.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 23R.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_14_en_v15.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 05L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_15_en_v14.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 05L.pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 23R (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_16_en_v01.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: RNP RWY 23R (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP RWY 05L (LNAV)": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_17_en_v01.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: RNP RWY 05L (LNAV).pdf"
+				},
+				"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_18_en_v01.pdf",
+					"filename": "EBBL - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
+				},
+				"Visual Departure Chart: DEP - RWY 05L": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_VAC_01_en_v11.pdf",
+					"filename": "EBBL - Visual Departure Chart: DEP - RWY 05L.pdf"
+				},
+				"Visual Departure Chart: DEP - RWY 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_VAC_02_en_v11.pdf",
+					"filename": "EBBL - Visual Departure Chart: DEP - RWY 23R.pdf"
+				},
+				"Visual Approach Chart: APP RWY 05L - 23R": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_VAC_03_en_v11.pdf",
+					"filename": "EBBL - Visual Approach Chart: APP RWY 05L - 23R.pdf"
+				}
 			},
-			"Instrument Approach Chart - ICAO: VOR RWY 11": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC03_v24.pdf",
-				"filename": "EBAW - Instrument Approach Chart - ICAO: VOR RWY 11.pdf"
+			"KOKSIJDE (MIL) : EBFN": {
+				"Aerodrome Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_ADC_01_en_v14.pdf",
+					"filename": "EBFN - Aerodrome Chart.pdf"
+				},
+				"Aerodrome Ground Movement Chart": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_GMC_01_en_v08.pdf",
+					"filename": "EBFN - Aerodrome Ground Movement Chart.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 11/29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/AD_2_EBFN_AOC_01_v02.pdf",
+					"filename": "EBFN - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 11-29.pdf"
+				},
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/AD_2_EBFN_AOC_02_v01.pdf",
+					"filename": "EBFN - Aerodrome Obstacle Chart. Type B.pdf"
+				},
+				"Instrument Departure Chart - MIPS: FN 11 - 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_SID_01_en_v16.pdf",
+					"filename": "EBFN - Instrument Departure Chart - MIPS: FN 11 - 29.pdf"
+				},
+				"Instrument Departure Chart - MIPS: FN 11 - 29 COPTER": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_SID_02_en_v16.pdf",
+					"filename": "EBFN - Instrument Departure Chart - MIPS: FN 11 - 29 COPTER.pdf"
+				},
+				"Minimum Vectoring Altitude - MIPS: MVA CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_MISC_01_en_v11.pdf",
+					"filename": "EBFN - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
+				},
+				"Approach Surveillance Radar - MIPS: ASR CHART": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_MISC_02_en_v05.pdf",
+					"filename": "EBFN - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
+				},
+				"Instrument Approach Chart - MIPS: HPMA TACAN RWY 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_IAC_01_en_v16.pdf",
+					"filename": "EBFN - Instrument Approach Chart - MIPS: HPMA TACAN RWY 29.pdf"
+				},
+				"Instrument Approach Chart - MIPS: TACAN RWY 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_IAC_02_en_v17.pdf",
+					"filename": "EBFN - Instrument Approach Chart - MIPS: TACAN RWY 29.pdf"
+				},
+				"Instrument Approach Chart - MIPS: VOR RWY 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_IAC_03_en_v16.pdf",
+					"filename": "EBFN - Instrument Approach Chart - MIPS: VOR RWY 29.pdf"
+				},
+				"Visual Approach Chart: JET RWY 11 - 29": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_VAC_01_en_v12.pdf",
+					"filename": "EBFN - Visual Approach Chart: JET RWY 11 - 29.pdf"
+				},
+				"Visual Approach Chart: HEL": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_VAC_02_en_v12.pdf",
+					"filename": "EBFN - Visual Approach Chart: HEL.pdf"
+				}
 			},
-			"Instrument Approach Chart - ICAO: VOR RWY 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_IAC04_v21.pdf",
-				"filename": "EBAW - Instrument Approach Chart - ICAO: VOR RWY 29.pdf"
+			"SAINT-HUBERT (MIL) : EBSU": {
+				"Aerodrome Obstacle Chart. Type B": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/AD_2_EBSU_AOC.01_v04.pdf",
+					"filename": "EBSU - Aerodrome Obstacle Chart. Type B.pdf"
+				}
 			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_VAC01_v21.pdf",
-				"filename": "EBAW - Visual Approach Chart - ICAO.pdf"
+			"BALEN / Keiheuvel : EBKH": {
+				"Aerodrome Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKH_ADC01_v01.pdf",
+					"filename": "EBKH - Aerodrome Chart - ICAO.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKH_VAC01_v03.pdf",
+					"filename": "EBKH - Visual Approach Chart - ICAO.pdf"
+				}
 			},
-			"Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_VAC02_v11.pdf",
-				"filename": "EBAW - Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit.pdf"
+			"GRIMBERGEN / Lint : EBGB": {
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBGB_VAC01_v10.pdf",
+					"filename": "EBGB - Visual Approach Chart - ICAO.pdf"
+				}
 			},
-			"Visual Approach Chart - ICAO. Appendix 2: Helicopter Procedures": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBAW_VAC03_v06.pdf",
-				"filename": "EBAW - Visual Approach Chart - ICAO. Appendix 2: Helicopter Procedures.pdf"
-			}
+			"SINT-TRUIDEN / Brustem : EBST": {
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBST_VAC01_v09.pdf",
+					"filename": "EBST - Visual Approach Chart - ICAO.pdf"
+				}
+			},
+			"SPA / La Sauvenière : EBSP": {
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBSP_VAC01_v11.pdf",
+					"filename": "EBSP - Visual Approach Chart - ICAO.pdf"
+				}
+			},
 		},
-		"BRUSSELS / Brussels-National : EBBR": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ADC01_v49.pdf",
-				"filename": "EBBR - Aerodrome Chart - ICAO.pdf"
+		"AD 3 HELIPORT": {
+			"CASTEAU / SHAPE (MIL)  : EBCT": {
+				"Visual Chart - Heli: VIS HELI": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_3_EBCT_VAC_01_en_v04.pdf",
+					"filename": "EBCT - Visual Chart - Heli: VIS HELI.pdf"
+				},
+				"Visual Chart - Heli: APP DEP HELI": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_3_EBCT_VAC_02_en_v04.pdf",
+					"filename": "EBCT - Visual Chart - Heli: APP DEP HELI.pdf"
+				}
+			},
+			"ESCH-SUR-ALZETTE / Centre Hospitalier Emile Mayrisch : ELEA": {
+				"Heliport Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELEA_ADC01_v04.pdf",
+					"filename": "ELEA - Heliport Chart - ICAO.pdf"
+				}
+			},
+			"LUXEMBOURG / Centre Hospitalier de Luxembourg (CHL) : ELLC": {
+				"Heliport Chart - ICAO": {
+					"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLC_ADC01_v05.pdf",
+					"filename": "ELLC - Heliport Chart - ICAO.pdf"
+				}
 			},
-			"Aerodrome Chart - ICAO: Appendix 1: Runway Marking Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ADC02_v18.pdf",
-				"filename": "EBBR - Aerodrome Chart - ICAO: Appendix 1: Runway Marking Aids.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 2: Runway Lighting Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ADC03_v07.pdf",
-				"filename": "EBBR - Aerodrome Chart - ICAO. Appendix 2: Runway Lighting Aids.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC01_v53.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (a)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02a_v28.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (a).pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (b)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02b_v37.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (b).pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (c)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02c_v32.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (c).pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (d)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC02d_v05.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways, Aircraft Stand Taxi Lanes and Holding Platforms (d).pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC03_v14.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 3: Low Visibility Procedures": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC04_v20.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 3: Low Visibility Procedures.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC05_v08.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 5: A380 Ground Movements": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC06a_v15.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 5: A380 Ground Movements.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 6: B747-8/-8F Ground Movements": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC06b_v16.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 6: B747-8--8F Ground Movements.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 7: De-icing": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_GMC07_v11.pdf",
-				"filename": "EBBR - Aerodrome Ground Movement Chart - ICAO. Appendix 7: De-icing.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC01_v70.pdf",
-				"filename": "EBBR - Aircraft Parking Docking Chart - ICAO.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO: Apron 9": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC02_v24.pdf",
-				"filename": "EBBR - Aircraft Parking Docking Chart - ICAO: Apron 9.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO: General Aviation": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC03_v15.pdf",
-				"filename": "EBBR - Aircraft Parking Docking Chart - ICAO: General Aviation.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO: Mil Apron": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_APDC04_v04.pdf",
-				"filename": "EBBR - Aircraft Parking Docking Chart - ICAO: Mil Apron.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 01/19": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC01_v11.pdf",
-				"filename": "EBBR - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 01-19.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07L/25R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC02_v09.pdf",
-				"filename": "EBBR - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07L-25R.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07R/25L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC03_v09.pdf",
-				"filename": "EBBR - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 07R-25L.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_AOC04_v06.pdf",
-				"filename": "EBBR - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 25L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_PATC01_v03.pdf",
-				"filename": "EBBR - Precision Approach Terrain Chart - ICAO: RWY 25L.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 25R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_PATC02_v03.pdf",
-				"filename": "EBBR - Precision Approach Terrain Chart - ICAO: RWY 25R.pdf"
-			},
-			"ATC Surveillance Minimum Altitude Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_ATCSMAC01_v10.pdf",
-				"filename": "EBBR - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_STAR01_v20.pdf",
-				"filename": "EBBR - Standard Arrival Chart - Instrument - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_STAR02_v12.pdf",
-				"filename": "EBBR - Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 01": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID01_v23.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 01.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 07L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID02a_v10.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07L.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 07L (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID02b_v09.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07L (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 07R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID03a_v10.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07R.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 07R (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID03b_v11.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 07R (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 19": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID04a_v11.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 19.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 19 (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID04b_v14.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 19 (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25L (C Departures)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05a_v14.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (C Departures).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25L (D - Q Departures)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05b_v10.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (D - Q Departures).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25L (E - G Departures; RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05c_v12.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (E - G Departures; RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25L (K Departures; RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID05d_v10.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25L (K Departures; RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25R (C Departures)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06a_v12.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (C Departures).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25R (D - Z Departures)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06b_v14.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (D - Z Departures).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25R (G Departures; RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06c_v11.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (G Departures; RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25R (D - K Departures; RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06d_v12.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (D - K Departures; RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 25R (M Departures; RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_SID06e_v11.pdf",
-				"filename": "EBBR - Standard Departure Chart - Instrument - ICAO: RWY 25R (M Departures; RNAV1 Overlay).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC a RWY 25R (IAF ANT/KERKY)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC01_v30.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC a RWY 25R (IAF ANT-KERKY).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC b RWY 25R (IAF FLO)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC02_v28.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC b RWY 25R (IAF FLO).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC z RWY 25L (IAF ANT/KERKY)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC03_v28.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC z RWY 25L (IAF ANT-KERKY).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC y RWY 25L (IAF FLO)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC04_v29.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC y RWY 25L (IAF FLO).pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR z RWY 25L (IAF ANT/KERKY)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC05_v27.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: VOR z RWY 25L (IAF ANT-KERKY).pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR y RWY 25L (IAF FLO)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC06_v23.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: VOR y RWY 25L (IAF FLO).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 01": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC07a_v13.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC RWY 01.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 01. Appendix: Alternate routes RWY 01 - on ATC discretion only": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC07b_v13.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC RWY 01. Appendix: Alternate routes RWY 01 - on ATC discretion only.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 07R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC08_v25.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: VOR RWY 07R.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 19": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC09_v25.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: ILS or LOC RWY 19.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 07L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC10_v19.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: VOR RWY 07L.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 01": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC11_v11.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 01.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 01. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC11a_v02.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 01. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 25L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC12_v12.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25L.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 25L. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC12a_v02.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25L. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 25R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC13_v11.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25R.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 25R. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC13a_v03.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 25R. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 19": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC14_v08.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 19.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 19. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_IAC14a_v02.pdf",
-				"filename": "EBBR - Instrument Approach Chart - ICAO: RNP RWY 19. Appendix: FAS Datablock.pdf"
-			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBBR_VAC01_v24.pdf",
-				"filename": "EBBR - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"CHARLEROI / Brussels South : EBCI": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_ADC01_v26.pdf",
-				"filename": "EBCI - Aerodrome Chart - ICAO.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Light Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_ADC02_v15.pdf",
-				"filename": "EBCI - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Light Aids.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC01_v26.pdf",
-				"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC02_v11.pdf",
-				"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC03_v08.pdf",
-				"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Ground Movement Responsibilities.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 3: Hot Spots": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_GMC04_v02.pdf",
-				"filename": "EBCI - Aerodrome Ground Movement Chart - ICAO. Appendix 3: Hot Spots.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_AOC01_v11.pdf",
-				"filename": "EBCI - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_PATC01_v03.pdf",
-				"filename": "EBCI - Precision Approach Terrain Chart - ICAO: RWY 24.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_STAR01_v13.pdf",
-				"filename": "EBCI - Standard Arrival Chart - Instrument - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_STAR02_v05.pdf",
-				"filename": "EBCI - Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID01_v18.pdf",
-				"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 06.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID02_v18.pdf",
-				"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 24.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 06 (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID03_v12.pdf",
-				"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 06 (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 24 (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_SID04_v13.pdf",
-				"filename": "EBCI - Standard Departure Chart - Instrument - ICAO: RWY 24 (RNAV1 Overlay).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC01_v26.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: ILS or LOC RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC02-v24.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: VOR RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC03_v26.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: VOR RWY 06.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC04_v14.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 06.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC04a_v04.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC05_v14.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_IAC05a_v04.pdf",
-				"filename": "EBCI - Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock.pdf"
-			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBCI_VAC01_v19.pdf",
-				"filename": "EBCI - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"KORTRIJK / Wevelgem : EBKT": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_ADC01_v23.pdf",
-				"filename": "EBKT - Aerodrome Chart - ICAO.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_ADC02_v07.pdf",
-				"filename": "EBKT - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_GMC01_v03.pdf",
-				"filename": "EBKT - Aerodrome Ground Movement Chart - ICAO.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Movement of Aircraft Greater than Code B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_GMC02_v01.pdf",
-				"filename": "EBKT - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Movement of Aircraft Greater than Code B.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_AOC01_v11.pdf",
-				"filename": "EBKT - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_AOC02_v09.pdf",
-				"filename": "EBKT - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_SID02_v03.pdf",
-				"filename": "EBKT - Standard Departure Chart - Instrument - ICAO: RWY 24.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_SID03_v04.pdf",
-				"filename": "EBKT - Standard Departure Chart - Instrument - ICAO: RWY 06.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_IAC01_v20.pdf",
-				"filename": "EBKT - Instrument Approach Chart - ICAO: RNP RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_IAC01a_v02.pdf",
-				"filename": "EBKT - Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_IAC02_v06.pdf",
-				"filename": "EBKT - Instrument Approach Chart - ICAO: RNP RWY 06.pdf"
-			},
-			"Visual Approach Chart - ICAO: RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_VAC01_v22.pdf",
-				"filename": "EBKT - Visual Approach Chart - ICAO: RWY 06.pdf"
-			},
-			"Visual Approach Chart - ICAO: RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKT_VAC02_v11.pdf",
-				"filename": "EBKT - Visual Approach Chart - ICAO: RWY 24.pdf"
-			}
-		},
-		"LIÈGE / Liège : EBLG": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_ADC01_v39.pdf",
-				"filename": "EBLG - Aerodrome Chart - ICAO.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_ADC02_v16.pdf",
-				"filename": "EBLG - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC01_v32.pdf",
-				"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures (RWY 22L)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC02a_v08.pdf",
-				"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Low Visibility Procedures (RWY 22L).pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Low Visibility Procedures (RWY 04R)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC02b_v08.pdf",
-				"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Low Visibility Procedures (RWY 04R).pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 3: Ground Movement Responsibilities": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC03_v07.pdf",
-				"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 3: Ground Movement Responsibilities.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC04_v06.pdf",
-				"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 4: Hot Spots.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 5: De-icing Area": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_GMC05_v11.pdf",
-				"filename": "EBLG - Aerodrome Ground Movement Chart - ICAO. Appendix 5: De-icing Area.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04R/22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_AOC01_v12.pdf",
-				"filename": "EBLG - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04R-22L.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04L/22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_AOC02_v09.pdf",
-				"filename": "EBLG - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 04L-22R.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 04R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_PATC01_v02.pdf",
-				"filename": "EBLG - Precision Approach Terrain Chart - ICAO: RWY 04R.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_PATC02_v02.pdf",
-				"filename": "EBLG - Precision Approach Terrain Chart - ICAO: RWY 22L.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_PATC03_v02.pdf",
-				"filename": "EBLG - Precision Approach Terrain Chart - ICAO: RWY 22R.pdf"
-			},
-			"ATC Surveillance Minimum Altitude Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_ATCSMAC01_v03.pdf",
-				"filename": "EBLG - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO: ATC discretion only": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR01_v26.pdf",
-				"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO: ATC discretion only.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR02_v21.pdf",
-				"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO: ATC discretion only (RNAV 1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR03_v06.pdf",
-				"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO: ATC discretion only (RNAV 1 Overlay).pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO (RNAV 1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_STAR04_v06.pdf",
-				"filename": "EBLG - Standard Arrival Chart - Instrument - ICAO (RNAV 1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 04L/R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID01_v25.pdf",
-				"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 04L-R.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 22L/R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID02-v24.pdf",
-				"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 22L-R.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 04L/R (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID03-v17.pdf",
-				"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 04L-R (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 22L/R (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_SID04-v18.pdf",
-				"filename": "EBLG - Standard Departure Chart - Instrument - ICAO: RWY 22L-R (RNAV1 Overlay).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC01_v24.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 22L.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC02_v23.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: VOR RWY 22L.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC03_v21.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: ILS or LOC RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT A-B)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC04_v22.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT A-B).pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT C-D)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC05_v22.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: ILS or LOC RWY 04R (CAT C-D).pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 04R (CAT A-B)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC06_v23.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: VOR RWY 04R (CAT A-B).pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 04R (CAT C-D)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC07_v23.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: VOR RWY 04R (CAT C-D).pdf"
-			},
-			"Instrument Approach Chart - ICAO. RNP RWY 22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC08_v15.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO. RNP RWY 22L.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 22L. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC08a_v02.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 22L. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC09_v15.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 22R. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC09a_v03.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 22R. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC10_v15.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04L.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 04L. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC10a_v03.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04L. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 04R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC11_v14.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04R.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 04R. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_IAC11a_v02.pdf",
-				"filename": "EBLG - Instrument Approach Chart - ICAO: RNP RWY 04R. Appendix: FAS Datablock.pdf"
-			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBLG_VAC01_v20.pdf",
-				"filename": "EBLG - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"LUXEMBOURG / Luxembourg : ELLX": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_ADC01_v43.pdf",
-				"filename": "ELLX - Aerodrome Chart - ICAO.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_ADC02_v19.pdf",
-				"filename": "ELLX - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_GMC01_v41.pdf",
-				"filename": "ELLX - Aerodrome Ground Movement Chart - ICAO.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways and Aprons": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_GMC02_v15.pdf",
-				"filename": "ELLX - Aerodrome Ground Movement Chart - ICAO. Appendix 1: Taxiways and Aprons.pdf"
-			},
-			"Aerodrome Ground Movement Chart - ICAO. Appendix 2: Hot Spots": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_GMC03_v23.pdf",
-				"filename": "ELLX - Aerodrome Ground Movement Chart - ICAO. Appendix 2: Hot Spots.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_APDC01_v38.pdf",
-				"filename": "ELLX - Aircraft Parking Docking Chart - ICAO.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO: Apron 5": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_APDC02_v17.pdf",
-				"filename": "ELLX - Aircraft Parking Docking Chart - ICAO: Apron 5.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 06/24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_AOC01_v06.pdf",
-				"filename": "ELLX - Aerodrome Obstacle Chart. Type A (Operating Limitations): RWY 06-24.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_PATC01_v03.pdf",
-				"filename": "ELLX - Precision Approach Terrain Chart - ICAO: RWY 06.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_PATC02_v03.pdf",
-				"filename": "ELLX - Precision Approach Terrain Chart - ICAO: RWY 24.pdf"
-			},
-			"ATC Surveillance Minimum Altitude Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_ATCSMAC01_v10.pdf",
-				"filename": "ELLX - ATC Surveillance Minimum Altitude Chart - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO: Holding DIK DVOR/DME": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR01_v34.pdf",
-				"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: Holding DIK DVOR-DME.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO: RNAV ALL RWY": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR02_v35.pdf",
-				"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: RNAV ALL RWY.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR03_v09.pdf",
-				"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 06.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_STAR04_v10.pdf",
-				"filename": "ELLX - Standard Arrival Chart - Instrument - ICAO: RNAV TRANSITION TO RWY 24.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_SID01_v34.pdf",
-				"filename": "ELLX - Standard Departure Chart - Instrument - ICAO: RWY 06.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_SID02_v36.pdf",
-				"filename": "ELLX - Standard Departure Chart - Instrument - ICAO: RWY 24.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RNAV RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_SID04_v03.pdf",
-				"filename": "ELLX - Standard Departure Chart - Instrument - ICAO: RNAV RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC01_v26.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: ILS or LOC RWY 06.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC02_v26.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: ILS CAT II & III or LOC RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 06 IAF DIK": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC03_v26.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: VOR RWY 06 IAF DIK.pdf"
-			},
-			"Instrument Approach Chart - ICAO: VOR RWY 24 IAF DIK": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC04_v25.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: VOR RWY 24 IAF DIK.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 06": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC05_v09.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 06.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC05a_v02.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 06. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 24": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC06_v07.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 24.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_IAC06a_v01.pdf",
-				"filename": "ELLX - Instrument Approach Chart - ICAO: RNP RWY 24. Appendix: FAS Datablock.pdf"
-			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_VAC01_v27.pdf",
-				"filename": "ELLX - Visual Approach Chart - ICAO.pdf"
-			},
-			"Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLX_VAC02_v14.pdf",
-				"filename": "ELLX - Visual Approach Chart - ICAO. Appendix 1: Aerodrome Traffic Circuit.pdf"
-			}
-		},
-		"OOSTENDE-BRUGGE / Oostende : EBOS": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_ADC01_v33.pdf",
-				"filename": "EBOS - Aerodrome Chart - ICAO.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_ADC02_v05.pdf",
-				"filename": "EBOS - Aerodrome Chart - ICAO. Appendix 1: Runway Markings and Lighting Aids.pdf"
-			},
-			"Aerodrome Chart - ICAO. Appendix 2: Hot Spots": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_ADC03_v03.pdf",
-				"filename": "EBOS - Aerodrome Chart - ICAO. Appendix 2: Hot Spots.pdf"
-			},
-			"Aircraft Parking Docking Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_APDC01_v09.pdf",
-				"filename": "EBOS - Aircraft Parking Docking Chart - ICAO.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_AOC01_v08.pdf",
-				"filename": "EBOS - Aerodrome Obstacle Chart. Type A (Operating Limitations).pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_AOC02_v09.pdf",
-				"filename": "EBOS - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 08": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_PATC01.pdf",
-				"filename": "EBOS - Precision Approach Terrain Chart - ICAO: RWY 08.pdf"
-			},
-			"Precision Approach Terrain Chart - ICAO: RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_PATC02.pdf",
-				"filename": "EBOS - Precision Approach Terrain Chart - ICAO: RWY 26.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_STAR01_v17.pdf",
-				"filename": "EBOS - Standard Arrival Chart - Instrument - ICAO.pdf"
-			},
-			"Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_STAR02_v05.pdf",
-				"filename": "EBOS - Standard Arrival Chart - Instrument - ICAO (RNAV1 Overlay).pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 08": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_SID01_v21.pdf",
-				"filename": "EBOS - Standard Departure Chart - Instrument - ICAO: RWY 08.pdf"
-			},
-			"Standard Departure Chart - Instrument - ICAO: RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_SID02_v22.pdf",
-				"filename": "EBOS - Standard Departure Chart - Instrument - ICAO: RWY 26.pdf"
-			},
-			"Instrument Approach Chart - ICAO: L RWY 08": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC01_v24.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: L RWY 08.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC02_v23.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: ILS or LOC RWY 26.pdf"
-			},
-			"Instrument Approach Chart - ICAO: NDB RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC03_v24.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: NDB RWY 26.pdf"
-			},
-			"Instrument Approach Chart - ICAO: ILS or LOC RWY 08": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC04_v20.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: ILS or LOC RWY 08.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC05_v06.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 26.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 26. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC05a_v02.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 26. Appendix: FAS Datablock.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 08": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC06_v06.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 08.pdf"
-			},
-			"Instrument Approach Chart - ICAO: RNP RWY 08. Appendix: FAS Datablock": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_IAC06a_v02.pdf",
-				"filename": "EBOS - Instrument Approach Chart - ICAO: RNP RWY 08. Appendix: FAS Datablock.pdf"
-			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBOS_VAC01_v22.pdf",
-				"filename": "EBOS - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"BEAUVECHAIN (MIL)  : EBBE": {
-			"Aerodrome chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_ADC_01_en_v13.pdf",
-				"filename": "EBBE - Aerodrome chart.pdf"
-			},
-			"Aerodrome Ground Movement Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_GMC_01_en_v10.pdf",
-				"filename": "EBBE - Aerodrome Ground Movement Chart.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04L/22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_AOC_01_en_v05.pdf",
-				"filename": "EBBE - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04L-22R.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04R/22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_AOC_02_en_v05.pdf",
-				"filename": "EBBE - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 04R-22L.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_AOC_03_en_v02.pdf",
-				"filename": "EBBE - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BE 04A - 04B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_01_en_v10.pdf",
-				"filename": "EBBE - Instrument Departure Chart - MIPS: HPMA BE 04A - 04B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BE 22A - 22B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_02_en_v10.pdf",
-				"filename": "EBBE - Instrument Departure Chart - MIPS: HPMA BE 22A - 22B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: BE 04C - 22C": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_03_en_v09.pdf",
-				"filename": "EBBE - Instrument Departure Chart - MIPS: BE 04C - 22C.pdf"
-			},
-			"Instrument Departure Chart - MIPS: BE 04D - 22D": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_04_en_v11.pdf",
-				"filename": "EBBE - Instrument Departure Chart - MIPS: BE 04D - 22D.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BE 04E - 22E": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_SID_05_en_v12.pdf",
-				"filename": "EBBE - Instrument Departure Chart - MIPS: HPMA BE 04E - 22E.pdf"
-			},
-			"Minimum Vectoring Altitude - MIPS: MVA CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_MISC_01_en_v08.pdf",
-				"filename": "EBBE - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
-			},
-			"Approach Surveillance Radar - MIPS: ASR CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_MISC_02_en_v04.pdf",
-				"filename": "EBBE - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
-			},
-			"Standard Arrival Chart - MIPS: HPMA STAR TAC RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_STAR_01_en_v09.pdf",
-				"filename": "EBBE - Standard Arrival Chart - MIPS: HPMA STAR TAC RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_01_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: HPMA TACAN RWY 04L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_02_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: HPMA TACAN RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS x RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_03_en_v14.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: ILS x RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS y RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_04_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: ILS y RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS z RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_05_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: ILS z RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS y RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_06_en_v12.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: ILS y RWY 04L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS z RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_07_en_v11.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: ILS z RWY 04L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN y RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_08_en_v12.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN y RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN z RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_09_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN z RWY 22R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN y RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_10_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN y RWY 04L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN z RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_11_en_v11.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN z RWY 04L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_12_en_v14.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN RWY 22L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 04R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_13_en_v14.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: TACAN RWY 04R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 22R (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_14_en_v14.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 22R (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 04L (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_15_en_v14.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 04L (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 22L (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_16_en_v13.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 22L (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 04R (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_17_en_v11.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: RNP RWY 04R (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_IAC_19_en_v03.pdf",
-				"filename": "EBBE - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
-			},
-			"Visual Approach Chart: JET RWY 04L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_01_en_v11.pdf",
-				"filename": "EBBE - Visual Approach Chart: JET RWY 04L.pdf"
-			},
-			"Visual Approach Chart: JET RWY 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_02_en_v11.pdf",
-				"filename": "EBBE - Visual Approach Chart: JET RWY 22R.pdf"
-			},
-			"Visual Approach Chart: PROP RWY 04R - 22L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_03_en_v09.pdf",
-				"filename": "EBBE - Visual Approach Chart: PROP RWY 04R - 22L.pdf"
-			},
-			"Visual Approach Chart: HEL RWY 04L - 22R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBE_VAC_04_en_v11.pdf",
-				"filename": "EBBE - Visual Approach Chart: HEL RWY 04L - 22R.pdf"
-			}
-		},
-		"CHIÈVRES (MIL)  : EBCV": {
-			"Aerodrome Ground Movement Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_GMC_01_en_v01.pdf",
-				"filename": "EBCV - Aerodrome Ground Movement Chart.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS or LOC RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_01_en_v08.pdf",
-				"filename": "EBCV - Instrument Approach Chart - MIPS: ILS or LOC RWY 26.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_02_en_v08.pdf",
-				"filename": "EBCV - Instrument Approach Chart - MIPS: TACAN RWY 26.pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 26 (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_03_en_v08.pdf",
-				"filename": "EBCV - Instrument Approach Chart - MIPS: RNP RWY 26 (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBCV_IAC_04_en_v01.pdf",
-				"filename": "EBCV - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
-			}
-		},
-		"FLORENNES (MIL) : EBFS": {
-			"Aerodrome Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_ADC_01_en_v22.pdf",
-				"filename": "EBFS - Aerodrome Chart.pdf"
-			},
-			"Aerodrome Ground Movement Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_GMC_01_en_v13.pdf",
-				"filename": "EBFS - Aerodrome Ground Movement Chart.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08L/26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_AOC_01_v07.pdf",
-				"filename": "EBFS - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08L-26R.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08R/26L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_AOC_02_v07.pdf",
-				"filename": "EBFS - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 08R-26L.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_AOC_03_v06.pdf",
-				"filename": "EBFS - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: FS 08A - 26A": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_01_en_v10.pdf",
-				"filename": "EBFS - Instrument Departure Chart - MIPS: FS 08A - 26A.pdf"
-			},
-			"Instrument Departure Chart - MIPS: FS 08B - 26B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_02_en_v10.pdf",
-				"filename": "EBFS - Instrument Departure Chart - MIPS: FS 08B - 26B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: FS 08C - 26C": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_03_en_v10.pdf",
-				"filename": "EBFS - Instrument Departure Chart - MIPS: FS 08C - 26C.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA FS 08D - 08E": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_04_en_v11.pdf",
-				"filename": "EBFS - Instrument Departure Chart - MIPS: HPMA FS 08D - 08E.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA FS 26D - 26E": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_SID_05_en_v11.pdf",
-				"filename": "EBFS - Instrument Departure Chart - MIPS: HPMA FS 26D - 26E.pdf"
-			},
-			"Minimum Vectoring Altitude - MIPS: MVA CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_MISC_01_en_v16.pdf",
-				"filename": "EBFS - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
-			},
-			"Approach Surveillance Radar - MIPS: ASR CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_MISC_02_en_v09.pdf",
-				"filename": "EBFS - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA ILS RWY 26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_01_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA ILS RWY 26R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA ILS RWY 08L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_02_en_v14.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA ILS RWY 08L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_03_en_v14.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 26R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 26L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_04_en_v14.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 26L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 08L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_05_en_v12.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 08L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 08R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_06_en_v11.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: HPMA TACAN RWY 08R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS RWY 26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_07_en_v12.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: ILS RWY 26R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS RWY 08L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_08_en_v14.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: ILS RWY 08L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_09_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 26R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 26L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_10_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 26L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 08L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_11_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 08L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 08R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_12_en_v14.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: TACAN RWY 08R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_13_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 26R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 08L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_14_en_v12.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 08L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_15_en_v12.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_16_en_v11.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_17_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 26L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_18_en_v15.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 08R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 26R (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_19_en_v13.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 26R (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 08L (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_20_en_v10.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 08L (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 26L (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_21_en_v03.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 26L (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 08R (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_22_en_v04.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: RNP RWY 08R (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_IAC_24_en_v06.pdf",
-				"filename": "EBFS - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
-			},
-			"Visual Approach Chart: JET RWY 08 - 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_01_en_v09.pdf",
-				"filename": "EBFS - Visual Approach Chart: JET RWY 08 - 26.pdf"
-			},
-			"Visual Approach Chart: PROP RWY 08 - 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_02_en_v10.pdf",
-				"filename": "EBFS - Visual Approach Chart: PROP RWY 08 - 26.pdf"
-			},
-			"Visual Approach Chart: DEP RWY 08 - 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_03_en_v07.pdf",
-				"filename": "EBFS - Visual Approach Chart: DEP RWY 08 - 26.pdf"
-			},
-			"Visual Approach Chart: HEL RWY 08 - 26": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFS_VAC_04_en_v07.pdf",
-				"filename": "EBFS - Visual Approach Chart: HEL RWY 08 - 26.pdf"
-			}
-		},
-		"KLEINE-BROGEL (MIL) : EBBL": {
-			"Aerodrome Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_ADC_01_en_v15.pdf",
-				"filename": "EBBL - Aerodrome Chart.pdf"
-			},
-			"Aerodrome Ground Movement Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_GMC_01_en_v15.pdf",
-				"filename": "EBBL - Aerodrome Ground Movement Chart.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05L/23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_AOC_01_en_v08.pdf",
-				"filename": "EBBL - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05L-23R.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05R/23L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_AOC_02_en_v08.pdf",
-				"filename": "EBBL - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 05R-23L.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_AOC_03_en_v07.pdf",
-				"filename": "EBBL - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BL 05A - 05B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_01_en_v11.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 05A - 05B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: BL 05A - 05B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_02_en_v11.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: BL 05A - 05B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BL 23A - 23B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_03_en_v13.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 23A - 23B.pdf"
-			},
-			"National Corridor EBBL to TSA 24, 25 & 26: REMBA CORRIDOR SB or NB": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_04_en_v09.pdf",
-				"filename": "EBBL - National Corridor EBBL to TSA 24, 25 & 26: REMBA CORRIDOR SB or NB.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BL 05C - 23C": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_05_en_v13.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 05C - 23C.pdf"
-			},
-			"National Corridor TRA South to EBBL: LIEGE CORRIDOR SB or NB": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_06_en_v11.pdf",
-				"filename": "EBBL - National Corridor TRA South to EBBL: LIEGE CORRIDOR SB or NB.pdf"
-			},
-			"Instrument Departure Chart - MIPS: BL 05D - 23D": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_07_en_v13.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: BL 05D - 23D.pdf"
-			},
-			"National Corridor EBBL to TSA 24, 25 & 26: SINT-TRUIDEN CORRIDOR": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_08_en_v10.pdf",
-				"filename": "EBBL - National Corridor EBBL to TSA 24, 25 & 26: SINT-TRUIDEN CORRIDOR.pdf"
-			},
-			"Instrument Departure Chart - MIPS: HPMA BL 05E - 23E": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_09_en_v14.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: HPMA BL 05E - 23E.pdf"
-			},
-			"Instrument Departure Chart - MIPS: BL 23F": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_10_en_v15.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: BL 23F.pdf"
-			},
-			"Instrument Departure Chart - MIPS: PAMPA": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_SID_11_en_v03.pdf",
-				"filename": "EBBL - Instrument Departure Chart - MIPS: PAMPA.pdf"
-			},
-			"Minimum Vectoring Altitude - MIPS: MVA CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_MISC_01_en_v12.pdf",
-				"filename": "EBBL - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
-			},
-			"Approach Surveillance Radar - MIPS: ASR CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_MISC_02_en_v06.pdf",
-				"filename": "EBBL - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA ILS RWY 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_01_en_v18.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA ILS RWY 23R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA ILS RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_02_en_v17.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA ILS RWY 05L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_03_en_v17.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 23R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_04_en_v17.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 05L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 23L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_05_en_v15.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 23L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 05R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_06_en_v18.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: HPMA TACAN RWY 05R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS RWY 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_07_en_v16.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: ILS RWY 23R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: ILS RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_08_en_v14.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: ILS RWY 05L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_09_en_v17.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY 23R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_10_en_v15.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY 05L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 23L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_11_en_v18.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY 23L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY  05R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_12_en_v15.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: TACAN RWY  05R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_13_en_v16.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 23R.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_14_en_v15.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: QRA HPMA ILS RWY 05L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_15_en_v14.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: QRA HPMA TACAN RWY 05L.pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 23R (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_16_en_v01.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: RNP RWY 23R (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP RWY 05L (LNAV)": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_17_en_v01.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: RNP RWY 05L (LNAV).pdf"
-			},
-			"Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_IAC_18_en_v01.pdf",
-				"filename": "EBBL - Instrument Approach Chart - MIPS: RNP (LNAV) ARINC CODING.pdf"
-			},
-			"Visual Departure Chart: DEP - RWY 05L": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_VAC_01_en_v11.pdf",
-				"filename": "EBBL - Visual Departure Chart: DEP - RWY 05L.pdf"
-			},
-			"Visual Departure Chart: DEP - RWY 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_VAC_02_en_v11.pdf",
-				"filename": "EBBL - Visual Departure Chart: DEP - RWY 23R.pdf"
-			},
-			"Visual Approach Chart: APP RWY 05L - 23R": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBBL_VAC_03_en_v11.pdf",
-				"filename": "EBBL - Visual Approach Chart: APP RWY 05L - 23R.pdf"
-			}
-		},
-		"KOKSIJDE (MIL) : EBFN": {
-			"Aerodrome Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_ADC_01_en_v14.pdf",
-				"filename": "EBFN - Aerodrome Chart.pdf"
-			},
-			"Aerodrome Ground Movement Chart": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_GMC_01_en_v08.pdf",
-				"filename": "EBFN - Aerodrome Ground Movement Chart.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 11/29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/AD_2_EBFN_AOC_01_v02.pdf",
-				"filename": "EBFN - Aerodrome Obstacle Chart. Type A (Operating Limitations) RWY 11-29.pdf"
-			},
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/AD_2_EBFN_AOC_02_v01.pdf",
-				"filename": "EBFN - Aerodrome Obstacle Chart. Type B.pdf"
-			},
-			"Instrument Departure Chart - MIPS: FN 11 - 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_SID_01_en_v16.pdf",
-				"filename": "EBFN - Instrument Departure Chart - MIPS: FN 11 - 29.pdf"
-			},
-			"Instrument Departure Chart - MIPS: FN 11 - 29 COPTER": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_SID_02_en_v16.pdf",
-				"filename": "EBFN - Instrument Departure Chart - MIPS: FN 11 - 29 COPTER.pdf"
-			},
-			"Minimum Vectoring Altitude - MIPS: MVA CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_MISC_01_en_v11.pdf",
-				"filename": "EBFN - Minimum Vectoring Altitude - MIPS: MVA CHART.pdf"
-			},
-			"Approach Surveillance Radar - MIPS: ASR CHART": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_MISC_02_en_v05.pdf",
-				"filename": "EBFN - Approach Surveillance Radar - MIPS: ASR CHART.pdf"
-			},
-			"Instrument Approach Chart - MIPS: HPMA TACAN RWY 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_IAC_01_en_v16.pdf",
-				"filename": "EBFN - Instrument Approach Chart - MIPS: HPMA TACAN RWY 29.pdf"
-			},
-			"Instrument Approach Chart - MIPS: TACAN RWY 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_IAC_02_en_v17.pdf",
-				"filename": "EBFN - Instrument Approach Chart - MIPS: TACAN RWY 29.pdf"
-			},
-			"Instrument Approach Chart - MIPS: VOR RWY 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_IAC_03_en_v16.pdf",
-				"filename": "EBFN - Instrument Approach Chart - MIPS: VOR RWY 29.pdf"
-			},
-			"Visual Approach Chart: JET RWY 11 - 29": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_VAC_01_en_v12.pdf",
-				"filename": "EBFN - Visual Approach Chart: JET RWY 11 - 29.pdf"
-			},
-			"Visual Approach Chart: HEL": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_2_EBFN_VAC_02_en_v12.pdf",
-				"filename": "EBFN - Visual Approach Chart: HEL.pdf"
-			}
-		},
-		"SAINT-HUBERT (MIL) : EBSU": {
-			"Aerodrome Obstacle Chart. Type B": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/AD_2_EBSU_AOC.01_v04.pdf",
-				"filename": "EBSU - Aerodrome Obstacle Chart. Type B.pdf"
-			}
-		},
-		"BALEN / Keiheuvel : EBKH": {
-			"Aerodrome Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKH_ADC01_v01.pdf",
-				"filename": "EBKH - Aerodrome Chart - ICAO.pdf"
-			},
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBKH_VAC01_v03.pdf",
-				"filename": "EBKH - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"GRIMBERGEN / Lint : EBGB": {
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBGB_VAC01_v10.pdf",
-				"filename": "EBGB - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"SINT-TRUIDEN / Brustem : EBST": {
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBST_VAC01_v09.pdf",
-				"filename": "EBST - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"SPA / La Sauvenière : EBSP": {
-			"Visual Approach Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EBSP_VAC01_v11.pdf",
-				"filename": "EBSP - Visual Approach Chart - ICAO.pdf"
-			}
-		},
-		"CASTEAU / SHAPE (MIL)  : EBCT": {
-			"Visual Chart - Heli: VIS HELI": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_3_EBCT_VAC_01_en_v04.pdf",
-				"filename": "EBCT - Visual Chart - Heli: VIS HELI.pdf"
-			},
-			"Visual Chart - Heli: APP DEP HELI": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/EB_AD_3_EBCT_VAC_02_en_v04.pdf",
-				"filename": "EBCT - Visual Chart - Heli: APP DEP HELI.pdf"
-			}
-		},
-		"ESCH-SUR-ALZETTE / Centre Hospitalier Emile Mayrisch : ELEA": {
-			"Heliport Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELEA_ADC01_v04.pdf",
-				"filename": "ELEA - Heliport Chart - ICAO.pdf"
-			}
-		},
-		"LUXEMBOURG / Centre Hospitalier de Luxembourg (CHL) : ELLC": {
-			"Heliport Chart - ICAO": {
-				"url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/graphics/eAIP/ELLC_ADC01_v05.pdf",
-				"filename": "ELLC - Heliport Chart - ICAO.pdf"
-			}
 		}
 	}
 }

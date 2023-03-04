@@ -1,2223 +1,2225 @@
 {
 	"eBagLib": {
-		"0: Generated - 2023-02-19": {
+		"0: Generated - 2023-03-04": {
 		},
-		"Enontekiö : EFET": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_EN.pdf",
-				"filename": "EFET - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_ADC.pdf",
-				"filename": "EFET - ADC.pdf"
-			},
-			"AOC RWY 03/21": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_0321_AOC.pdf",
-				"filename": "EFET - AOC RWY 03-21.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_OMNIDEP.pdf",
-				"filename": "EFET - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNP RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_03_RNP.pdf",
-				"filename": "EFET - RNP RWY 03.pdf"
-			},
-			"ILS or LOC RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_21_ILS.pdf",
-				"filename": "EFET - ILS or LOC RWY 21.pdf"
-			},
-			"RNP RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_21_RNP.pdf",
-				"filename": "EFET - RNP RWY 21.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_VAC.pdf",
-				"filename": "EFET - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_LDG.pdf",
-				"filename": "EFET - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_WPT_LIST.pdf",
-				"filename": "EFET - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_PRD_INDEX.pdf",
-				"filename": "EFET - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_APN_STANDS.pdf",
-				"filename": "EFET - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_TWY.pdf",
-				"filename": "EFET - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_FAS_DB.pdf",
-				"filename": "EFET - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Halli : EFHA": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_EN.pdf",
-				"filename": "EFHA - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_ADC.pdf",
-				"filename": "EFHA - ADC.pdf"
-			},
-			"AOC RWY 08/26": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_0826_AOC.pdf",
-				"filename": "EFHA - AOC RWY 08-26.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_ATCSMAC.pdf",
-				"filename": "EFHA - ATC SMAC.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_OMNIDEP.pdf",
-				"filename": "EFHA - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_08_STAR.pdf",
-				"filename": "EFHA - RNAV STAR RWY 08.pdf"
-			},
-			"RNAV STAR RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_STAR.pdf",
-				"filename": "EFHA - RNAV STAR RWY 26.pdf"
-			},
-			"RNP RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_08_RNP.pdf",
-				"filename": "EFHA - RNP RWY 08.pdf"
-			},
-			"ILS Z or LOC Z RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_ILSZ.pdf",
-				"filename": "EFHA - ILS Z or LOC Z RWY 26.pdf"
-			},
-			"ILS Y or LOC Y RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_ILSY.pdf",
-				"filename": "EFHA - ILS Y or LOC Y RWY 26.pdf"
-			},
-			"RNP RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_RNP.pdf",
-				"filename": "EFHA - RNP RWY 26.pdf"
-			},
-			"VOR RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_VOR.pdf",
-				"filename": "EFHA - VOR RWY 26.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_VAC.pdf",
-				"filename": "EFHA - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_LDG.pdf",
-				"filename": "EFHA - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_WPT_LIST.pdf",
-				"filename": "EFHA - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_PRD_INDEX.pdf",
-				"filename": "EFHA - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_APN_STANDS.pdf",
-				"filename": "EFHA - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_TWY.pdf",
-				"filename": "EFHA - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_FAS_DB.pdf",
-				"filename": "EFHA - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Helsinki-Vantaa : EFHK": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_EN.pdf",
-				"filename": "EFHK - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_ADC.pdf",
-				"filename": "EFHK - ADC.pdf"
-			},
-			"ADC RUNWAY AND TAXIWAY MARKINGS": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_MARK.pdf",
-				"filename": "EFHK - ADC RUNWAY AND TAXIWAY MARKINGS.pdf"
-			},
-			"APDC": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_APDC.pdf",
-				"filename": "EFHK - APDC.pdf"
-			},
-			"AGMC": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_AGMC.pdf",
-				"filename": "EFHK - AGMC.pdf"
-			},
-			"AOC RWY 04R/22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R22L_AOC.pdf",
-				"filename": "EFHK - AOC RWY 04R-22L.pdf"
-			},
-			"AOC RWY 04L/22R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L22R_AOC.pdf",
-				"filename": "EFHK - AOC RWY 04L-22R.pdf"
-			},
-			"AOC RWY 15/33": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_1533_AOC.pdf",
-				"filename": "EFHK - AOC RWY 15-33.pdf"
-			},
-			"PATC RWY 04L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_PATC.pdf",
-				"filename": "EFHK - PATC RWY 04L.pdf"
-			},
-			"PATC RWY 22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_PATC.pdf",
-				"filename": "EFHK - PATC RWY 22L.pdf"
-			},
-			"PATC RWY 22R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_PATC.pdf",
-				"filename": "EFHK - PATC RWY 22R.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_ATCSMAC.pdf",
-				"filename": "EFHK - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 04L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_SIDR.pdf",
-				"filename": "EFHK - RNAV SID RWY 04L.pdf"
-			},
-			"RNAV SID RWY 04R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_SIDR.pdf",
-				"filename": "EFHK - RNAV SID RWY 04R.pdf"
-			},
-			"RNAV SID PROP RWY 04R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_SIDRP.pdf",
-				"filename": "EFHK - RNAV SID PROP RWY 04R.pdf"
-			},
-			"RNAV SID RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_SIDR.pdf",
-				"filename": "EFHK - RNAV SID RWY 15.pdf"
-			},
-			"RNAV SID RWY 22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_SIDR.pdf",
-				"filename": "EFHK - RNAV SID RWY 22L.pdf"
-			},
-			"RNAV SID PROP RWY 22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_SIDRP.pdf",
-				"filename": "EFHK - RNAV SID PROP RWY 22L.pdf"
-			},
-			"RNAV SID RWY 22R 1/2": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_SIDR.pdf",
-				"filename": "EFHK - RNAV SID RWY 22R 1-2.pdf"
-			},
-			"RNAV SID RWY 22R 2/2": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_SIDR2.pdf",
-				"filename": "EFHK - RNAV SID RWY 22R 2-2.pdf"
-			},
-			"RNAV SID RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_SIDR.pdf",
-				"filename": "EFHK - RNAV SID RWY 33.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_OMNIDEP.pdf",
-				"filename": "EFHK - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"ARC - EFHK TMA": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_ARC.pdf",
-				"filename": "EFHK - ARC - EFHK TMA.pdf"
-			},
-			"RNAV STAR RWY 04L 1/2": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_STAR.pdf",
-				"filename": "EFHK - RNAV STAR RWY 04L 1-2.pdf"
-			},
-			"RNAV STAR RWY 04L 2/2": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_STAR2.pdf",
-				"filename": "EFHK - RNAV STAR RWY 04L 2-2.pdf"
-			},
-			"RNAV STAR RWY 04R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_STAR.pdf",
-				"filename": "EFHK - RNAV STAR RWY 04R.pdf"
-			},
-			"RNAV STAR RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_STAR.pdf",
-				"filename": "EFHK - RNAV STAR RWY 15.pdf"
-			},
-			"RNAV STAR RWY 22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_STAR.pdf",
-				"filename": "EFHK - RNAV STAR RWY 22L.pdf"
-			},
-			"RNAV STAR RWY 22R 1/2": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_STAR.pdf",
-				"filename": "EFHK - RNAV STAR RWY 22R 1-2.pdf"
-			},
-			"RNAV STAR RWY 22R 2/2": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_STAR2.pdf",
-				"filename": "EFHK - RNAV STAR RWY 22R 2-2.pdf"
-			},
-			"RNAV STAR RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_STAR.pdf",
-				"filename": "EFHK - RNAV STAR RWY 33.pdf"
-			},
-			"ILS or LOC RWY 04L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_ILS.pdf",
-				"filename": "EFHK - ILS or LOC RWY 04L.pdf"
-			},
-			"ILS RWY 04L CAT II & III": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_ILSCAT2.pdf",
-				"filename": "EFHK - ILS RWY 04L CAT II & III.pdf"
-			},
-			"RNP RWY 04L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_RNP.pdf",
-				"filename": "EFHK - RNP RWY 04L.pdf"
-			},
-			"ILS or LOC RWY 04R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_ILS.pdf",
-				"filename": "EFHK - ILS or LOC RWY 04R.pdf"
-			},
-			"RNP RWY 04R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_RNP.pdf",
-				"filename": "EFHK - RNP RWY 04R.pdf"
-			},
-			"ILS or LOC RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_ILS.pdf",
-				"filename": "EFHK - ILS or LOC RWY 15.pdf"
-			},
-			"RNP RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_RNP.pdf",
-				"filename": "EFHK - RNP RWY 15.pdf"
-			},
-			"ILS or LOC RWY 22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_ILS.pdf",
-				"filename": "EFHK - ILS or LOC RWY 22L.pdf"
-			},
-			"ILS RWY 22L CAT II": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_ILSCAT2.pdf",
-				"filename": "EFHK - ILS RWY 22L CAT II.pdf"
-			},
-			"RNP RWY 22L": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_RNP.pdf",
-				"filename": "EFHK - RNP RWY 22L.pdf"
-			},
-			"ILS or LOC RWY 22R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_ILS.pdf",
-				"filename": "EFHK - ILS or LOC RWY 22R.pdf"
-			},
-			" ILS RWY 22R CAT II & III": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_ILSCAT2.pdf",
-				"filename": "EFHK -  ILS RWY 22R CAT II & III.pdf"
-			},
-			"RNP RWY 22R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_RNP.pdf",
-				"filename": "EFHK - RNP RWY 22R.pdf"
-			},
-			"RNP RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_RNP.pdf",
-				"filename": "EFHK - RNP RWY 33.pdf"
-			},
-			"VOR RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_VOR.pdf",
-				"filename": "EFHK - VOR RWY 33.pdf"
-			},
-			"COPTER ILS RWY 04R": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_COPTER_ILS.pdf",
-				"filename": "EFHK - COPTER ILS RWY 04R.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_VAC.pdf",
-				"filename": "EFHK - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_LDG.pdf",
-				"filename": "EFHK - LDG.pdf"
-			},
-			"VFR COPTER ROUTES": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_COPTER_RTE.pdf",
-				"filename": "EFHK - VFR COPTER ROUTES.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_WPT_LIST.pdf",
-				"filename": "EFHK - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_PRD_INDEX.pdf",
-				"filename": "EFHK - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_APN_STANDS.pdf",
-				"filename": "EFHK - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_TWY.pdf",
-				"filename": "EFHK - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_FAS_DB.pdf",
-				"filename": "EFHK - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Ivalo : EFIV": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_EN.pdf",
-				"filename": "EFIV - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_ADC.pdf",
-				"filename": "EFIV - ADC.pdf"
-			},
-			"AOC RWY 04/22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_0422_AOC.pdf",
-				"filename": "EFIV - AOC RWY 04-22.pdf"
-			},
-			"RNAV SID RWY 04": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_SIDR.pdf",
-				"filename": "EFIV - RNAV SID RWY 04.pdf"
-			},
-			"RNAV SID RWY 22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_SIDR.pdf",
-				"filename": "EFIV - RNAV SID RWY 22.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_OMNIDEP.pdf",
-				"filename": "EFIV - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 04": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_STAR.pdf",
-				"filename": "EFIV - RNAV STAR RWY 04.pdf"
-			},
-			"RNAV STAR RWY 22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_STAR.pdf",
-				"filename": "EFIV - RNAV STAR RWY 22.pdf"
-			},
-			"RNP RWY 04": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_RNP.pdf",
-				"filename": "EFIV - RNP RWY 04.pdf"
-			},
-			"NDB RWY 04": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_NDB.pdf",
-				"filename": "EFIV - NDB RWY 04.pdf"
-			},
-			"ILS Z or LOC Z RWY 22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_ILSZ.pdf",
-				"filename": "EFIV - ILS Z or LOC Z RWY 22.pdf"
-			},
-			"ILS Y or LOC Y RWY 22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_ILSY.pdf",
-				"filename": "EFIV - ILS Y or LOC Y RWY 22.pdf"
-			},
-			"NDB RWY 22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_NDB.pdf",
-				"filename": "EFIV - NDB RWY 22.pdf"
-			},
-			"RNP RWY 22": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_RNP.pdf",
-				"filename": "EFIV - RNP RWY 22.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_VAC.pdf",
-				"filename": "EFIV - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_LDG.pdf",
-				"filename": "EFIV - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_WPT_LIST.pdf",
-				"filename": "EFIV - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_PRD_INDEX.pdf",
-				"filename": "EFIV - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_APN_STANDS.pdf",
-				"filename": "EFIV - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_TWY.pdf",
-				"filename": "EFIV - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_FAS_DB.pdf",
-				"filename": "EFIV - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Joensuu : EFJO": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_EN.pdf",
-				"filename": "EFJO - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_ADC.pdf",
-				"filename": "EFJO - ADC.pdf"
-			},
-			"AOC RWY 10/28": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_1028_AOC.pdf",
-				"filename": "EFJO - AOC RWY 10-28.pdf"
-			},
-			"RNAV SID RWY 10": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_SIDR.pdf",
-				"filename": "EFJO - RNAV SID RWY 10.pdf"
-			},
-			"RNAV SID RWY 28": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_SIDR.pdf",
-				"filename": "EFJO - RNAV SID RWY 28.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_OMNIDEP.pdf",
-				"filename": "EFJO - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 10": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_STAR.pdf",
-				"filename": "EFJO - RNAV STAR RWY 10.pdf"
-			},
-			"RNAV STAR RWY 28": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_STAR.pdf",
-				"filename": "EFJO - RNAV STAR RWY 28.pdf"
-			},
-			"RNP RWY 10": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_RNP.pdf",
-				"filename": "EFJO - RNP RWY 10.pdf"
-			},
-			"ILS or LOC RWY 28": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_ILS.pdf",
-				"filename": "EFJO - ILS or LOC RWY 28.pdf"
-			},
-			"RNP RWY 28": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_RNP.pdf",
-				"filename": "EFJO - RNP RWY 28.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_VAC.pdf",
-				"filename": "EFJO - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_LDG.pdf",
-				"filename": "EFJO - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_WPT_LIST.pdf",
-				"filename": "EFJO - WAYPOINTS AND FIXES.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_FAS_DB.pdf",
-				"filename": "EFJO - FAS DATA BLOCK.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_PRD_INDEX.pdf",
-				"filename": "EFJO - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_APN_STANDS.pdf",
-				"filename": "EFJO - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_TWY.pdf",
-				"filename": "EFJO - TAXIWAYS.pdf"
-			}
-		},
-		"Jyväskylä : EFJY": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_EN.pdf",
-				"filename": "EFJY - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_ADC.pdf",
-				"filename": "EFJY - ADC.pdf"
-			},
-			"AOC RWY 12/30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_1230_AOC.pdf",
-				"filename": "EFJY - AOC RWY 12-30.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_ATCSMAC.pdf",
-				"filename": "EFJY - ATC SMAC.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_OMNIDEP.pdf",
-				"filename": "EFJY - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_STAR.pdf",
-				"filename": "EFJY - RNAV STAR RWY 12.pdf"
-			},
-			"RNAV STAR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_STAR.pdf",
-				"filename": "EFJY - RNAV STAR RWY 30.pdf"
-			},
-			"NON-RNAV INA RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_INA.pdf",
-				"filename": "EFJY - NON-RNAV INA RWY 12.pdf"
-			},
-			"NON-RNAV INA RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_INA.pdf",
-				"filename": "EFJY - NON-RNAV INA RWY 30.pdf"
-			},
-			"RNP RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_RNP.pdf",
-				"filename": "EFJY - RNP RWY 12.pdf"
-			},
-			"VOR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_VOR.pdf",
-				"filename": "EFJY - VOR RWY 12.pdf"
-			},
-			"ILS Z or LOC Z RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_ILSZ.pdf",
-				"filename": "EFJY - ILS Z or LOC Z RWY 30.pdf"
-			},
-			"ILS Y or LOC Y RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_ILSY.pdf",
-				"filename": "EFJY - ILS Y or LOC Y RWY 30.pdf"
-			},
-			"RNP RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_RNP.pdf",
-				"filename": "EFJY - RNP RWY 30.pdf"
-			},
-			"VOR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_VOR.pdf",
-				"filename": "EFJY - VOR RWY 30.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_VAC.pdf",
-				"filename": "EFJY - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_LDG.pdf",
-				"filename": "EFJY - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_WPT_LIST.pdf",
-				"filename": "EFJY - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_PRD_INDEX.pdf",
-				"filename": "EFJY - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_APN_STANDS.pdf",
-				"filename": "EFJY - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_TWY.pdf",
-				"filename": "EFJY - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_FAS_DB.pdf",
-				"filename": "EFJY - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Kajaani : EFKI": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_EN.pdf",
-				"filename": "EFKI - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_ADC.pdf",
-				"filename": "EFKI - ADC.pdf"
-			},
-			"AOC RWY 07/25": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_0725_AOC.pdf",
-				"filename": "EFKI - AOC RWY 07-25.pdf"
-			},
-			"RNAV SID RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_SIDR.pdf",
-				"filename": "EFKI - RNAV SID RWY 07.pdf"
-			},
-			"RNAV SID RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_25_SIDR.pdf",
-				"filename": "EFKI - RNAV SID RWY 25.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_OMNIDEP.pdf",
-				"filename": "EFKI - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_STAR.pdf",
-				"filename": "EFKI - RNAV STAR RWY 07.pdf"
-			},
-			"RNAV STAR RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_25_STAR.pdf",
-				"filename": "EFKI - RNAV STAR RWY 25.pdf"
-			},
-			"ILS or LOC RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_ILS.pdf",
-				"filename": "EFKI - ILS or LOC RWY 07.pdf"
-			},
-			"RNP RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_RNP.pdf",
-				"filename": "EFKI - RNP RWY 07.pdf"
-			},
-			"RNP RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_25_RNP.pdf",
-				"filename": "EFKI - RNP RWY 25.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_VAC.pdf",
-				"filename": "EFKI - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_LDG.pdf",
-				"filename": "EFKI - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_WPT_LIST.pdf",
-				"filename": "EFKI - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_PRD_INDEX.pdf",
-				"filename": "EFKI - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_APN_STANDS.pdf",
-				"filename": "EFKI - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_TWY.pdf",
-				"filename": "EFKI - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_FAS_DB.pdf",
-				"filename": "EFKI - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Kauhava : EFKA": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_EN.pdf",
-				"filename": "EFKA - Tekstisivut - Textpages.pdf"
-			},
-			"RNP RWY 17": {
-				"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_17_RNP.pdf",
-				"filename": "EFKA - RNP RWY 17.pdf"
-			},
-			"RNP RWY 35": {
-				"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_35_RNP.pdf",
-				"filename": "EFKA - RNP RWY 35.pdf"
-			}
-		},
-		"Kemi-Tornio : EFKE": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_EN.pdf",
-				"filename": "EFKE - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_ADC.pdf",
-				"filename": "EFKE - ADC.pdf"
-			},
-			"AOC RWY 18/36": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_1836_AOC.pdf",
-				"filename": "EFKE - AOC RWY 18-36.pdf"
-			},
-			"RNAV SID RWY 18": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_SIDR.pdf",
-				"filename": "EFKE - RNAV SID RWY 18.pdf"
-			},
-			"RNAV SID RWY 36": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_SIDR.pdf",
-				"filename": "EFKE - RNAV SID RWY 36.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_OMNIDEP.pdf",
-				"filename": "EFKE - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 18": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_STAR.pdf",
-				"filename": "EFKE - RNAV STAR RWY 18.pdf"
-			},
-			"RNAV STAR RWY 36": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_STAR.pdf",
-				"filename": "EFKE - RNAV STAR RWY 36.pdf"
-			},
-			"ILS Z or LOC Z RWY 18": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_ILSZ.pdf",
-				"filename": "EFKE - ILS Z or LOC Z RWY 18.pdf"
-			},
-			"ILS Y or LOC Y RWY 18": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_ILSY.pdf",
-				"filename": "EFKE - ILS Y or LOC Y RWY 18.pdf"
-			},
-			"RNP RWY 18": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_RNP.pdf",
-				"filename": "EFKE - RNP RWY 18.pdf"
-			},
-			"NDB RWY 18": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_NDB.pdf",
-				"filename": "EFKE - NDB RWY 18.pdf"
-			},
-			"RNP RWY 36": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_RNP.pdf",
-				"filename": "EFKE - RNP RWY 36.pdf"
-			},
-			"NDB RWY 36": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_NDB.pdf",
-				"filename": "EFKE - NDB RWY 36.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_VAC.pdf",
-				"filename": "EFKE - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_LDG.pdf",
-				"filename": "EFKE - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_WPT_LIST.pdf",
-				"filename": "EFKE - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_PRD_INDEX.pdf",
-				"filename": "EFKE - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_APN_STANDS.pdf",
-				"filename": "EFKE - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_TWY.pdf",
-				"filename": "EFKE - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_FAS_DB.pdf",
-				"filename": "EFKE - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Kittilä : EFKT": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_EN.pdf",
-				"filename": "EFKT - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_ADC.pdf",
-				"filename": "EFKT - ADC.pdf"
-			},
-			"AOC RWY 16/34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_1634_AOC.pdf",
-				"filename": "EFKT - AOC RWY 16-34.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_ATCSMAC.pdf",
-				"filename": "EFKT - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_SIDR.pdf",
-				"filename": "EFKT - RNAV SID RWY 16.pdf"
-			},
-			"RNAV SID RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_SIDR.pdf",
-				"filename": "EFKT - RNAV SID RWY 34.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_OMNIDEP.pdf",
-				"filename": "EFKT - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_STAR.pdf",
-				"filename": "EFKT - RNAV STAR RWY 16.pdf"
-			},
-			"RNAV STAR RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_STAR.pdf",
-				"filename": "EFKT - RNAV STAR RWY 34.pdf"
-			},
-			"LOC Z RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_LOCZ.pdf",
-				"filename": "EFKT - LOC Z RWY 16.pdf"
-			},
-			"LOC Y RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_LOCY.pdf",
-				"filename": "EFKT - LOC Y RWY 16.pdf"
-			},
-			"RNP RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_RNP.pdf",
-				"filename": "EFKT - RNP RWY 16.pdf"
-			},
-			"ILS Z or LOC Z RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_ILSZ.pdf",
-				"filename": "EFKT - ILS Z or LOC Z RWY 34.pdf"
-			},
-			"ILS Y or LOC Y RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_ILSY.pdf",
-				"filename": "EFKT - ILS Y or LOC Y RWY 34.pdf"
-			},
-			"RNP RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_RNP.pdf",
-				"filename": "EFKT - RNP RWY 34.pdf"
-			},
-			"NDB RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_NDB.pdf",
-				"filename": "EFKT - NDB RWY 34.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_VAC.pdf",
-				"filename": "EFKT - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_LDG.pdf",
-				"filename": "EFKT - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_WPT_LIST.pdf",
-				"filename": "EFKT - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_PRD_INDEX.pdf",
-				"filename": "EFKT - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_APN_STANDS.pdf",
-				"filename": "EFKT - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_TWY.pdf",
-				"filename": "EFKT - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_FAS_DB.pdf",
-				"filename": "EFKT - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Kokkola-Pietarsaari : EFKK": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_EN.pdf",
-				"filename": "EFKK - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_ADC.pdf",
-				"filename": "EFKK - ADC.pdf"
-			},
-			"AOC RWY 01/19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_0119_AOC.pdf",
-				"filename": "EFKK - AOC RWY 01-19.pdf"
-			},
-			"RNAV SID RWY 01": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_SIDR.pdf",
-				"filename": "EFKK - RNAV SID RWY 01.pdf"
-			},
-			"RNAV SID RWY 19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_SIDR.pdf",
-				"filename": "EFKK - RNAV SID RWY 19.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_OMNIDEP.pdf",
-				"filename": "EFKK - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 01": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_STAR.pdf",
-				"filename": "EFKK - RNAV STAR RWY 01.pdf"
-			},
-			"RNAV STAR RWY 19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_STAR.pdf",
-				"filename": "EFKK - RNAV STAR RWY 19.pdf"
-			},
-			"RNP RWY 01": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_RNP.pdf",
-				"filename": "EFKK - RNP RWY 01.pdf"
-			},
-			"NDB RWY 01": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_NDB.pdf",
-				"filename": "EFKK - NDB RWY 01.pdf"
-			},
-			"ILS Z or LOC Z RWY 19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_ILSZ.pdf",
-				"filename": "EFKK - ILS Z or LOC Z RWY 19.pdf"
-			},
-			"ILS Y or LOC Y RWY 19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_ILSY.pdf",
-				"filename": "EFKK - ILS Y or LOC Y RWY 19.pdf"
-			},
-			"RNP RWY 19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_RNP.pdf",
-				"filename": "EFKK - RNP RWY 19.pdf"
-			},
-			"NDB RWY 19": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_NDB.pdf",
-				"filename": "EFKK - NDB RWY 19.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_VAC.pdf",
-				"filename": "EFKK - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_LDG.pdf",
-				"filename": "EFKK - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_WPT_LIST.pdf",
-				"filename": "EFKK - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_PRD_INDEX.pdf",
-				"filename": "EFKK - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_APN_STANDS.pdf",
-				"filename": "EFKK - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_TWY.pdf",
-				"filename": "EFKK - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_FAS_DB.pdf",
-				"filename": "EFKK - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Kuopio : EFKU": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_EN.pdf",
-				"filename": "EFKU - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_ADC.pdf",
-				"filename": "EFKU - ADC.pdf"
-			},
-			"AGMC": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_AGMC.pdf",
-				"filename": "EFKU - AGMC.pdf"
-			},
-			"AOC RWY 15/33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_1533_AOC.pdf",
-				"filename": "EFKU - AOC RWY 15-33.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_ATCSMAC.pdf",
-				"filename": "EFKU - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_SIDR.pdf",
-				"filename": "EFKU - RNAV SID RWY 15.pdf"
-			},
-			"RNAV SID RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_SIDR.pdf",
-				"filename": "EFKU - RNAV SID RWY 33.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_OMNIDEP.pdf",
-				"filename": "EFKU - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_STAR.pdf",
-				"filename": "EFKU - RNAV STAR RWY 15.pdf"
-			},
-			"RNAV STAR RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_STAR.pdf",
-				"filename": "EFKU - RNAV STAR RWY 33.pdf"
-			},
-			"NON-RNAV INA RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_INA.pdf",
-				"filename": "EFKU - NON-RNAV INA RWY 15.pdf"
-			},
-			"NON-RNAV INA RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_INA.pdf",
-				"filename": "EFKU - NON-RNAV INA RWY 33.pdf"
-			},
-			"RNP RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_RNP.pdf",
-				"filename": "EFKU - RNP RWY 15.pdf"
-			},
-			"VOR RWY 15": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_VOR.pdf",
-				"filename": "EFKU - VOR RWY 15.pdf"
-			},
-			"ILS Z or LOC Z RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_ILSZ.pdf",
-				"filename": "EFKU - ILS Z or LOC Z RWY 33.pdf"
-			},
-			"ILS Y or LOC Y RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_ILSY.pdf",
-				"filename": "EFKU - ILS Y or LOC Y RWY 33.pdf"
-			},
-			"RNP RWY 33": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_RNP.pdf",
-				"filename": "EFKU - RNP RWY 33.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_VAC.pdf",
-				"filename": "EFKU - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_LDG.pdf",
-				"filename": "EFKU - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_WPT_LIST.pdf",
-				"filename": "EFKU - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_PRD_INDEX.pdf",
-				"filename": "EFKU - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_APN_STANDS.pdf",
-				"filename": "EFKU - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_TWY.pdf",
-				"filename": "EFKU - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_FAS_DB.pdf",
-				"filename": "EFKU - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Kuusamo : EFKS": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_EN.pdf",
-				"filename": "EFKS - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_ADC.pdf",
-				"filename": "EFKS - ADC.pdf"
-			},
-			"AOC RWY 12/30": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_1230_AOC.pdf",
-				"filename": "EFKS - AOC RWY 12-30.pdf"
-			},
-			"RNAV SID RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_SIDR.pdf",
-				"filename": "EFKS - RNAV SID RWY 12.pdf"
-			},
-			"RNAV SID RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_SIDR.pdf",
-				"filename": "EFKS - RNAV SID RWY 30.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_OMNIDEP.pdf",
-				"filename": "EFKS - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_STAR.pdf",
-				"filename": "EFKS - RNAV STAR RWY 12.pdf"
-			},
-			"RNAV STAR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_STAR.pdf",
-				"filename": "EFKS - RNAV STAR RWY 30.pdf"
-			},
-			"ILS or LOC RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_ILS.pdf",
-				"filename": "EFKS - ILS or LOC RWY 12.pdf"
-			},
-			"RNP RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_RNP.pdf",
-				"filename": "EFKS - RNP RWY 12.pdf"
-			},
-			"RNP RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_RNP.pdf",
-				"filename": "EFKS - RNP RWY 30.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_VAC.pdf",
-				"filename": "EFKS - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_LDG.pdf",
-				"filename": "EFKS - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_WPT_LIST.pdf",
-				"filename": "EFKS - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_PRD_INDEX.pdf",
-				"filename": "EFKS - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_APN_STANDS.pdf",
-				"filename": "EFKS - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_TWY.pdf",
-				"filename": "EFKS - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_FAS_DB.pdf",
-				"filename": "EFKS - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Lappeenranta : EFLP": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_EN.pdf",
-				"filename": "EFLP - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_ADC.pdf",
-				"filename": "EFLP - ADC.pdf"
-			},
-			"AOC RWY 06/24": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_0624_AOC.pdf",
-				"filename": "EFLP - AOC RWY 06-24.pdf"
-			},
-			"RNAV SID RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_SIDR.pdf",
-				"filename": "EFLP - RNAV SID RWY 06.pdf"
-			},
-			"RNAV SID RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_24_SIDR.pdf",
-				"filename": "EFLP - RNAV SID RWY 24.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_OMNIDEP.pdf",
-				"filename": "EFLP - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_STAR.pdf",
-				"filename": "EFLP - RNAV STAR RWY 06.pdf"
-			},
-			"RNAV STAR RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_24_STAR.pdf",
-				"filename": "EFLP - RNAV STAR RWY 24.pdf"
-			},
-			"ILS or LOC RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_ILS.pdf",
-				"filename": "EFLP - ILS or LOC RWY 06.pdf"
-			},
-			"RNP RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_RNP.pdf",
-				"filename": "EFLP - RNP RWY 06.pdf"
-			},
-			"RNP RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_24_RNP.pdf",
-				"filename": "EFLP - RNP RWY 24.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_VAC.pdf",
-				"filename": "EFLP - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_LDG.pdf",
-				"filename": "EFLP - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_WPT_LIST.pdf",
-				"filename": "EFLP - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_PRD_INDEX.pdf",
-				"filename": "EFLP - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_APN_STANDS.pdf",
-				"filename": "EFLP - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_TWY.pdf",
-				"filename": "EFLP - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_FAS_DB.pdf",
-				"filename": "EFLP - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Mariehamn : EFMA": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_EN.pdf",
-				"filename": "EFMA - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_ADC.pdf",
-				"filename": "EFMA - ADC.pdf"
-			},
-			"AOC RWY 03/21": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_0321_AOC.pdf",
-				"filename": "EFMA - AOC RWY 03-21.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_ATCSMAC.pdf",
-				"filename": "EFMA - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_SIDR.pdf",
-				"filename": "EFMA - RNAV SID RWY 03.pdf"
-			},
-			"RNAV SID RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_SIDR.pdf",
-				"filename": "EFMA - RNAV SID RWY 21.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_OMNIDEP.pdf",
-				"filename": "EFMA - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_STAR.pdf",
-				"filename": "EFMA - RNAV STAR RWY 03.pdf"
-			},
-			"RNAV STAR RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_STAR.pdf",
-				"filename": "EFMA - RNAV STAR RWY 21.pdf"
-			},
-			"RNP RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_RNP.pdf",
-				"filename": "EFMA - RNP RWY 03.pdf"
-			},
-			"VOR RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_VOR.pdf",
-				"filename": "EFMA - VOR RWY 03.pdf"
-			},
-			"ILS Z or LOC Z RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_ILSZ.pdf",
-				"filename": "EFMA - ILS Z or LOC Z RWY 21.pdf"
-			},
-			"ILS Y or LOC Y RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_ILSY.pdf",
-				"filename": "EFMA - ILS Y or LOC Y RWY 21.pdf"
-			},
-			"RNP RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_RNP.pdf",
-				"filename": "EFMA - RNP RWY 21.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_VAC.pdf",
-				"filename": "EFMA - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_LDG.pdf",
-				"filename": "EFMA - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_WPT_LIST.pdf",
-				"filename": "EFMA - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_PRD_INDEX.pdf",
-				"filename": "EFMA - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_APN_STANDS.pdf",
-				"filename": "EFMA - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_TWY.pdf",
-				"filename": "EFMA - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_FAS_DB.pdf",
-				"filename": "EFMA - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Mikkeli : EFMI": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_EN.pdf",
-				"filename": "EFMI - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_ADC.pdf",
-				"filename": "EFMI - ADC.pdf"
-			},
-			"AOC RWY 11/29": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_1129_AOC.pdf",
-				"filename": "EFMI - AOC RWY 11-29.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_OMNIDEP.pdf",
-				"filename": "EFMI - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"ILS Z or LOC Z RWY 11": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_ILSZ.pdf",
-				"filename": "EFMI - ILS Z or LOC Z RWY 11.pdf"
-			},
-			"ILS Y or LOC Y RWY 11": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_ILSY.pdf",
-				"filename": "EFMI - ILS Y or LOC Y RWY 11.pdf"
-			},
-			"RNP RWY 11": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_RNP.pdf",
-				"filename": "EFMI - RNP RWY 11.pdf"
-			},
-			"NDB RWY 11": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_NDB.pdf",
-				"filename": "EFMI - NDB RWY 11.pdf"
-			},
-			"RNP RWY 29": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_29_RNP.pdf",
-				"filename": "EFMI - RNP RWY 29.pdf"
-			},
-			"NDB RWY 29": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_29_NDB.pdf",
-				"filename": "EFMI - NDB RWY 29.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_VAC.pdf",
-				"filename": "EFMI - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_LDG.pdf",
-				"filename": "EFMI - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_WPT_LIST.pdf",
-				"filename": "EFMI - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_PRD_INDEX.pdf",
-				"filename": "EFMI - PRD INDEX.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_FAS_DB.pdf",
-				"filename": "EFMI - FAS DATA BLOCK.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_APN_STANDS.pdf",
-				"filename": "EFMI - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_TWY.pdf",
-				"filename": "EFMI - TAXIWAYS.pdf"
-			}
-		},
-		"Oulu : EFOU": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_EN.pdf",
-				"filename": "EFOU - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_ADC.pdf",
-				"filename": "EFOU - ADC.pdf"
-			},
-			"ADC RUNWAY AND TAXIWAY MARKINGS": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_MARK.pdf",
-				"filename": "EFOU - ADC RUNWAY AND TAXIWAY MARKINGS.pdf"
-			},
-			"AOC RWY 12/30": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_1230_AOC.pdf",
-				"filename": "EFOU - AOC RWY 12-30.pdf"
-			},
-			"PATC RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_PATC.pdf",
-				"filename": "EFOU - PATC RWY 12.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_ATCSMAC.pdf",
-				"filename": "EFOU - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_SIDR.pdf",
-				"filename": "EFOU - RNAV SID RWY 12.pdf"
-			},
-			"RNAV SID RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_SIDR.pdf",
-				"filename": "EFOU - RNAV SID RWY 30.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_OMNIDEP.pdf",
-				"filename": "EFOU - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_STAR.pdf",
-				"filename": "EFOU - RNAV STAR RWY 12.pdf"
-			},
-			"RNAV STAR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_STAR.pdf",
-				"filename": "EFOU - RNAV STAR RWY 30.pdf"
-			},
-			"NON-RNAV INA RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_INA.pdf",
-				"filename": "EFOU - NON-RNAV INA RWY 12.pdf"
-			},
-			"NON-RNAV INA RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_INA.pdf",
-				"filename": "EFOU - NON-RNAV INA RWY 30.pdf"
-			},
-			"ILS Z or LOC Z RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSZ.pdf",
-				"filename": "EFOU - ILS Z or LOC Z RWY 12.pdf"
-			},
-			"ILS Z RWY 12 CAT II": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSZCAT2.pdf",
-				"filename": "EFOU - ILS Z RWY 12 CAT II.pdf"
-			},
-			"ILS Y or LOC Y RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSY.pdf",
-				"filename": "EFOU - ILS Y or LOC Y RWY 12.pdf"
-			},
-			"ILS Y RWY 12 CAT II": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSYCAT2.pdf",
-				"filename": "EFOU - ILS Y RWY 12 CAT II.pdf"
-			},
-			"RNP RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_RNP.pdf",
-				"filename": "EFOU - RNP RWY 12.pdf"
-			},
-			"VOR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_VOR.pdf",
-				"filename": "EFOU - VOR RWY 12.pdf"
-			},
-			"RNP RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_RNP.pdf",
-				"filename": "EFOU - RNP RWY 30.pdf"
-			},
-			"VOR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_VOR.pdf",
-				"filename": "EFOU - VOR RWY 30.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_VAC.pdf",
-				"filename": "EFOU - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_LDG.pdf",
-				"filename": "EFOU - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_WPT_LIST.pdf",
-				"filename": "EFOU - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_PRD_INDEX.pdf",
-				"filename": "EFOU - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_APN_STANDS.pdf",
-				"filename": "EFOU - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_TWY.pdf",
-				"filename": "EFOU - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_FAS_DB.pdf",
-				"filename": "EFOU - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Pori : EFPO": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_EN.pdf",
-				"filename": "EFPO - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_ADC.pdf",
-				"filename": "EFPO - ADC.pdf"
-			},
-			"AOC RWY 12/30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_1230_AOC.pdf",
-				"filename": "EFPO - AOC RWY 12-30.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_ATCSMAC.pdf",
-				"filename": "EFPO - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_SIDR.pdf",
-				"filename": "EFPO - RNAV SID RWY 12.pdf"
-			},
-			"RNAV SID RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_SIDR.pdf",
-				"filename": "EFPO - RNAV SID RWY 30.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_OMNIDEP.pdf",
-				"filename": "EFPO - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_STAR.pdf",
-				"filename": "EFPO - RNAV STAR RWY 12.pdf"
-			},
-			"RNAV STAR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_STAR.pdf",
-				"filename": "EFPO - RNAV STAR RWY 30.pdf"
-			},
-			"NON-RNAV INA RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_INA.pdf",
-				"filename": "EFPO - NON-RNAV INA RWY 12.pdf"
-			},
-			"NON-RNAV INA RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_INA.pdf",
-				"filename": "EFPO - NON-RNAV INA RWY 30.pdf"
-			},
-			"RNP RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_RNP.pdf",
-				"filename": "EFPO - RNP RWY 12.pdf"
-			},
-			"VOR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_VOR.pdf",
-				"filename": "EFPO - VOR RWY 12.pdf"
-			},
-			"ILS Z or LOC Z RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_ILSZ.pdf",
-				"filename": "EFPO - ILS Z or LOC Z RWY 30.pdf"
-			},
-			"ILS Y or LOC Y RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_ILSY.pdf",
-				"filename": "EFPO - ILS Y or LOC Y RWY 30.pdf"
-			},
-			"RNP RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_RNP.pdf",
-				"filename": "EFPO - RNP RWY 30.pdf"
-			},
-			"VOR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_VOR.pdf",
-				"filename": "EFPO - VOR RWY 30.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_VAC.pdf",
-				"filename": "EFPO - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_LDG.pdf",
-				"filename": "EFPO - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_WPT_LIST.pdf",
-				"filename": "EFPO - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_PRD_INDEX.pdf",
-				"filename": "EFPO - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_APN_STANDS.pdf",
-				"filename": "EFPO - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_TWY.pdf",
-				"filename": "EFPO - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_FAS_DB.pdf",
-				"filename": "EFPO - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Rovaniemi : EFRO": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_EN.pdf",
-				"filename": "EFRO - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_ADC.pdf",
-				"filename": "EFRO - ADC.pdf"
-			},
-			"ADC RUNWAY AND TAXIWAY MARKINGS": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_MARK.pdf",
-				"filename": "EFRO - ADC RUNWAY AND TAXIWAY MARKINGS.pdf"
-			},
-			"APDC": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_APDC.pdf",
-				"filename": "EFRO - APDC.pdf"
-			},
-			"AGMC": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_AGMC.pdf",
-				"filename": "EFRO - AGMC.pdf"
-			},
-			"AOC RWY 03/21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_0321_AOC.pdf",
-				"filename": "EFRO - AOC RWY 03-21.pdf"
-			},
-			"PATC RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_PATC.pdf",
-				"filename": "EFRO - PATC RWY 21.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_ATCSMAC.pdf",
-				"filename": "EFRO - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_SIDR.pdf",
-				"filename": "EFRO - RNAV SID RWY 03.pdf"
-			},
-			"RNAV SID RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_SIDR.pdf",
-				"filename": "EFRO - RNAV SID RWY 21.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_OMNIDEP.pdf",
-				"filename": "EFRO - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_STAR.pdf",
-				"filename": "EFRO - RNAV STAR RWY 03.pdf"
-			},
-			"RNAV STAR RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_STAR.pdf",
-				"filename": "EFRO - RNAV STAR RWY 21.pdf"
-			},
-			"NON-RNAV INA RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_INA.pdf",
-				"filename": "EFRO - NON-RNAV INA RWY 03.pdf"
-			},
-			"NON-RNAV INA RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_INA.pdf",
-				"filename": "EFRO - NON-RNAV INA RWY 21.pdf"
-			},
-			"RNP RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_RNP.pdf",
-				"filename": "EFRO - RNP RWY 03.pdf"
-			},
-			"VOR RWY 03": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_VOR.pdf",
-				"filename": "EFRO - VOR RWY 03.pdf"
-			},
-			"ILS Z or LOC Z RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSZ.pdf",
-				"filename": "EFRO - ILS Z or LOC Z RWY 21.pdf"
-			},
-			"ILS Z RWY 21 CAT II": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSZCAT2.pdf",
-				"filename": "EFRO - ILS Z RWY 21 CAT II.pdf"
-			},
-			"ILS Y or LOC Y RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSY.pdf",
-				"filename": "EFRO - ILS Y or LOC Y RWY 21.pdf"
-			},
-			"ILS Y RWY 21 CAT II": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSYCAT2.pdf",
-				"filename": "EFRO - ILS Y RWY 21 CAT II.pdf"
-			},
-			"RNP RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_RNP.pdf",
-				"filename": "EFRO - RNP RWY 21.pdf"
-			},
-			"VOR RWY 21": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_VOR.pdf",
-				"filename": "EFRO - VOR RWY 21.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_VAC.pdf",
-				"filename": "EFRO - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_LDG.pdf",
-				"filename": "EFRO - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_WPT_LIST.pdf",
-				"filename": "EFRO - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_PRD_INDEX.pdf",
-				"filename": "EFRO - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_APN_STANDS.pdf",
-				"filename": "EFRO - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_TWY.pdf",
-				"filename": "EFRO - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_FAS_DB.pdf",
-				"filename": "EFRO - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Savonlinna : EFSA": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_EN.pdf",
-				"filename": "EFSA - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_ADC.pdf",
-				"filename": "EFSA - ADC.pdf"
-			},
-			"AOC RWY 12/30": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_1230_AOC.pdf",
-				"filename": "EFSA - AOC RWY 12-30.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_OMNIDEP.pdf",
-				"filename": "EFSA - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_12_STAR.pdf",
-				"filename": "EFSA - RNAV STAR RWY 12.pdf"
-			},
-			"RNAV STAR RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_30_STAR.pdf",
-				"filename": "EFSA - RNAV STAR RWY 30.pdf"
-			},
-			"ILS or LOC RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_12_ILS.pdf",
-				"filename": "EFSA - ILS or LOC RWY 12.pdf"
-			},
-			"RNP RWY 12": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_12_RNP.pdf",
-				"filename": "EFSA - RNP RWY 12.pdf"
-			},
-			"RNP RWY 30": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_30_RNP.pdf",
-				"filename": "EFSA - RNP RWY 30.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_VAC.pdf",
-				"filename": "EFSA - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_LDG.pdf",
-				"filename": "EFSA - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_WPT_LIST.pdf",
-				"filename": "EFSA - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_PRD_INDEX.pdf",
-				"filename": "EFSA - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_APN_STANDS.pdf",
-				"filename": "EFSA - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_TWY.pdf",
-				"filename": "EFSA - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_FAS_DB.pdf",
-				"filename": "EFSA - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Seinäjoki : EFSI": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_EN.pdf",
-				"filename": "EFSI - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_ADC.pdf",
-				"filename": "EFSI - ADC.pdf"
-			},
-			"AOC RWY 14/32": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_1432_AOC.pdf",
-				"filename": "EFSI - AOC RWY 14-32.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_OMNIDEP.pdf",
-				"filename": "EFSI - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNP RWY 14": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_14_RNP.pdf",
-				"filename": "EFSI - RNP RWY 14.pdf"
-			},
-			"NDB RWY 14": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_14_NDB.pdf",
-				"filename": "EFSI - NDB RWY 14.pdf"
-			},
-			"ILS Z or LOC Z RWY 32": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_ILSZ.pdf",
-				"filename": "EFSI - ILS Z or LOC Z RWY 32.pdf"
-			},
-			"ILS Y or LOC Y RWY 32": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_ILSY.pdf",
-				"filename": "EFSI - ILS Y or LOC Y RWY 32.pdf"
-			},
-			"RNP RWY 32": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_RNP.pdf",
-				"filename": "EFSI - RNP RWY 32.pdf"
-			},
-			"NDB RWY 32": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_NDB.pdf",
-				"filename": "EFSI - NDB RWY 32.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_VAC.pdf",
-				"filename": "EFSI - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_LDG.pdf",
-				"filename": "EFSI - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_WPT_LIST.pdf",
-				"filename": "EFSI - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_PRD_INDEX.pdf",
-				"filename": "EFSI - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_APN_STANDS.pdf",
-				"filename": "EFSI - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_TWY.pdf",
-				"filename": "EFSI - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_FAS_DB.pdf",
-				"filename": "EFSI - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Tampere-Pirkkala : EFTP": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_EN.pdf",
-				"filename": "EFTP - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_ADC.pdf",
-				"filename": "EFTP - ADC.pdf"
-			},
-			"AGMC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_AGMC.pdf",
-				"filename": "EFTP - AGMC.pdf"
-			},
-			"AOC RWY 06/24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_0624_AOC.pdf",
-				"filename": "EFTP - AOC RWY 06-24.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_ATCSMAC.pdf",
-				"filename": "EFTP - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_SIDR.pdf",
-				"filename": "EFTP - RNAV SID RWY 06.pdf"
-			},
-			"RNAV SID RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_SIDR.pdf",
-				"filename": "EFTP - RNAV SID RWY 24.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_OMNIDEP.pdf",
-				"filename": "EFTP - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_STAR.pdf",
-				"filename": "EFTP - RNAV STAR RWY 06.pdf"
-			},
-			"RNAV STAR RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_STAR.pdf",
-				"filename": "EFTP - RNAV STAR RWY 24.pdf"
-			},
-			"NON-RNAV INA RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_INA.pdf",
-				"filename": "EFTP - NON-RNAV INA RWY 06.pdf"
-			},
-			"NON-RNAV INA RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_INA.pdf",
-				"filename": "EFTP - NON-RNAV INA RWY 24.pdf"
-			},
-			"RNP RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_RNP.pdf",
-				"filename": "EFTP - RNP RWY 06.pdf"
-			},
-			"VOR RWY 06": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_VOR.pdf",
-				"filename": "EFTP - VOR RWY 06.pdf"
-			},
-			"ILS Z or LOC Z RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_ILSZ.pdf",
-				"filename": "EFTP - ILS Z or LOC Z RWY 24.pdf"
-			},
-			"ILS Y or LOC Y RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_ILSY.pdf",
-				"filename": "EFTP - ILS Y or LOC Y RWY 24.pdf"
-			},
-			"RNP RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_RNP.pdf",
-				"filename": "EFTP - RNP RWY 24.pdf"
-			},
-			"VOR RWY 24": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_VOR.pdf",
-				"filename": "EFTP - VOR RWY 24.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_VAC.pdf",
-				"filename": "EFTP - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_LDG.pdf",
-				"filename": "EFTP - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_WPT_LIST.pdf",
-				"filename": "EFTP - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_PRD_INDEX.pdf",
-				"filename": "EFTP - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_APN_STANDS.pdf",
-				"filename": "EFTP - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_TWY.pdf",
-				"filename": "EFTP - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_FAS_DB.pdf",
-				"filename": "EFTP - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Turku : EFTU": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_EN.pdf",
-				"filename": "EFTU - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_ADC.pdf",
-				"filename": "EFTU - ADC.pdf"
-			},
-			"AGMC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_AGMC.pdf",
-				"filename": "EFTU - AGMC.pdf"
-			},
-			"AOC RWY 08/26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_0826_AOC.pdf",
-				"filename": "EFTU - AOC RWY 08-26.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_ATCSMAC.pdf",
-				"filename": "EFTU - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_SIDR.pdf",
-				"filename": "EFTU - RNAV SID RWY 08.pdf"
-			},
-			"RNAV SID RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_SIDR.pdf",
-				"filename": "EFTU - RNAV SID RWY 26.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_OMNIDEP.pdf",
-				"filename": "EFTU - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_STAR.pdf",
-				"filename": "EFTU - RNAV STAR RWY 08.pdf"
-			},
-			"RNAV STAR RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_STAR.pdf",
-				"filename": "EFTU - RNAV STAR RWY 26.pdf"
-			},
-			"NON-RNAV INA RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_INA.pdf",
-				"filename": "EFTU - NON-RNAV INA RWY 08.pdf"
-			},
-			"NON-RNAV INA RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_INA.pdf",
-				"filename": "EFTU - NON-RNAV INA RWY 26.pdf"
-			},
-			"RNP RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_RNP.pdf",
-				"filename": "EFTU - RNP RWY 08.pdf"
-			},
-			"VOR RWY 08": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_VOR.pdf",
-				"filename": "EFTU - VOR RWY 08.pdf"
-			},
-			"ILS Z or LOC Z RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_ILSZ.pdf",
-				"filename": "EFTU - ILS Z or LOC Z RWY 26.pdf"
-			},
-			"ILS Y or LOC Y RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_ILSY.pdf",
-				"filename": "EFTU - ILS Y or LOC Y RWY 26.pdf"
-			},
-			"RNP RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_RNP.pdf",
-				"filename": "EFTU - RNP RWY 26.pdf"
-			},
-			"VOR RWY 26": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_VOR.pdf",
-				"filename": "EFTU - VOR RWY 26.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_VAC.pdf",
-				"filename": "EFTU - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_LDG.pdf",
-				"filename": "EFTU - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_WPT_LIST.pdf",
-				"filename": "EFTU - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_PRD_INDEX.pdf",
-				"filename": "EFTU - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_APN_STANDS.pdf",
-				"filename": "EFTU - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_TWY.pdf",
-				"filename": "EFTU - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_FAS_DB.pdf",
-				"filename": "EFTU - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Utti : EFUT": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_EN.pdf",
-				"filename": "EFUT - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_ADC.pdf",
-				"filename": "EFUT - ADC.pdf"
-			},
-			"AOC RWY 07/25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_0725_AOC.pdf",
-				"filename": "EFUT - AOC RWY 07-25.pdf"
-			},
-			"RNAV SID RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_SIDR.pdf",
-				"filename": "EFUT - RNAV SID RWY 07.pdf"
-			},
-			"RNAV SID RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_SIDR.pdf",
-				"filename": "EFUT - RNAV SID RWY 25.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_OMNIDEP.pdf",
-				"filename": "EFUT - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_STAR.pdf",
-				"filename": "EFUT - RNAV STAR RWY 07.pdf"
-			},
-			"RNAV STAR RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_STAR.pdf",
-				"filename": "EFUT - RNAV STAR RWY 25.pdf"
-			},
-			"RNP RWY 07 ": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_RNP.pdf",
-				"filename": "EFUT - RNP RWY 07 .pdf"
-			},
-			"VOR RWY 07": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_VOR.pdf",
-				"filename": "EFUT - VOR RWY 07.pdf"
-			},
-			"ILS Z or LOC Z RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_ILSZ.pdf",
-				"filename": "EFUT - ILS Z or LOC Z RWY 25.pdf"
-			},
-			"ILS Y or LOC Y RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_ILSY.pdf",
-				"filename": "EFUT - ILS Y or LOC Y RWY 25.pdf"
-			},
-			"RNP RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_RNP.pdf",
-				"filename": "EFUT - RNP RWY 25.pdf"
-			},
-			"VOR RWY 25": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_VOR.pdf",
-				"filename": "EFUT - VOR RWY 25.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_VAC.pdf",
-				"filename": "EFUT - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_LDG.pdf",
-				"filename": "EFUT - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_WPT_LIST.pdf",
-				"filename": "EFUT - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_PRD_INDEX.pdf",
-				"filename": "EFUT - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_APN_STANDS.pdf",
-				"filename": "EFUT - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_TWY.pdf",
-				"filename": "EFUT - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_FAS_DB.pdf",
-				"filename": "EFUT - FAS DATA BLOCK.pdf"
-			}
-		},
-		"Vaasa : EFVA": {
-			"Tekstisivut / Textpages": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_EN.pdf",
-				"filename": "EFVA - Tekstisivut - Textpages.pdf"
-			},
-			"ADC": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_ADC.pdf",
-				"filename": "EFVA - ADC.pdf"
-			},
-			"AOC RWY 16/34": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_1634_AOC.pdf",
-				"filename": "EFVA - AOC RWY 16-34.pdf"
-			},
-			"ATC SMAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_ATCSMAC.pdf",
-				"filename": "EFVA - ATC SMAC.pdf"
-			},
-			"RNAV SID RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_SIDR.pdf",
-				"filename": "EFVA - RNAV SID RWY 16.pdf"
-			},
-			"RNAV SID RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_SIDR.pdf",
-				"filename": "EFVA - RNAV SID RWY 34.pdf"
-			},
-			"OMNIDIRECTIONAL DEPARTURES": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_OMNIDEP.pdf",
-				"filename": "EFVA - OMNIDIRECTIONAL DEPARTURES.pdf"
-			},
-			"RNAV STAR RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_STAR.pdf",
-				"filename": "EFVA - RNAV STAR RWY 16.pdf"
-			},
-			"RNAV STAR RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_STAR.pdf",
-				"filename": "EFVA - RNAV STAR RWY 34.pdf"
-			},
-			"NON-RNAV INA RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_INA.pdf",
-				"filename": "EFVA - NON-RNAV INA RWY 16.pdf"
-			},
-			"NON-RNAV INA RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_INA.pdf",
-				"filename": "EFVA - NON-RNAV INA RWY 34.pdf"
-			},
-			"ILS Z or LOC Z RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_ILSZ.pdf",
-				"filename": "EFVA - ILS Z or LOC Z RWY 16.pdf"
-			},
-			"ILS Y or LOC Y RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_ILSY.pdf",
-				"filename": "EFVA - ILS Y or LOC Y RWY 16.pdf"
-			},
-			"RNP RWY 16": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_RNP.pdf",
-				"filename": "EFVA - RNP RWY 16.pdf"
-			},
-			"RNP RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_RNP.pdf",
-				"filename": "EFVA - RNP RWY 34.pdf"
-			},
-			"VOR RWY 34": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_VOR.pdf",
-				"filename": "EFVA - VOR RWY 34.pdf"
-			},
-			"VAC": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_VAC.pdf",
-				"filename": "EFVA - VAC.pdf"
-			},
-			"LDG": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_LDG.pdf",
-				"filename": "EFVA - LDG.pdf"
-			},
-			"WAYPOINTS AND FIXES": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_WPT_LIST.pdf",
-				"filename": "EFVA - WAYPOINTS AND FIXES.pdf"
-			},
-			"PRD INDEX": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_PRD_INDEX.pdf",
-				"filename": "EFVA - PRD INDEX.pdf"
-			},
-			"APRONS AND ACFT STANDS": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_APN_STANDS.pdf",
-				"filename": "EFVA - APRONS AND ACFT STANDS.pdf"
-			},
-			"TAXIWAYS": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_TWY.pdf",
-				"filename": "EFVA - TAXIWAYS.pdf"
-			},
-			"FAS DATA BLOCK": {
-				"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_FAS_DB.pdf",
-				"filename": "EFVA - FAS DATA BLOCK.pdf"
+		"AD 2 AERODROMES": {
+			"Enontekiö : EFET": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_EN.pdf",
+					"filename": "EFET - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_ADC.pdf",
+					"filename": "EFET - ADC.pdf"
+				},
+				"AOC RWY 03/21": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_0321_AOC.pdf",
+					"filename": "EFET - AOC RWY 03-21.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_OMNIDEP.pdf",
+					"filename": "EFET - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNP RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_03_RNP.pdf",
+					"filename": "EFET - RNP RWY 03.pdf"
+				},
+				"ILS or LOC RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_21_ILS.pdf",
+					"filename": "EFET - ILS or LOC RWY 21.pdf"
+				},
+				"RNP RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_21_RNP.pdf",
+					"filename": "EFET - RNP RWY 21.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_VAC.pdf",
+					"filename": "EFET - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_LDG.pdf",
+					"filename": "EFET - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_WPT_LIST.pdf",
+					"filename": "EFET - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_PRD_INDEX.pdf",
+					"filename": "EFET - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_APN_STANDS.pdf",
+					"filename": "EFET - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_TWY.pdf",
+					"filename": "EFET - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efet/EF_AD_2_EFET_FAS_DB.pdf",
+					"filename": "EFET - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Halli : EFHA": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_EN.pdf",
+					"filename": "EFHA - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_ADC.pdf",
+					"filename": "EFHA - ADC.pdf"
+				},
+				"AOC RWY 08/26": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_0826_AOC.pdf",
+					"filename": "EFHA - AOC RWY 08-26.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_ATCSMAC.pdf",
+					"filename": "EFHA - ATC SMAC.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_OMNIDEP.pdf",
+					"filename": "EFHA - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_08_STAR.pdf",
+					"filename": "EFHA - RNAV STAR RWY 08.pdf"
+				},
+				"RNAV STAR RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_STAR.pdf",
+					"filename": "EFHA - RNAV STAR RWY 26.pdf"
+				},
+				"RNP RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_08_RNP.pdf",
+					"filename": "EFHA - RNP RWY 08.pdf"
+				},
+				"ILS Z or LOC Z RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_ILSZ.pdf",
+					"filename": "EFHA - ILS Z or LOC Z RWY 26.pdf"
+				},
+				"ILS Y or LOC Y RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_ILSY.pdf",
+					"filename": "EFHA - ILS Y or LOC Y RWY 26.pdf"
+				},
+				"RNP RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_RNP.pdf",
+					"filename": "EFHA - RNP RWY 26.pdf"
+				},
+				"VOR RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_26_VOR.pdf",
+					"filename": "EFHA - VOR RWY 26.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_VAC.pdf",
+					"filename": "EFHA - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_LDG.pdf",
+					"filename": "EFHA - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_WPT_LIST.pdf",
+					"filename": "EFHA - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_PRD_INDEX.pdf",
+					"filename": "EFHA - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_APN_STANDS.pdf",
+					"filename": "EFHA - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_TWY.pdf",
+					"filename": "EFHA - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efha/EF_AD_2_EFHA_FAS_DB.pdf",
+					"filename": "EFHA - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Helsinki-Vantaa : EFHK": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_EN.pdf",
+					"filename": "EFHK - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_ADC.pdf",
+					"filename": "EFHK - ADC.pdf"
+				},
+				"ADC RUNWAY AND TAXIWAY MARKINGS": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_MARK.pdf",
+					"filename": "EFHK - ADC RUNWAY AND TAXIWAY MARKINGS.pdf"
+				},
+				"APDC": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_APDC.pdf",
+					"filename": "EFHK - APDC.pdf"
+				},
+				"AGMC": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_AGMC.pdf",
+					"filename": "EFHK - AGMC.pdf"
+				},
+				"AOC RWY 04R/22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R22L_AOC.pdf",
+					"filename": "EFHK - AOC RWY 04R-22L.pdf"
+				},
+				"AOC RWY 04L/22R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L22R_AOC.pdf",
+					"filename": "EFHK - AOC RWY 04L-22R.pdf"
+				},
+				"AOC RWY 15/33": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_1533_AOC.pdf",
+					"filename": "EFHK - AOC RWY 15-33.pdf"
+				},
+				"PATC RWY 04L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_PATC.pdf",
+					"filename": "EFHK - PATC RWY 04L.pdf"
+				},
+				"PATC RWY 22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_PATC.pdf",
+					"filename": "EFHK - PATC RWY 22L.pdf"
+				},
+				"PATC RWY 22R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_PATC.pdf",
+					"filename": "EFHK - PATC RWY 22R.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_ATCSMAC.pdf",
+					"filename": "EFHK - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 04L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_SIDR.pdf",
+					"filename": "EFHK - RNAV SID RWY 04L.pdf"
+				},
+				"RNAV SID RWY 04R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_SIDR.pdf",
+					"filename": "EFHK - RNAV SID RWY 04R.pdf"
+				},
+				"RNAV SID PROP RWY 04R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_SIDRP.pdf",
+					"filename": "EFHK - RNAV SID PROP RWY 04R.pdf"
+				},
+				"RNAV SID RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_SIDR.pdf",
+					"filename": "EFHK - RNAV SID RWY 15.pdf"
+				},
+				"RNAV SID RWY 22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_SIDR.pdf",
+					"filename": "EFHK - RNAV SID RWY 22L.pdf"
+				},
+				"RNAV SID PROP RWY 22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_SIDRP.pdf",
+					"filename": "EFHK - RNAV SID PROP RWY 22L.pdf"
+				},
+				"RNAV SID RWY 22R 1/2": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_SIDR.pdf",
+					"filename": "EFHK - RNAV SID RWY 22R 1-2.pdf"
+				},
+				"RNAV SID RWY 22R 2/2": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_SIDR2.pdf",
+					"filename": "EFHK - RNAV SID RWY 22R 2-2.pdf"
+				},
+				"RNAV SID RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_SIDR.pdf",
+					"filename": "EFHK - RNAV SID RWY 33.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_OMNIDEP.pdf",
+					"filename": "EFHK - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"ARC - EFHK TMA": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_ARC.pdf",
+					"filename": "EFHK - ARC - EFHK TMA.pdf"
+				},
+				"RNAV STAR RWY 04L 1/2": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_STAR.pdf",
+					"filename": "EFHK - RNAV STAR RWY 04L 1-2.pdf"
+				},
+				"RNAV STAR RWY 04L 2/2": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_STAR2.pdf",
+					"filename": "EFHK - RNAV STAR RWY 04L 2-2.pdf"
+				},
+				"RNAV STAR RWY 04R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_STAR.pdf",
+					"filename": "EFHK - RNAV STAR RWY 04R.pdf"
+				},
+				"RNAV STAR RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_STAR.pdf",
+					"filename": "EFHK - RNAV STAR RWY 15.pdf"
+				},
+				"RNAV STAR RWY 22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_STAR.pdf",
+					"filename": "EFHK - RNAV STAR RWY 22L.pdf"
+				},
+				"RNAV STAR RWY 22R 1/2": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_STAR.pdf",
+					"filename": "EFHK - RNAV STAR RWY 22R 1-2.pdf"
+				},
+				"RNAV STAR RWY 22R 2/2": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_STAR2.pdf",
+					"filename": "EFHK - RNAV STAR RWY 22R 2-2.pdf"
+				},
+				"RNAV STAR RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_STAR.pdf",
+					"filename": "EFHK - RNAV STAR RWY 33.pdf"
+				},
+				"ILS or LOC RWY 04L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_ILS.pdf",
+					"filename": "EFHK - ILS or LOC RWY 04L.pdf"
+				},
+				"ILS RWY 04L CAT II & III": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_ILSCAT2.pdf",
+					"filename": "EFHK - ILS RWY 04L CAT II & III.pdf"
+				},
+				"RNP RWY 04L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04L_RNP.pdf",
+					"filename": "EFHK - RNP RWY 04L.pdf"
+				},
+				"ILS or LOC RWY 04R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_ILS.pdf",
+					"filename": "EFHK - ILS or LOC RWY 04R.pdf"
+				},
+				"RNP RWY 04R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_RNP.pdf",
+					"filename": "EFHK - RNP RWY 04R.pdf"
+				},
+				"ILS or LOC RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_ILS.pdf",
+					"filename": "EFHK - ILS or LOC RWY 15.pdf"
+				},
+				"RNP RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_15_RNP.pdf",
+					"filename": "EFHK - RNP RWY 15.pdf"
+				},
+				"ILS or LOC RWY 22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_ILS.pdf",
+					"filename": "EFHK - ILS or LOC RWY 22L.pdf"
+				},
+				"ILS RWY 22L CAT II": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_ILSCAT2.pdf",
+					"filename": "EFHK - ILS RWY 22L CAT II.pdf"
+				},
+				"RNP RWY 22L": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22L_RNP.pdf",
+					"filename": "EFHK - RNP RWY 22L.pdf"
+				},
+				"ILS or LOC RWY 22R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_ILS.pdf",
+					"filename": "EFHK - ILS or LOC RWY 22R.pdf"
+				},
+				" ILS RWY 22R CAT II & III": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_ILSCAT2.pdf",
+					"filename": "EFHK -  ILS RWY 22R CAT II & III.pdf"
+				},
+				"RNP RWY 22R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_22R_RNP.pdf",
+					"filename": "EFHK - RNP RWY 22R.pdf"
+				},
+				"RNP RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_RNP.pdf",
+					"filename": "EFHK - RNP RWY 33.pdf"
+				},
+				"VOR RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_33_VOR.pdf",
+					"filename": "EFHK - VOR RWY 33.pdf"
+				},
+				"COPTER ILS RWY 04R": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_04R_COPTER_ILS.pdf",
+					"filename": "EFHK - COPTER ILS RWY 04R.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_VAC.pdf",
+					"filename": "EFHK - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_LDG.pdf",
+					"filename": "EFHK - LDG.pdf"
+				},
+				"VFR COPTER ROUTES": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_COPTER_RTE.pdf",
+					"filename": "EFHK - VFR COPTER ROUTES.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_WPT_LIST.pdf",
+					"filename": "EFHK - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_PRD_INDEX.pdf",
+					"filename": "EFHK - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_APN_STANDS.pdf",
+					"filename": "EFHK - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_TWY.pdf",
+					"filename": "EFHK - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efhk/EF_AD_2_EFHK_FAS_DB.pdf",
+					"filename": "EFHK - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Ivalo : EFIV": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_EN.pdf",
+					"filename": "EFIV - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_ADC.pdf",
+					"filename": "EFIV - ADC.pdf"
+				},
+				"AOC RWY 04/22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_0422_AOC.pdf",
+					"filename": "EFIV - AOC RWY 04-22.pdf"
+				},
+				"RNAV SID RWY 04": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_SIDR.pdf",
+					"filename": "EFIV - RNAV SID RWY 04.pdf"
+				},
+				"RNAV SID RWY 22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_SIDR.pdf",
+					"filename": "EFIV - RNAV SID RWY 22.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_OMNIDEP.pdf",
+					"filename": "EFIV - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 04": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_STAR.pdf",
+					"filename": "EFIV - RNAV STAR RWY 04.pdf"
+				},
+				"RNAV STAR RWY 22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_STAR.pdf",
+					"filename": "EFIV - RNAV STAR RWY 22.pdf"
+				},
+				"RNP RWY 04": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_RNP.pdf",
+					"filename": "EFIV - RNP RWY 04.pdf"
+				},
+				"NDB RWY 04": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_04_NDB.pdf",
+					"filename": "EFIV - NDB RWY 04.pdf"
+				},
+				"ILS Z or LOC Z RWY 22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_ILSZ.pdf",
+					"filename": "EFIV - ILS Z or LOC Z RWY 22.pdf"
+				},
+				"ILS Y or LOC Y RWY 22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_ILSY.pdf",
+					"filename": "EFIV - ILS Y or LOC Y RWY 22.pdf"
+				},
+				"NDB RWY 22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_NDB.pdf",
+					"filename": "EFIV - NDB RWY 22.pdf"
+				},
+				"RNP RWY 22": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_22_RNP.pdf",
+					"filename": "EFIV - RNP RWY 22.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_VAC.pdf",
+					"filename": "EFIV - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_LDG.pdf",
+					"filename": "EFIV - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_WPT_LIST.pdf",
+					"filename": "EFIV - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_PRD_INDEX.pdf",
+					"filename": "EFIV - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_APN_STANDS.pdf",
+					"filename": "EFIV - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_TWY.pdf",
+					"filename": "EFIV - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efiv/EF_AD_2_EFIV_FAS_DB.pdf",
+					"filename": "EFIV - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Joensuu : EFJO": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_EN.pdf",
+					"filename": "EFJO - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_ADC.pdf",
+					"filename": "EFJO - ADC.pdf"
+				},
+				"AOC RWY 10/28": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_1028_AOC.pdf",
+					"filename": "EFJO - AOC RWY 10-28.pdf"
+				},
+				"RNAV SID RWY 10": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_SIDR.pdf",
+					"filename": "EFJO - RNAV SID RWY 10.pdf"
+				},
+				"RNAV SID RWY 28": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_SIDR.pdf",
+					"filename": "EFJO - RNAV SID RWY 28.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_OMNIDEP.pdf",
+					"filename": "EFJO - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 10": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_STAR.pdf",
+					"filename": "EFJO - RNAV STAR RWY 10.pdf"
+				},
+				"RNAV STAR RWY 28": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_STAR.pdf",
+					"filename": "EFJO - RNAV STAR RWY 28.pdf"
+				},
+				"RNP RWY 10": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_10_RNP.pdf",
+					"filename": "EFJO - RNP RWY 10.pdf"
+				},
+				"ILS or LOC RWY 28": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_ILS.pdf",
+					"filename": "EFJO - ILS or LOC RWY 28.pdf"
+				},
+				"RNP RWY 28": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_28_RNP.pdf",
+					"filename": "EFJO - RNP RWY 28.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_VAC.pdf",
+					"filename": "EFJO - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_LDG.pdf",
+					"filename": "EFJO - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_WPT_LIST.pdf",
+					"filename": "EFJO - WAYPOINTS AND FIXES.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_FAS_DB.pdf",
+					"filename": "EFJO - FAS DATA BLOCK.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_PRD_INDEX.pdf",
+					"filename": "EFJO - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_APN_STANDS.pdf",
+					"filename": "EFJO - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efjo/EF_AD_2_EFJO_TWY.pdf",
+					"filename": "EFJO - TAXIWAYS.pdf"
+				}
+			},
+			"Jyväskylä : EFJY": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_EN.pdf",
+					"filename": "EFJY - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_ADC.pdf",
+					"filename": "EFJY - ADC.pdf"
+				},
+				"AOC RWY 12/30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_1230_AOC.pdf",
+					"filename": "EFJY - AOC RWY 12-30.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_ATCSMAC.pdf",
+					"filename": "EFJY - ATC SMAC.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_OMNIDEP.pdf",
+					"filename": "EFJY - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_STAR.pdf",
+					"filename": "EFJY - RNAV STAR RWY 12.pdf"
+				},
+				"RNAV STAR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_STAR.pdf",
+					"filename": "EFJY - RNAV STAR RWY 30.pdf"
+				},
+				"NON-RNAV INA RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_INA.pdf",
+					"filename": "EFJY - NON-RNAV INA RWY 12.pdf"
+				},
+				"NON-RNAV INA RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_INA.pdf",
+					"filename": "EFJY - NON-RNAV INA RWY 30.pdf"
+				},
+				"RNP RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_RNP.pdf",
+					"filename": "EFJY - RNP RWY 12.pdf"
+				},
+				"VOR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_12_VOR.pdf",
+					"filename": "EFJY - VOR RWY 12.pdf"
+				},
+				"ILS Z or LOC Z RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_ILSZ.pdf",
+					"filename": "EFJY - ILS Z or LOC Z RWY 30.pdf"
+				},
+				"ILS Y or LOC Y RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_ILSY.pdf",
+					"filename": "EFJY - ILS Y or LOC Y RWY 30.pdf"
+				},
+				"RNP RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_RNP.pdf",
+					"filename": "EFJY - RNP RWY 30.pdf"
+				},
+				"VOR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_30_VOR.pdf",
+					"filename": "EFJY - VOR RWY 30.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_VAC.pdf",
+					"filename": "EFJY - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_LDG.pdf",
+					"filename": "EFJY - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_WPT_LIST.pdf",
+					"filename": "EFJY - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_PRD_INDEX.pdf",
+					"filename": "EFJY - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_APN_STANDS.pdf",
+					"filename": "EFJY - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_TWY.pdf",
+					"filename": "EFJY - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efjy/EF_AD_2_EFJY_FAS_DB.pdf",
+					"filename": "EFJY - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Kajaani : EFKI": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_EN.pdf",
+					"filename": "EFKI - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_ADC.pdf",
+					"filename": "EFKI - ADC.pdf"
+				},
+				"AOC RWY 07/25": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_0725_AOC.pdf",
+					"filename": "EFKI - AOC RWY 07-25.pdf"
+				},
+				"RNAV SID RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_SIDR.pdf",
+					"filename": "EFKI - RNAV SID RWY 07.pdf"
+				},
+				"RNAV SID RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_25_SIDR.pdf",
+					"filename": "EFKI - RNAV SID RWY 25.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_OMNIDEP.pdf",
+					"filename": "EFKI - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_STAR.pdf",
+					"filename": "EFKI - RNAV STAR RWY 07.pdf"
+				},
+				"RNAV STAR RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_25_STAR.pdf",
+					"filename": "EFKI - RNAV STAR RWY 25.pdf"
+				},
+				"ILS or LOC RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_ILS.pdf",
+					"filename": "EFKI - ILS or LOC RWY 07.pdf"
+				},
+				"RNP RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_07_RNP.pdf",
+					"filename": "EFKI - RNP RWY 07.pdf"
+				},
+				"RNP RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_25_RNP.pdf",
+					"filename": "EFKI - RNP RWY 25.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_VAC.pdf",
+					"filename": "EFKI - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_LDG.pdf",
+					"filename": "EFKI - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_WPT_LIST.pdf",
+					"filename": "EFKI - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_PRD_INDEX.pdf",
+					"filename": "EFKI - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_APN_STANDS.pdf",
+					"filename": "EFKI - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_TWY.pdf",
+					"filename": "EFKI - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efki/EF_AD_2_EFKI_FAS_DB.pdf",
+					"filename": "EFKI - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Kauhava : EFKA": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_EN.pdf",
+					"filename": "EFKA - Tekstisivut - Textpages.pdf"
+				},
+				"RNP RWY 17": {
+					"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_17_RNP.pdf",
+					"filename": "EFKA - RNP RWY 17.pdf"
+				},
+				"RNP RWY 35": {
+					"url": "https://ais.fi/ais/eaip/ad/efka/EF_AD_2_EFKA_35_RNP.pdf",
+					"filename": "EFKA - RNP RWY 35.pdf"
+				}
+			},
+			"Kemi-Tornio : EFKE": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_EN.pdf",
+					"filename": "EFKE - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_ADC.pdf",
+					"filename": "EFKE - ADC.pdf"
+				},
+				"AOC RWY 18/36": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_1836_AOC.pdf",
+					"filename": "EFKE - AOC RWY 18-36.pdf"
+				},
+				"RNAV SID RWY 18": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_SIDR.pdf",
+					"filename": "EFKE - RNAV SID RWY 18.pdf"
+				},
+				"RNAV SID RWY 36": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_SIDR.pdf",
+					"filename": "EFKE - RNAV SID RWY 36.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_OMNIDEP.pdf",
+					"filename": "EFKE - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 18": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_STAR.pdf",
+					"filename": "EFKE - RNAV STAR RWY 18.pdf"
+				},
+				"RNAV STAR RWY 36": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_STAR.pdf",
+					"filename": "EFKE - RNAV STAR RWY 36.pdf"
+				},
+				"ILS Z or LOC Z RWY 18": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_ILSZ.pdf",
+					"filename": "EFKE - ILS Z or LOC Z RWY 18.pdf"
+				},
+				"ILS Y or LOC Y RWY 18": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_ILSY.pdf",
+					"filename": "EFKE - ILS Y or LOC Y RWY 18.pdf"
+				},
+				"RNP RWY 18": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_RNP.pdf",
+					"filename": "EFKE - RNP RWY 18.pdf"
+				},
+				"NDB RWY 18": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_18_NDB.pdf",
+					"filename": "EFKE - NDB RWY 18.pdf"
+				},
+				"RNP RWY 36": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_RNP.pdf",
+					"filename": "EFKE - RNP RWY 36.pdf"
+				},
+				"NDB RWY 36": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_36_NDB.pdf",
+					"filename": "EFKE - NDB RWY 36.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_VAC.pdf",
+					"filename": "EFKE - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_LDG.pdf",
+					"filename": "EFKE - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_WPT_LIST.pdf",
+					"filename": "EFKE - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_PRD_INDEX.pdf",
+					"filename": "EFKE - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_APN_STANDS.pdf",
+					"filename": "EFKE - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_TWY.pdf",
+					"filename": "EFKE - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efke/EF_AD_2_EFKE_FAS_DB.pdf",
+					"filename": "EFKE - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Kittilä : EFKT": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_EN.pdf",
+					"filename": "EFKT - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_ADC.pdf",
+					"filename": "EFKT - ADC.pdf"
+				},
+				"AOC RWY 16/34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_1634_AOC.pdf",
+					"filename": "EFKT - AOC RWY 16-34.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_ATCSMAC.pdf",
+					"filename": "EFKT - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_SIDR.pdf",
+					"filename": "EFKT - RNAV SID RWY 16.pdf"
+				},
+				"RNAV SID RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_SIDR.pdf",
+					"filename": "EFKT - RNAV SID RWY 34.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_OMNIDEP.pdf",
+					"filename": "EFKT - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_STAR.pdf",
+					"filename": "EFKT - RNAV STAR RWY 16.pdf"
+				},
+				"RNAV STAR RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_STAR.pdf",
+					"filename": "EFKT - RNAV STAR RWY 34.pdf"
+				},
+				"LOC Z RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_LOCZ.pdf",
+					"filename": "EFKT - LOC Z RWY 16.pdf"
+				},
+				"LOC Y RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_LOCY.pdf",
+					"filename": "EFKT - LOC Y RWY 16.pdf"
+				},
+				"RNP RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_16_RNP.pdf",
+					"filename": "EFKT - RNP RWY 16.pdf"
+				},
+				"ILS Z or LOC Z RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_ILSZ.pdf",
+					"filename": "EFKT - ILS Z or LOC Z RWY 34.pdf"
+				},
+				"ILS Y or LOC Y RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_ILSY.pdf",
+					"filename": "EFKT - ILS Y or LOC Y RWY 34.pdf"
+				},
+				"RNP RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_RNP.pdf",
+					"filename": "EFKT - RNP RWY 34.pdf"
+				},
+				"NDB RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_34_NDB.pdf",
+					"filename": "EFKT - NDB RWY 34.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_VAC.pdf",
+					"filename": "EFKT - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_LDG.pdf",
+					"filename": "EFKT - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_WPT_LIST.pdf",
+					"filename": "EFKT - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_PRD_INDEX.pdf",
+					"filename": "EFKT - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_APN_STANDS.pdf",
+					"filename": "EFKT - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_TWY.pdf",
+					"filename": "EFKT - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efkt/EF_AD_2_EFKT_FAS_DB.pdf",
+					"filename": "EFKT - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Kokkola-Pietarsaari : EFKK": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_EN.pdf",
+					"filename": "EFKK - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_ADC.pdf",
+					"filename": "EFKK - ADC.pdf"
+				},
+				"AOC RWY 01/19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_0119_AOC.pdf",
+					"filename": "EFKK - AOC RWY 01-19.pdf"
+				},
+				"RNAV SID RWY 01": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_SIDR.pdf",
+					"filename": "EFKK - RNAV SID RWY 01.pdf"
+				},
+				"RNAV SID RWY 19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_SIDR.pdf",
+					"filename": "EFKK - RNAV SID RWY 19.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_OMNIDEP.pdf",
+					"filename": "EFKK - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 01": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_STAR.pdf",
+					"filename": "EFKK - RNAV STAR RWY 01.pdf"
+				},
+				"RNAV STAR RWY 19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_STAR.pdf",
+					"filename": "EFKK - RNAV STAR RWY 19.pdf"
+				},
+				"RNP RWY 01": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_RNP.pdf",
+					"filename": "EFKK - RNP RWY 01.pdf"
+				},
+				"NDB RWY 01": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_01_NDB.pdf",
+					"filename": "EFKK - NDB RWY 01.pdf"
+				},
+				"ILS Z or LOC Z RWY 19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_ILSZ.pdf",
+					"filename": "EFKK - ILS Z or LOC Z RWY 19.pdf"
+				},
+				"ILS Y or LOC Y RWY 19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_ILSY.pdf",
+					"filename": "EFKK - ILS Y or LOC Y RWY 19.pdf"
+				},
+				"RNP RWY 19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_RNP.pdf",
+					"filename": "EFKK - RNP RWY 19.pdf"
+				},
+				"NDB RWY 19": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_19_NDB.pdf",
+					"filename": "EFKK - NDB RWY 19.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_VAC.pdf",
+					"filename": "EFKK - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_LDG.pdf",
+					"filename": "EFKK - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_WPT_LIST.pdf",
+					"filename": "EFKK - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_PRD_INDEX.pdf",
+					"filename": "EFKK - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_APN_STANDS.pdf",
+					"filename": "EFKK - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_TWY.pdf",
+					"filename": "EFKK - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efkk/EF_AD_2_EFKK_FAS_DB.pdf",
+					"filename": "EFKK - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Kuopio : EFKU": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_EN.pdf",
+					"filename": "EFKU - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_ADC.pdf",
+					"filename": "EFKU - ADC.pdf"
+				},
+				"AGMC": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_AGMC.pdf",
+					"filename": "EFKU - AGMC.pdf"
+				},
+				"AOC RWY 15/33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_1533_AOC.pdf",
+					"filename": "EFKU - AOC RWY 15-33.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_ATCSMAC.pdf",
+					"filename": "EFKU - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_SIDR.pdf",
+					"filename": "EFKU - RNAV SID RWY 15.pdf"
+				},
+				"RNAV SID RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_SIDR.pdf",
+					"filename": "EFKU - RNAV SID RWY 33.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_OMNIDEP.pdf",
+					"filename": "EFKU - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_STAR.pdf",
+					"filename": "EFKU - RNAV STAR RWY 15.pdf"
+				},
+				"RNAV STAR RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_STAR.pdf",
+					"filename": "EFKU - RNAV STAR RWY 33.pdf"
+				},
+				"NON-RNAV INA RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_INA.pdf",
+					"filename": "EFKU - NON-RNAV INA RWY 15.pdf"
+				},
+				"NON-RNAV INA RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_INA.pdf",
+					"filename": "EFKU - NON-RNAV INA RWY 33.pdf"
+				},
+				"RNP RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_RNP.pdf",
+					"filename": "EFKU - RNP RWY 15.pdf"
+				},
+				"VOR RWY 15": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_15_VOR.pdf",
+					"filename": "EFKU - VOR RWY 15.pdf"
+				},
+				"ILS Z or LOC Z RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_ILSZ.pdf",
+					"filename": "EFKU - ILS Z or LOC Z RWY 33.pdf"
+				},
+				"ILS Y or LOC Y RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_ILSY.pdf",
+					"filename": "EFKU - ILS Y or LOC Y RWY 33.pdf"
+				},
+				"RNP RWY 33": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_33_RNP.pdf",
+					"filename": "EFKU - RNP RWY 33.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_VAC.pdf",
+					"filename": "EFKU - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_LDG.pdf",
+					"filename": "EFKU - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_WPT_LIST.pdf",
+					"filename": "EFKU - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_PRD_INDEX.pdf",
+					"filename": "EFKU - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_APN_STANDS.pdf",
+					"filename": "EFKU - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_TWY.pdf",
+					"filename": "EFKU - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efku/EF_AD_2_EFKU_FAS_DB.pdf",
+					"filename": "EFKU - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Kuusamo : EFKS": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_EN.pdf",
+					"filename": "EFKS - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_ADC.pdf",
+					"filename": "EFKS - ADC.pdf"
+				},
+				"AOC RWY 12/30": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_1230_AOC.pdf",
+					"filename": "EFKS - AOC RWY 12-30.pdf"
+				},
+				"RNAV SID RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_SIDR.pdf",
+					"filename": "EFKS - RNAV SID RWY 12.pdf"
+				},
+				"RNAV SID RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_SIDR.pdf",
+					"filename": "EFKS - RNAV SID RWY 30.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_OMNIDEP.pdf",
+					"filename": "EFKS - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_STAR.pdf",
+					"filename": "EFKS - RNAV STAR RWY 12.pdf"
+				},
+				"RNAV STAR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_STAR.pdf",
+					"filename": "EFKS - RNAV STAR RWY 30.pdf"
+				},
+				"ILS or LOC RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_ILS.pdf",
+					"filename": "EFKS - ILS or LOC RWY 12.pdf"
+				},
+				"RNP RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_12_RNP.pdf",
+					"filename": "EFKS - RNP RWY 12.pdf"
+				},
+				"RNP RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_30_RNP.pdf",
+					"filename": "EFKS - RNP RWY 30.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_VAC.pdf",
+					"filename": "EFKS - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_LDG.pdf",
+					"filename": "EFKS - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_WPT_LIST.pdf",
+					"filename": "EFKS - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_PRD_INDEX.pdf",
+					"filename": "EFKS - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_APN_STANDS.pdf",
+					"filename": "EFKS - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_TWY.pdf",
+					"filename": "EFKS - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efks/EF_AD_2_EFKS_FAS_DB.pdf",
+					"filename": "EFKS - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Lappeenranta : EFLP": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_EN.pdf",
+					"filename": "EFLP - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_ADC.pdf",
+					"filename": "EFLP - ADC.pdf"
+				},
+				"AOC RWY 06/24": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_0624_AOC.pdf",
+					"filename": "EFLP - AOC RWY 06-24.pdf"
+				},
+				"RNAV SID RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_SIDR.pdf",
+					"filename": "EFLP - RNAV SID RWY 06.pdf"
+				},
+				"RNAV SID RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_24_SIDR.pdf",
+					"filename": "EFLP - RNAV SID RWY 24.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_OMNIDEP.pdf",
+					"filename": "EFLP - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_STAR.pdf",
+					"filename": "EFLP - RNAV STAR RWY 06.pdf"
+				},
+				"RNAV STAR RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_24_STAR.pdf",
+					"filename": "EFLP - RNAV STAR RWY 24.pdf"
+				},
+				"ILS or LOC RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_ILS.pdf",
+					"filename": "EFLP - ILS or LOC RWY 06.pdf"
+				},
+				"RNP RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_06_RNP.pdf",
+					"filename": "EFLP - RNP RWY 06.pdf"
+				},
+				"RNP RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_24_RNP.pdf",
+					"filename": "EFLP - RNP RWY 24.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_VAC.pdf",
+					"filename": "EFLP - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_LDG.pdf",
+					"filename": "EFLP - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_WPT_LIST.pdf",
+					"filename": "EFLP - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_PRD_INDEX.pdf",
+					"filename": "EFLP - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_APN_STANDS.pdf",
+					"filename": "EFLP - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_TWY.pdf",
+					"filename": "EFLP - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/eflp/EF_AD_2_EFLP_FAS_DB.pdf",
+					"filename": "EFLP - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Mariehamn : EFMA": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_EN.pdf",
+					"filename": "EFMA - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_ADC.pdf",
+					"filename": "EFMA - ADC.pdf"
+				},
+				"AOC RWY 03/21": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_0321_AOC.pdf",
+					"filename": "EFMA - AOC RWY 03-21.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_ATCSMAC.pdf",
+					"filename": "EFMA - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_SIDR.pdf",
+					"filename": "EFMA - RNAV SID RWY 03.pdf"
+				},
+				"RNAV SID RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_SIDR.pdf",
+					"filename": "EFMA - RNAV SID RWY 21.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_OMNIDEP.pdf",
+					"filename": "EFMA - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_STAR.pdf",
+					"filename": "EFMA - RNAV STAR RWY 03.pdf"
+				},
+				"RNAV STAR RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_STAR.pdf",
+					"filename": "EFMA - RNAV STAR RWY 21.pdf"
+				},
+				"RNP RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_RNP.pdf",
+					"filename": "EFMA - RNP RWY 03.pdf"
+				},
+				"VOR RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_03_VOR.pdf",
+					"filename": "EFMA - VOR RWY 03.pdf"
+				},
+				"ILS Z or LOC Z RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_ILSZ.pdf",
+					"filename": "EFMA - ILS Z or LOC Z RWY 21.pdf"
+				},
+				"ILS Y or LOC Y RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_ILSY.pdf",
+					"filename": "EFMA - ILS Y or LOC Y RWY 21.pdf"
+				},
+				"RNP RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_21_RNP.pdf",
+					"filename": "EFMA - RNP RWY 21.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_VAC.pdf",
+					"filename": "EFMA - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_LDG.pdf",
+					"filename": "EFMA - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_WPT_LIST.pdf",
+					"filename": "EFMA - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_PRD_INDEX.pdf",
+					"filename": "EFMA - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_APN_STANDS.pdf",
+					"filename": "EFMA - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_TWY.pdf",
+					"filename": "EFMA - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efma/EF_AD_2_EFMA_FAS_DB.pdf",
+					"filename": "EFMA - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Mikkeli : EFMI": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_EN.pdf",
+					"filename": "EFMI - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_ADC.pdf",
+					"filename": "EFMI - ADC.pdf"
+				},
+				"AOC RWY 11/29": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_1129_AOC.pdf",
+					"filename": "EFMI - AOC RWY 11-29.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_OMNIDEP.pdf",
+					"filename": "EFMI - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"ILS Z or LOC Z RWY 11": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_ILSZ.pdf",
+					"filename": "EFMI - ILS Z or LOC Z RWY 11.pdf"
+				},
+				"ILS Y or LOC Y RWY 11": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_ILSY.pdf",
+					"filename": "EFMI - ILS Y or LOC Y RWY 11.pdf"
+				},
+				"RNP RWY 11": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_RNP.pdf",
+					"filename": "EFMI - RNP RWY 11.pdf"
+				},
+				"NDB RWY 11": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_11_NDB.pdf",
+					"filename": "EFMI - NDB RWY 11.pdf"
+				},
+				"RNP RWY 29": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_29_RNP.pdf",
+					"filename": "EFMI - RNP RWY 29.pdf"
+				},
+				"NDB RWY 29": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_29_NDB.pdf",
+					"filename": "EFMI - NDB RWY 29.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_VAC.pdf",
+					"filename": "EFMI - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_LDG.pdf",
+					"filename": "EFMI - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_WPT_LIST.pdf",
+					"filename": "EFMI - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_PRD_INDEX.pdf",
+					"filename": "EFMI - PRD INDEX.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_FAS_DB.pdf",
+					"filename": "EFMI - FAS DATA BLOCK.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_APN_STANDS.pdf",
+					"filename": "EFMI - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efmi/EF_AD_2_EFMI_TWY.pdf",
+					"filename": "EFMI - TAXIWAYS.pdf"
+				}
+			},
+			"Oulu : EFOU": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_EN.pdf",
+					"filename": "EFOU - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_ADC.pdf",
+					"filename": "EFOU - ADC.pdf"
+				},
+				"ADC RUNWAY AND TAXIWAY MARKINGS": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_MARK.pdf",
+					"filename": "EFOU - ADC RUNWAY AND TAXIWAY MARKINGS.pdf"
+				},
+				"AOC RWY 12/30": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_1230_AOC.pdf",
+					"filename": "EFOU - AOC RWY 12-30.pdf"
+				},
+				"PATC RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_PATC.pdf",
+					"filename": "EFOU - PATC RWY 12.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_ATCSMAC.pdf",
+					"filename": "EFOU - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_SIDR.pdf",
+					"filename": "EFOU - RNAV SID RWY 12.pdf"
+				},
+				"RNAV SID RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_SIDR.pdf",
+					"filename": "EFOU - RNAV SID RWY 30.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_OMNIDEP.pdf",
+					"filename": "EFOU - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_STAR.pdf",
+					"filename": "EFOU - RNAV STAR RWY 12.pdf"
+				},
+				"RNAV STAR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_STAR.pdf",
+					"filename": "EFOU - RNAV STAR RWY 30.pdf"
+				},
+				"NON-RNAV INA RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_INA.pdf",
+					"filename": "EFOU - NON-RNAV INA RWY 12.pdf"
+				},
+				"NON-RNAV INA RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_INA.pdf",
+					"filename": "EFOU - NON-RNAV INA RWY 30.pdf"
+				},
+				"ILS Z or LOC Z RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSZ.pdf",
+					"filename": "EFOU - ILS Z or LOC Z RWY 12.pdf"
+				},
+				"ILS Z RWY 12 CAT II": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSZCAT2.pdf",
+					"filename": "EFOU - ILS Z RWY 12 CAT II.pdf"
+				},
+				"ILS Y or LOC Y RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSY.pdf",
+					"filename": "EFOU - ILS Y or LOC Y RWY 12.pdf"
+				},
+				"ILS Y RWY 12 CAT II": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_ILSYCAT2.pdf",
+					"filename": "EFOU - ILS Y RWY 12 CAT II.pdf"
+				},
+				"RNP RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_RNP.pdf",
+					"filename": "EFOU - RNP RWY 12.pdf"
+				},
+				"VOR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_12_VOR.pdf",
+					"filename": "EFOU - VOR RWY 12.pdf"
+				},
+				"RNP RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_RNP.pdf",
+					"filename": "EFOU - RNP RWY 30.pdf"
+				},
+				"VOR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_30_VOR.pdf",
+					"filename": "EFOU - VOR RWY 30.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_VAC.pdf",
+					"filename": "EFOU - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_LDG.pdf",
+					"filename": "EFOU - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_WPT_LIST.pdf",
+					"filename": "EFOU - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_PRD_INDEX.pdf",
+					"filename": "EFOU - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_APN_STANDS.pdf",
+					"filename": "EFOU - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_TWY.pdf",
+					"filename": "EFOU - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efou/EF_AD_2_EFOU_FAS_DB.pdf",
+					"filename": "EFOU - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Pori : EFPO": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_EN.pdf",
+					"filename": "EFPO - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_ADC.pdf",
+					"filename": "EFPO - ADC.pdf"
+				},
+				"AOC RWY 12/30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_1230_AOC.pdf",
+					"filename": "EFPO - AOC RWY 12-30.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_ATCSMAC.pdf",
+					"filename": "EFPO - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_SIDR.pdf",
+					"filename": "EFPO - RNAV SID RWY 12.pdf"
+				},
+				"RNAV SID RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_SIDR.pdf",
+					"filename": "EFPO - RNAV SID RWY 30.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_OMNIDEP.pdf",
+					"filename": "EFPO - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_STAR.pdf",
+					"filename": "EFPO - RNAV STAR RWY 12.pdf"
+				},
+				"RNAV STAR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_STAR.pdf",
+					"filename": "EFPO - RNAV STAR RWY 30.pdf"
+				},
+				"NON-RNAV INA RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_INA.pdf",
+					"filename": "EFPO - NON-RNAV INA RWY 12.pdf"
+				},
+				"NON-RNAV INA RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_INA.pdf",
+					"filename": "EFPO - NON-RNAV INA RWY 30.pdf"
+				},
+				"RNP RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_RNP.pdf",
+					"filename": "EFPO - RNP RWY 12.pdf"
+				},
+				"VOR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_12_VOR.pdf",
+					"filename": "EFPO - VOR RWY 12.pdf"
+				},
+				"ILS Z or LOC Z RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_ILSZ.pdf",
+					"filename": "EFPO - ILS Z or LOC Z RWY 30.pdf"
+				},
+				"ILS Y or LOC Y RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_ILSY.pdf",
+					"filename": "EFPO - ILS Y or LOC Y RWY 30.pdf"
+				},
+				"RNP RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_RNP.pdf",
+					"filename": "EFPO - RNP RWY 30.pdf"
+				},
+				"VOR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_30_VOR.pdf",
+					"filename": "EFPO - VOR RWY 30.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_VAC.pdf",
+					"filename": "EFPO - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_LDG.pdf",
+					"filename": "EFPO - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_WPT_LIST.pdf",
+					"filename": "EFPO - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_PRD_INDEX.pdf",
+					"filename": "EFPO - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_APN_STANDS.pdf",
+					"filename": "EFPO - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_TWY.pdf",
+					"filename": "EFPO - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efpo/EF_AD_2_EFPO_FAS_DB.pdf",
+					"filename": "EFPO - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Rovaniemi : EFRO": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_EN.pdf",
+					"filename": "EFRO - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_ADC.pdf",
+					"filename": "EFRO - ADC.pdf"
+				},
+				"ADC RUNWAY AND TAXIWAY MARKINGS": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_MARK.pdf",
+					"filename": "EFRO - ADC RUNWAY AND TAXIWAY MARKINGS.pdf"
+				},
+				"APDC": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_APDC.pdf",
+					"filename": "EFRO - APDC.pdf"
+				},
+				"AGMC": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_AGMC.pdf",
+					"filename": "EFRO - AGMC.pdf"
+				},
+				"AOC RWY 03/21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_0321_AOC.pdf",
+					"filename": "EFRO - AOC RWY 03-21.pdf"
+				},
+				"PATC RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_PATC.pdf",
+					"filename": "EFRO - PATC RWY 21.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_ATCSMAC.pdf",
+					"filename": "EFRO - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_SIDR.pdf",
+					"filename": "EFRO - RNAV SID RWY 03.pdf"
+				},
+				"RNAV SID RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_SIDR.pdf",
+					"filename": "EFRO - RNAV SID RWY 21.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_OMNIDEP.pdf",
+					"filename": "EFRO - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_STAR.pdf",
+					"filename": "EFRO - RNAV STAR RWY 03.pdf"
+				},
+				"RNAV STAR RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_STAR.pdf",
+					"filename": "EFRO - RNAV STAR RWY 21.pdf"
+				},
+				"NON-RNAV INA RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_INA.pdf",
+					"filename": "EFRO - NON-RNAV INA RWY 03.pdf"
+				},
+				"NON-RNAV INA RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_INA.pdf",
+					"filename": "EFRO - NON-RNAV INA RWY 21.pdf"
+				},
+				"RNP RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_RNP.pdf",
+					"filename": "EFRO - RNP RWY 03.pdf"
+				},
+				"VOR RWY 03": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_03_VOR.pdf",
+					"filename": "EFRO - VOR RWY 03.pdf"
+				},
+				"ILS Z or LOC Z RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSZ.pdf",
+					"filename": "EFRO - ILS Z or LOC Z RWY 21.pdf"
+				},
+				"ILS Z RWY 21 CAT II": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSZCAT2.pdf",
+					"filename": "EFRO - ILS Z RWY 21 CAT II.pdf"
+				},
+				"ILS Y or LOC Y RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSY.pdf",
+					"filename": "EFRO - ILS Y or LOC Y RWY 21.pdf"
+				},
+				"ILS Y RWY 21 CAT II": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_ILSYCAT2.pdf",
+					"filename": "EFRO - ILS Y RWY 21 CAT II.pdf"
+				},
+				"RNP RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_RNP.pdf",
+					"filename": "EFRO - RNP RWY 21.pdf"
+				},
+				"VOR RWY 21": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_21_VOR.pdf",
+					"filename": "EFRO - VOR RWY 21.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_VAC.pdf",
+					"filename": "EFRO - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_LDG.pdf",
+					"filename": "EFRO - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_WPT_LIST.pdf",
+					"filename": "EFRO - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_PRD_INDEX.pdf",
+					"filename": "EFRO - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_APN_STANDS.pdf",
+					"filename": "EFRO - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_TWY.pdf",
+					"filename": "EFRO - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efro/EF_AD_2_EFRO_FAS_DB.pdf",
+					"filename": "EFRO - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Savonlinna : EFSA": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_EN.pdf",
+					"filename": "EFSA - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_ADC.pdf",
+					"filename": "EFSA - ADC.pdf"
+				},
+				"AOC RWY 12/30": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_1230_AOC.pdf",
+					"filename": "EFSA - AOC RWY 12-30.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_OMNIDEP.pdf",
+					"filename": "EFSA - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_12_STAR.pdf",
+					"filename": "EFSA - RNAV STAR RWY 12.pdf"
+				},
+				"RNAV STAR RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_30_STAR.pdf",
+					"filename": "EFSA - RNAV STAR RWY 30.pdf"
+				},
+				"ILS or LOC RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_12_ILS.pdf",
+					"filename": "EFSA - ILS or LOC RWY 12.pdf"
+				},
+				"RNP RWY 12": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_12_RNP.pdf",
+					"filename": "EFSA - RNP RWY 12.pdf"
+				},
+				"RNP RWY 30": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_30_RNP.pdf",
+					"filename": "EFSA - RNP RWY 30.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_VAC.pdf",
+					"filename": "EFSA - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_LDG.pdf",
+					"filename": "EFSA - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_WPT_LIST.pdf",
+					"filename": "EFSA - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_PRD_INDEX.pdf",
+					"filename": "EFSA - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_APN_STANDS.pdf",
+					"filename": "EFSA - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_TWY.pdf",
+					"filename": "EFSA - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efsa/EF_AD_2_EFSA_FAS_DB.pdf",
+					"filename": "EFSA - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Seinäjoki : EFSI": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_EN.pdf",
+					"filename": "EFSI - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_ADC.pdf",
+					"filename": "EFSI - ADC.pdf"
+				},
+				"AOC RWY 14/32": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_1432_AOC.pdf",
+					"filename": "EFSI - AOC RWY 14-32.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_OMNIDEP.pdf",
+					"filename": "EFSI - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNP RWY 14": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_14_RNP.pdf",
+					"filename": "EFSI - RNP RWY 14.pdf"
+				},
+				"NDB RWY 14": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_14_NDB.pdf",
+					"filename": "EFSI - NDB RWY 14.pdf"
+				},
+				"ILS Z or LOC Z RWY 32": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_ILSZ.pdf",
+					"filename": "EFSI - ILS Z or LOC Z RWY 32.pdf"
+				},
+				"ILS Y or LOC Y RWY 32": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_ILSY.pdf",
+					"filename": "EFSI - ILS Y or LOC Y RWY 32.pdf"
+				},
+				"RNP RWY 32": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_RNP.pdf",
+					"filename": "EFSI - RNP RWY 32.pdf"
+				},
+				"NDB RWY 32": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_32_NDB.pdf",
+					"filename": "EFSI - NDB RWY 32.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_VAC.pdf",
+					"filename": "EFSI - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_LDG.pdf",
+					"filename": "EFSI - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_WPT_LIST.pdf",
+					"filename": "EFSI - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_PRD_INDEX.pdf",
+					"filename": "EFSI - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_APN_STANDS.pdf",
+					"filename": "EFSI - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_TWY.pdf",
+					"filename": "EFSI - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efsi/EF_AD_2_EFSI_FAS_DB.pdf",
+					"filename": "EFSI - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Tampere-Pirkkala : EFTP": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_EN.pdf",
+					"filename": "EFTP - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_ADC.pdf",
+					"filename": "EFTP - ADC.pdf"
+				},
+				"AGMC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_AGMC.pdf",
+					"filename": "EFTP - AGMC.pdf"
+				},
+				"AOC RWY 06/24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_0624_AOC.pdf",
+					"filename": "EFTP - AOC RWY 06-24.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_ATCSMAC.pdf",
+					"filename": "EFTP - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_SIDR.pdf",
+					"filename": "EFTP - RNAV SID RWY 06.pdf"
+				},
+				"RNAV SID RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_SIDR.pdf",
+					"filename": "EFTP - RNAV SID RWY 24.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_OMNIDEP.pdf",
+					"filename": "EFTP - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_STAR.pdf",
+					"filename": "EFTP - RNAV STAR RWY 06.pdf"
+				},
+				"RNAV STAR RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_STAR.pdf",
+					"filename": "EFTP - RNAV STAR RWY 24.pdf"
+				},
+				"NON-RNAV INA RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_INA.pdf",
+					"filename": "EFTP - NON-RNAV INA RWY 06.pdf"
+				},
+				"NON-RNAV INA RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_INA.pdf",
+					"filename": "EFTP - NON-RNAV INA RWY 24.pdf"
+				},
+				"RNP RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_RNP.pdf",
+					"filename": "EFTP - RNP RWY 06.pdf"
+				},
+				"VOR RWY 06": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_06_VOR.pdf",
+					"filename": "EFTP - VOR RWY 06.pdf"
+				},
+				"ILS Z or LOC Z RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_ILSZ.pdf",
+					"filename": "EFTP - ILS Z or LOC Z RWY 24.pdf"
+				},
+				"ILS Y or LOC Y RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_ILSY.pdf",
+					"filename": "EFTP - ILS Y or LOC Y RWY 24.pdf"
+				},
+				"RNP RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_RNP.pdf",
+					"filename": "EFTP - RNP RWY 24.pdf"
+				},
+				"VOR RWY 24": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_24_VOR.pdf",
+					"filename": "EFTP - VOR RWY 24.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_VAC.pdf",
+					"filename": "EFTP - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_LDG.pdf",
+					"filename": "EFTP - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_WPT_LIST.pdf",
+					"filename": "EFTP - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_PRD_INDEX.pdf",
+					"filename": "EFTP - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_APN_STANDS.pdf",
+					"filename": "EFTP - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_TWY.pdf",
+					"filename": "EFTP - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/eftp/EF_AD_2_EFTP_FAS_DB.pdf",
+					"filename": "EFTP - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Turku : EFTU": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_EN.pdf",
+					"filename": "EFTU - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_ADC.pdf",
+					"filename": "EFTU - ADC.pdf"
+				},
+				"AGMC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_AGMC.pdf",
+					"filename": "EFTU - AGMC.pdf"
+				},
+				"AOC RWY 08/26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_0826_AOC.pdf",
+					"filename": "EFTU - AOC RWY 08-26.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_ATCSMAC.pdf",
+					"filename": "EFTU - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_SIDR.pdf",
+					"filename": "EFTU - RNAV SID RWY 08.pdf"
+				},
+				"RNAV SID RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_SIDR.pdf",
+					"filename": "EFTU - RNAV SID RWY 26.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_OMNIDEP.pdf",
+					"filename": "EFTU - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_STAR.pdf",
+					"filename": "EFTU - RNAV STAR RWY 08.pdf"
+				},
+				"RNAV STAR RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_STAR.pdf",
+					"filename": "EFTU - RNAV STAR RWY 26.pdf"
+				},
+				"NON-RNAV INA RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_INA.pdf",
+					"filename": "EFTU - NON-RNAV INA RWY 08.pdf"
+				},
+				"NON-RNAV INA RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_INA.pdf",
+					"filename": "EFTU - NON-RNAV INA RWY 26.pdf"
+				},
+				"RNP RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_RNP.pdf",
+					"filename": "EFTU - RNP RWY 08.pdf"
+				},
+				"VOR RWY 08": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_08_VOR.pdf",
+					"filename": "EFTU - VOR RWY 08.pdf"
+				},
+				"ILS Z or LOC Z RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_ILSZ.pdf",
+					"filename": "EFTU - ILS Z or LOC Z RWY 26.pdf"
+				},
+				"ILS Y or LOC Y RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_ILSY.pdf",
+					"filename": "EFTU - ILS Y or LOC Y RWY 26.pdf"
+				},
+				"RNP RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_RNP.pdf",
+					"filename": "EFTU - RNP RWY 26.pdf"
+				},
+				"VOR RWY 26": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_26_VOR.pdf",
+					"filename": "EFTU - VOR RWY 26.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_VAC.pdf",
+					"filename": "EFTU - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_LDG.pdf",
+					"filename": "EFTU - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_WPT_LIST.pdf",
+					"filename": "EFTU - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_PRD_INDEX.pdf",
+					"filename": "EFTU - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_APN_STANDS.pdf",
+					"filename": "EFTU - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_TWY.pdf",
+					"filename": "EFTU - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/eftu/EF_AD_2_EFTU_FAS_DB.pdf",
+					"filename": "EFTU - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Utti : EFUT": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_EN.pdf",
+					"filename": "EFUT - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_ADC.pdf",
+					"filename": "EFUT - ADC.pdf"
+				},
+				"AOC RWY 07/25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_0725_AOC.pdf",
+					"filename": "EFUT - AOC RWY 07-25.pdf"
+				},
+				"RNAV SID RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_SIDR.pdf",
+					"filename": "EFUT - RNAV SID RWY 07.pdf"
+				},
+				"RNAV SID RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_SIDR.pdf",
+					"filename": "EFUT - RNAV SID RWY 25.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_OMNIDEP.pdf",
+					"filename": "EFUT - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_STAR.pdf",
+					"filename": "EFUT - RNAV STAR RWY 07.pdf"
+				},
+				"RNAV STAR RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_STAR.pdf",
+					"filename": "EFUT - RNAV STAR RWY 25.pdf"
+				},
+				"RNP RWY 07 ": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_RNP.pdf",
+					"filename": "EFUT - RNP RWY 07 .pdf"
+				},
+				"VOR RWY 07": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_07_VOR.pdf",
+					"filename": "EFUT - VOR RWY 07.pdf"
+				},
+				"ILS Z or LOC Z RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_ILSZ.pdf",
+					"filename": "EFUT - ILS Z or LOC Z RWY 25.pdf"
+				},
+				"ILS Y or LOC Y RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_ILSY.pdf",
+					"filename": "EFUT - ILS Y or LOC Y RWY 25.pdf"
+				},
+				"RNP RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_RNP.pdf",
+					"filename": "EFUT - RNP RWY 25.pdf"
+				},
+				"VOR RWY 25": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_25_VOR.pdf",
+					"filename": "EFUT - VOR RWY 25.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_VAC.pdf",
+					"filename": "EFUT - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_LDG.pdf",
+					"filename": "EFUT - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_WPT_LIST.pdf",
+					"filename": "EFUT - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_PRD_INDEX.pdf",
+					"filename": "EFUT - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_APN_STANDS.pdf",
+					"filename": "EFUT - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_TWY.pdf",
+					"filename": "EFUT - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efut/EF_AD_2_EFUT_FAS_DB.pdf",
+					"filename": "EFUT - FAS DATA BLOCK.pdf"
+				}
+			},
+			"Vaasa : EFVA": {
+				"Tekstisivut / Textpages": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_EN.pdf",
+					"filename": "EFVA - Tekstisivut - Textpages.pdf"
+				},
+				"ADC": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_ADC.pdf",
+					"filename": "EFVA - ADC.pdf"
+				},
+				"AOC RWY 16/34": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_1634_AOC.pdf",
+					"filename": "EFVA - AOC RWY 16-34.pdf"
+				},
+				"ATC SMAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_ATCSMAC.pdf",
+					"filename": "EFVA - ATC SMAC.pdf"
+				},
+				"RNAV SID RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_SIDR.pdf",
+					"filename": "EFVA - RNAV SID RWY 16.pdf"
+				},
+				"RNAV SID RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_SIDR.pdf",
+					"filename": "EFVA - RNAV SID RWY 34.pdf"
+				},
+				"OMNIDIRECTIONAL DEPARTURES": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_OMNIDEP.pdf",
+					"filename": "EFVA - OMNIDIRECTIONAL DEPARTURES.pdf"
+				},
+				"RNAV STAR RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_STAR.pdf",
+					"filename": "EFVA - RNAV STAR RWY 16.pdf"
+				},
+				"RNAV STAR RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_STAR.pdf",
+					"filename": "EFVA - RNAV STAR RWY 34.pdf"
+				},
+				"NON-RNAV INA RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_INA.pdf",
+					"filename": "EFVA - NON-RNAV INA RWY 16.pdf"
+				},
+				"NON-RNAV INA RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_INA.pdf",
+					"filename": "EFVA - NON-RNAV INA RWY 34.pdf"
+				},
+				"ILS Z or LOC Z RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_ILSZ.pdf",
+					"filename": "EFVA - ILS Z or LOC Z RWY 16.pdf"
+				},
+				"ILS Y or LOC Y RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_ILSY.pdf",
+					"filename": "EFVA - ILS Y or LOC Y RWY 16.pdf"
+				},
+				"RNP RWY 16": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_16_RNP.pdf",
+					"filename": "EFVA - RNP RWY 16.pdf"
+				},
+				"RNP RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_RNP.pdf",
+					"filename": "EFVA - RNP RWY 34.pdf"
+				},
+				"VOR RWY 34": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_34_VOR.pdf",
+					"filename": "EFVA - VOR RWY 34.pdf"
+				},
+				"VAC": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_VAC.pdf",
+					"filename": "EFVA - VAC.pdf"
+				},
+				"LDG": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_LDG.pdf",
+					"filename": "EFVA - LDG.pdf"
+				},
+				"WAYPOINTS AND FIXES": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_WPT_LIST.pdf",
+					"filename": "EFVA - WAYPOINTS AND FIXES.pdf"
+				},
+				"PRD INDEX": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_PRD_INDEX.pdf",
+					"filename": "EFVA - PRD INDEX.pdf"
+				},
+				"APRONS AND ACFT STANDS": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_APN_STANDS.pdf",
+					"filename": "EFVA - APRONS AND ACFT STANDS.pdf"
+				},
+				"TAXIWAYS": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_TWY.pdf",
+					"filename": "EFVA - TAXIWAYS.pdf"
+				},
+				"FAS DATA BLOCK": {
+					"url": "https://ais.fi/ais/eaip/ad/efva/EF_AD_2_EFVA_FAS_DB.pdf",
+					"filename": "EFVA - FAS DATA BLOCK.pdf"
+				}
 			}
 		}
 	}

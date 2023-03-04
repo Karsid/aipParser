@@ -193,21 +193,57 @@ logging.getLogger("aipParser").addHandler(console)
 #header_user_agent="Mozilla/5.0"
 header_user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30"
 
-#
-# parse the main BE AIP page to get list of Aerodromes and their
-# associated information pages
-#
-def parseMainPageBE ( aipBaseUrl, aipRegion ):
-    aipMainPage = "{0}/html/eAIP/EB-menu-en-GB.html".format(aipBaseUrl)
+# define what section headers we want
+adType2 = "AD 2 AERODROMES"
+adType3 = "AD 3 HELIPORT"
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
+# structure to hold the page data
+aipPages = {
+    adType2 : {},
+    adType3 : {}
+}
+
+
+#
+# Common routine to add to the AIP page data structure
+#
+def addAipPage (adType, dromeCode, dromeName, dromeHref):
+    global aipPages
+
+    # check its a known type
+    if adType not in aipPages.keys():
+        logger.info ("    Unknown AD type found [{0}] for [{1}]. Ignoring.".format(adType, dromeCode))
+        return
+
+    if dromeCode not in aipPages[adType].keys():
+        dromeStructure = {
+                            "Name" : dromeName,
+                            "PageURL" : dromeHref,
+                            "PageLinks" : {}
+                         }
+        aipPages[adType][dromeCode] = dromeStructure
+    else:
+        logger.info ("    Duplicate code found [{0}] for AD type [{1}]. Ignoring.".format(dromeCode, adType))
+        return
+
+    logger.debug ("    {0} == {1} == {2} == {3}".format(adType, dromeCode, dromeName, dromeHref))
+
+    return
+
+
+#
+# Common routine to get a webpage
+#
+def getWebPage ( pageType, pageName, pageURL, sslHack = False ):
+    logger.info ("Parsing {0} {1} main page: {2}".format(pageName, pageType, pageURL))
+
     try:
-        # main site has broken site certificate, so ignore ssl issues
-        ssl._create_default_https_context = ssl._create_unverified_context
+        if sslHack:
+            # main site has broken site certificate, so ignore ssl issues
+            ssl._create_default_https_context = ssl._create_unverified_context
 
         # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
+        page = urllib.request.urlopen(Request(pageURL, headers={"User-Agent": header_user_agent})).read()
     except urllib.error.HTTPError as e:
         logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
         exit(1)
@@ -215,14 +251,28 @@ def parseMainPageBE ( aipBaseUrl, aipRegion ):
         logger.error (traceback.format_exc())
         exit(1)
 
+    html = BeautifulSoup(page, "html.parser")
+
     logger.debug ("    TITLE : " + html.title.string)
     #logger.debug ("    PAGE :\n{0}".format(html))
 
+    return html
+
+
+#
+# parse the main BE AIP page to get list of Aerodromes and their
+# associated information pages
+#
+def parseMainPageBE ( aipBaseUrl, aipRegion ):
+    aipMainPage = "{0}/html/eAIP/EB-menu-en-GB.html".format(aipBaseUrl)
+
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage, True )
+
     # loop through all the link tags
-    aipPages = {}
-    type = ""
     for link in html.find_all("a"):
         #logger.debug (link)
+        type = ""
         title = ""
         href = ""
         id = ""
@@ -234,31 +284,24 @@ def parseMainPageBE ( aipBaseUrl, aipRegion ):
             href = link["href"]
         if ("id" in link.attrs):
             id = link["id"]
-            if ("AD-2plus" == id):
-                type = "AERODROME"
-            elif ("AD-3plus" == id):
-                type = "HELIPORT"
-            else:
+            if ("AD-2." == id[:5]):
+                type = adType2
+            elif ("AD-3." == id[:5]):
+                type = adType3
+
+            if type not in ("", None):
                 idSplit = id.split(".")
                 if len(idSplit) == 2:
                     code = idSplit[1]
 
-        # loop through all the span tags in the link tag
-        for span in link.find_all("span"):
-            if ("class" not in span.attrs):
-                continue
-            if ( "Number" in span["class"] ):
-                title = span.get_text().strip()
-
         #logger.debug (title + "==" + code + "==" + href + "==" + type)
 
         # check if this is a valid link we want
-        if (not title and href != "#" and code):
+        if (title and href and code and type):
             new_href = aipBaseUrl + "/html/eAIP/" + href.replace("#" + id, "")
-            aipPages[code] = type, name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+            addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -268,17 +311,8 @@ def parseMainPageBE ( aipBaseUrl, aipRegion ):
 def parseMainPageES ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/AIP.html".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     #https://ais.enaire.es/AIP/AIPS/AMDT_329_2020_AIRAC_06_2020/AIP/aip/ad/ad2/LECO_A_CORUNA/LE_AD_2_LECO_en.pdf
 
@@ -286,14 +320,12 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
     #https://ais.enaire.es/AIP/AIPS/AMDT_329_2020_AIRAC_06_2020/AIP/aip/ad/ad2/ad2.csv
     #https://ais.enaire.es/AIP/AIPS/AMDT_329_2020_AIRAC_06_2020/AIP/aip/ad/ad2/ad3.csv
 
-    logger.debug ("    TITLE : " + html.title.string)
     logger.debug ("    PAGE :\n{0}".format(html))
 
     logger.fatal ("    Unable to continue as dont know how to get the aerodrome page data")
     exit(1)
 
     # loop through all the link tags
-    aipPages = {}
     type = ""
     for link in html.find_all("a"):
         #logger.debug (link)
@@ -309,9 +341,9 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
         if ("id" in link.attrs):
             id = link["id"]
             if ("AD-2plus" == id):
-                type = "AERODROME"
+                type = adType2
             elif ("AD-3plus" == id):
-                type = "HELIPORT"
+                type = adType3
 
         # loop through all the span tags in the link tag
         for span in link.find_all("span"):
@@ -328,10 +360,9 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (not title and href != "#" and code):
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            aipPages[code] = type, name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+            addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -341,24 +372,11 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
 def parseMainPageFI ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/eaip/en/index3.htm".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE :" + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
-    type = "AERODROME"
+    type = adType2
     charts = False
     for div in html.find_all("div"):
         if div.get_text() != "AD":
@@ -393,10 +411,9 @@ def parseMainPageFI ( aipBaseUrl, aipRegion ):
             # check if this is a valid link we want
             if (href and code):
                 new_href = aipBaseUrl + "/eaip/" + href.replace("../", "")
-                aipPages[code] = type, name, new_href
-                logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+                addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -406,23 +423,10 @@ def parseMainPageFI ( aipBaseUrl, aipRegion ):
 def parseMainPageFR ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/html/eAIP/FR-menu-fr-FR.html".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE :" + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
     type = ""
     for link in html.find_all("a"):
         title = ""
@@ -435,9 +439,9 @@ def parseMainPageFR ( aipBaseUrl, aipRegion ):
         if ("id" in link.attrs):
             id = link["id"]
             if ("AD-2plus" == id):
-                type = "AERODROME"
+                type = adType2
             elif ("AD-3plus" == id):
-                type = "HELIPORT"
+                type = adType3
             else:
                 idSplit = id.split(".")
                 if len(idSplit) == 3:
@@ -455,10 +459,9 @@ def parseMainPageFR ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (not title and href != "#" and code):
             new_href = aipBaseUrl + "/html/eAIP/" + href.replace("#" + id, "")
-            aipPages[code] = type, name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+            addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -468,23 +471,10 @@ def parseMainPageFR ( aipBaseUrl, aipRegion ):
 def parseMainPageIE ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/aip_directory.htm".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE :" + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the table tags
-    aipPages = {}
     for tr in html.find_all("tr"):
         href = ""
         code = ""
@@ -498,7 +488,7 @@ def parseMainPageIE ( aipBaseUrl, aipRegion ):
                     # fudge for ireland west link
                     if len(link.get_text()) > 19:
                         name = link.get_text()[:(len(link.get_text()) - 18)]
-                    type = "AERODROME"
+                    type = adType2
                 else:
                     # fudge for ireland west link
                     name = link.get_text().strip()
@@ -508,10 +498,9 @@ def parseMainPageIE ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (href and code):
             new_href = aipBaseUrl + "/" + href
-            aipPages[code] = type, name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+            addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -521,23 +510,10 @@ def parseMainPageIE ( aipBaseUrl, aipRegion ):
 def parseMainPageNL ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/html/eAIP/EH-menu-en-GB.html".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
     type = ""
     for link in html.find_all("a"):
         #logger.debug (link)
@@ -551,9 +527,9 @@ def parseMainPageNL ( aipBaseUrl, aipRegion ):
         if ("id" in link.attrs):
             id = link["id"]
             if ("AD-2plus" == id):
-                type = "AERODROME"
+                type = adType2
             elif ("AD-3plus" == id):
-                type = "HELIPORT"
+                type = adType3
 
         # loop through all the span tags in the link tag
         for span in link.find_all("span"):
@@ -567,10 +543,9 @@ def parseMainPageNL ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (not title and href != "#" and code and type):
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            aipPages[code] = type, name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+            addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -580,23 +555,10 @@ def parseMainPageNL ( aipBaseUrl, aipRegion ):
 def parseMainPageNO ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/html/eAIP/EN-menu-en-GB.html".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
     type = ""
     for link in html.find_all("a"):
         #logger.debug (link)
@@ -611,9 +573,9 @@ def parseMainPageNO ( aipBaseUrl, aipRegion ):
         if ("id" in link.attrs):
             id = link["id"]
             if ("AD-2plus" == id):
-                type = "AERODROME"
+                type = adType2
             elif ("AD-3plus" == id):
-                type = "HELIPORT"
+                type = adType3
 
         # loop through all the span tags in the link tag
         for span in link.find_all("span"):
@@ -630,10 +592,9 @@ def parseMainPageNO ( aipBaseUrl, aipRegion ):
             code = name.split()[0]
             new_name = name.replace(code, "").strip()
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            aipPages[code] = type, new_name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, new_name, new_href))
+            addAipPage(type, code, new_name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -641,33 +602,21 @@ def parseMainPageNO ( aipBaseUrl, aipRegion ):
 # associated information pages
 #
 def parseMainPageRU ( aipBaseUrl, aipRegion ):
+    global aipPages
+
     aipMainPage = "{0}/html/menueng.htm".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE :" + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
-    pdfPages = {}
-    type = ""
     for script in html.find_all("script"):
         if ("language" in script.attrs):
             continue
 
         itemBegin = ""
         itemLink = ""
+        type = ""
         code = ""
         name = ""
         href = ""
@@ -675,6 +624,7 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
         tmpPages = {}
         for line in script.string.split("\n"):
             line = line[:-1]
+
             #logger.debug ( line )
             if ("ItemBegin" == line[:9]):
                 itemBegin = line[10:-2].replace("\", ", ",").replace("\"", "").split(",")
@@ -682,14 +632,14 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
                 if type in (None, ""):
                     if itemBegin[2] == "AD 2. Aerodromes":
                         logger.debug ("Found AERODROME section.")
-                        type = "AERODROME"
+                        type = adType2
                         continue
                     else:
                         itemBegin = ""
                         continue
                 if itemBegin[2] == "AD 3 Helidromes":
                     logger.debug ("Found HELIPORT section.")
-                    type = "HELIPORT"
+                    type = adType3
                     continue
                 elif itemBegin[2] in ("AD 4 Other aerodromes", "AD 4. Other aerodromes", "Aerodromes classes 4D"):
                     logger.debug ("Found OTHER section.")
@@ -704,9 +654,8 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
                         name = itemBegin[2][5:].strip()
 
                 # check if this is a valid link we want
-                if (code):
-                    aipPages[code] = type, name, ""
-                    logger.debug ("  {0} == {1} == {2}".format(type, code, name))
+                if (code and type and name):
+                    addAipPage(type, code, name, "")
             if ("ItemLink" == line[:8]):
                 if (not itemBegin):
                     continue
@@ -725,13 +674,13 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
             if ("ItemEnd" == line[:7]):
                 if (not itemBegin):
                     continue
-                pdfPages[code] = tmpPages
+                aipPages[type][code]["PageLinks"] = tmpPages
 
                 itemBegin = ""
                 itemLink = ""
                 tmpPages = {}
 
-    return aipPages, pdfPages
+    return
 
 
 #
@@ -741,24 +690,11 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
 def parseMainPageSE ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/Editorial/View/IAIP?folderId=19".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE :" + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "AIP",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
-    type = "AERODROME"
+    type = adType2
     for table in html.find_all("table"):
         #logger.debug (table)
         href = ""
@@ -779,10 +715,9 @@ def parseMainPageSE ( aipBaseUrl, aipRegion ):
             # check if this is a valid link we want
             if (href and code):
                 new_href = aipBaseUrl + "/" + href
-                aipPages[code] = type, name, new_href
-                logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+                addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -792,23 +727,10 @@ def parseMainPageSE ( aipBaseUrl, aipRegion ):
 def parseMainPageUK ( aipBaseUrl, aipRegion ):
     aipMainPage = "{0}/html/eAIP/EG-menu-en-GB.html".format(aipBaseUrl)
 
-    logger.info ("Parsing the {0} AIP main page: {1}".format(aipRegion, aipMainPage))
-    try:
-        # open up the main page and parse it
-        page = urllib.request.urlopen(Request(aipMainPage, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site page
+    html = getWebPage ( "AIP",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    aipPages = {}
     type = ""
     for link in html.find_all("a"):
         title = ""
@@ -826,9 +748,9 @@ def parseMainPageUK ( aipBaseUrl, aipRegion ):
         if ("id" in link.attrs):
             id = link["id"]
             if ("AD-2plus" == id):
-                type = "AERODROME"
+                type = adType2
             elif ("AD-3plus" == id):
-                type = "HELIPORT"
+                type = adType3
 
         # loop through all the span tags in the link tag
         for span in link.find_all("span"):
@@ -840,12 +762,11 @@ def parseMainPageUK ( aipBaseUrl, aipRegion ):
 #        logger.debug (title + "==" + code + "==" + href + "==" + type)
 
         # check if this is a valid link we want
-        if (not title and href != "#" and code):
+        if (not title and href != "#" and code and type):
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            aipPages[code] = type, name, new_href
-            logger.debug ("    {0} == {1} == {2} == {3}".format(type, code, name, new_href))
+            addAipPage(type, code, name, new_href)
 
-    return aipPages
+    return
 
 
 #
@@ -853,21 +774,8 @@ def parseMainPageUK ( aipBaseUrl, aipRegion ):
 # are available for that airodrome
 #
 def parseDromePageBE ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     newTitle = ""
@@ -904,21 +812,8 @@ def parseDromePageBE ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageFI ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for td in html.find_all("td"):
@@ -952,21 +847,8 @@ def parseDromePageFI ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageFR ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for div in html.find_all("div"):
@@ -1001,21 +883,8 @@ def parseDromePageFR ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageIE ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for tr in html.find_all("tr"):
@@ -1046,21 +915,8 @@ def parseDromePageIE ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageNL ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for div in html.find_all("div"):
@@ -1098,21 +954,8 @@ def parseDromePageNL ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageNO ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for div in html.find_all("div"):
@@ -1152,21 +995,8 @@ def parseDromePageNO ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageSE ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for section in html.find_all("section"):
@@ -1194,21 +1024,8 @@ def parseDromePageSE ( code, baseUrl, dromeUrl ):
 # are available for that airodrome
 #
 def parseDromePageUK ( code, baseUrl, dromeUrl ):
-    logger.info ("Parsing {0} Drome main page: {1}".format(code, dromeUrl))
-
-    try:
-        # open up the airodrome page and parse it
-        page = urllib.request.urlopen(Request(dromeUrl, headers={"User-Agent": header_user_agent})).read()
-        html = BeautifulSoup(page, "html.parser")
-    except urllib.error.HTTPError as e:
-        logger.error ("HTTP Error {0}: {1}".format(e.code, e.reason))
-        exit(1)
-    except Exception as e:
-        logger.error (traceback.format_exc())
-        exit(1)
-
-    logger.debug ("    TITLE : " + html.title.string)
-    #logger.debug ("    PAGE :\n{0}".format(html))
+    # get site drome page
+    html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
     for div in html.find_all("div"):
@@ -1253,12 +1070,14 @@ logger.info ("Started")
 #
 parser = argparse.ArgumentParser()
 parser.add_argument('--region', help='Region to generate [BE | ES | FI | FR | IE | NL | NO | RU | SE | UK]', choices=["BE", "ES", "FI", "FR", "IE", "NL", "NO", "RU", "SE", "UK"], default="UK")
+parser.add_argument('--previous', action="store_true", help='User previous schedule', default=False)
 parser.add_argument('--debug', action="store_true", help='Set debug logging', default=False)
 args = parser.parse_args()
 
 aipRegion=""
 aipRegionName=""
 aipRegionUrl=""
+usePreviousSchedule = False
 
 if args.region in aipInformation.keys():
     aipRegion = args.region
@@ -1270,7 +1089,8 @@ else:
 if args.debug:
     logging.getLogger("aipParser").setLevel(logging.DEBUG)
     console.setLevel(logging.DEBUG)
-
+if args.previous:
+    usePreviousSchedule = True
 
 #
 # Work out what the current schedule date should be.
@@ -1280,6 +1100,9 @@ currentDTG = datetime.datetime.now().strftime("%Y-%m-%d")
 logger.debug ("Current date is [{0}]".format(currentDTG))
 
 # loop through all the schedule dates looking for the latest
+prevPublished = ""
+prevRelease = ""
+lastPublished = ""
 lastRelease = ""
 currentPublished = ""
 currentRelease = ""
@@ -1292,10 +1115,16 @@ for dateLine in effectiveDates:
         currentPublished = lastPublished
         currentRelease = lastRelease
         break
+    prevPublished = lastPublished
+    prevRelease = lastRelease
     lastPublished = publishedDate
     lastRelease = scheduleDate
-#currentRelease = "2020-05-21"
-#offsetRelease = 20
+
+# check if we want to use the previous schedule
+if usePreviousSchedule:
+    currentRelease = prevRelease
+    currentPublished = prevPublished
+    offsetRelease -= 1
 
 logger.info ("Using schedule date [{0}]. Next schedule date is [{1}]".format(currentRelease, scheduleDate))
 
@@ -1307,58 +1136,56 @@ offsetNO = 108 + offsetRelease
 offsetES = 346 + offsetRelease
 
 #
-# set the base URL we want pages to hang from
-#
-if   aipRegion == "UK":
-    aipBaseUrl = "{0}/{1}-AIRAC".format(aipRegionUrl, currentRelease)
-elif aipRegion == "BE":
-    aipBaseUrl = "{0}/eaip/eAIP_Main".format(aipRegionUrl)
-elif aipRegion == "ES":
-    aipBaseUrl = "{0}/AIPS/AMDT_{1}_{2}_AIRAC_{3}_{2}".format(aipRegionUrl, offsetES, currentReleaseYear, currentReleaseMonth)
-elif aipRegion == "FI":
-    aipBaseUrl = "{0}/ais".format(aipRegionUrl)
-elif aipRegion == "FR":
-    aipBaseUrl = "{0}/eAIP_{1}/FRANCE/AIRAC-{2}".format(aipRegionUrl, currentReleaseAlt, currentRelease)
-elif aipRegion == "IE":
-    aipBaseUrl = "{0}/iaip".format(aipRegionUrl)
-elif aipRegion == "NO":
-    aipBaseUrl = "{0}/AIP/View/{1}/{2}-AIRAC".format(aipRegionUrl, offsetNO, currentRelease)
-elif aipRegion == "NL":
-    aipBaseUrl = "{0}/{1}-AIRAC".format(aipRegionUrl, currentPublished)
-elif aipRegion == "RU":
-    aipBaseUrl = "{0}/common/AirInter/validaip".format(aipRegionUrl)
-elif aipRegion == "SE":
-    aipBaseUrl = "{0}".format(aipRegionUrl)
-
-#
+# set the base URL we want pages to hang from and then
 # parse the main page and pull the airodrome page info
 #
 if   aipRegion == "UK":
-    aipPages = parseMainPageUK (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/{1}-AIRAC".format(aipRegionUrl, currentRelease)
+    parseMainPageUK (aipBaseUrl, aipRegion)
+
 elif aipRegion == "BE":
-    aipPages = parseMainPageBE (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/eaip/eAIP_Main".format(aipRegionUrl)
+    parseMainPageBE (aipBaseUrl, aipRegion)
+
 elif aipRegion == "ES":
-    aipPages = parseMainPageES (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/AIPS/AMDT_{1}_{2}_AIRAC_{3}_{2}".format(aipRegionUrl, offsetES, currentReleaseYear, currentReleaseMonth)
+    parseMainPageES (aipBaseUrl, aipRegion)
+
 elif aipRegion == "FI":
-    aipPages = parseMainPageFI (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/ais".format(aipRegionUrl)
+    parseMainPageFI (aipBaseUrl, aipRegion)
+
 elif aipRegion == "FR":
-    aipPages = parseMainPageFR (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/eAIP_{1}/FRANCE/AIRAC-{2}".format(aipRegionUrl, currentReleaseAlt, currentRelease)
+    parseMainPageFR (aipBaseUrl, aipRegion)
+
 elif aipRegion == "IE":
-    aipPages = parseMainPageIE (aipBaseUrl, aipRegion)
-elif aipRegion == "NL":
-    aipPages = parseMainPageNL (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/iaip".format(aipRegionUrl)
+    parseMainPageIE (aipBaseUrl, aipRegion)
+
 elif aipRegion == "NO":
-    aipPages = parseMainPageNO (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/AIP/View/{1}/{2}-AIRAC".format(aipRegionUrl, offsetNO, currentRelease)
+    parseMainPageNO (aipBaseUrl, aipRegion)
+
+elif aipRegion == "NL":
+    aipBaseUrl = "{0}/{1}-AIRAC".format(aipRegionUrl, currentPublished)
+    parseMainPageNL (aipBaseUrl, aipRegion)
+
 elif aipRegion == "RU":
-    aipPages, pdfPages = parseMainPageRU (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}/common/AirInter/validaip".format(aipRegionUrl)
+    parseMainPageRU (aipBaseUrl, aipRegion)
+
 elif aipRegion == "SE":
-    aipPages = parseMainPageSE (aipBaseUrl, aipRegion)
+    aipBaseUrl = "{0}".format(aipRegionUrl)
+    parseMainPageSE (aipBaseUrl, aipRegion)
+
 else:
     logger.fatal ("Unknown region passed for main page parsing: {0}".format(aipRegion))
     exit(1)
 
+
 #
-# loop through all airodromes to create JSON output string
+# create JSON output string
 #
 
 # initialise string to hold the JSON text
@@ -1377,49 +1204,66 @@ if aipRegion == "UK":
     outputString += "\t\t\t}\n"
 outputString += "\t\t},\n"
 
-for code in aipPages:
-    type, name, href = aipPages[code]
 
-    #
-    # parse the drome page and pull the pdf info
-    #
-    if   aipRegion == "UK":
-        aipPdfPages = parseDromePageUK (code, aipBaseUrl, href)
-    elif aipRegion == "BE":
-        aipPdfPages = parseDromePageBE (code, aipBaseUrl, href)
-    elif aipRegion == "FI":
-        aipPdfPages = parseDromePageFI (code, aipBaseUrl, href)
-    elif aipRegion == "FR":
-        aipPdfPages = parseDromePageFR (code, aipBaseUrl, href)
-    elif aipRegion == "IE":
-        aipPdfPages = parseDromePageIE (code, aipBaseUrl, href)
-    elif aipRegion == "NL":
-        aipPdfPages = parseDromePageNL (code, aipBaseUrl, href)
-    elif aipRegion == "NO":
-        aipPdfPages = parseDromePageNO (code, aipBaseUrl, href)
-    elif aipRegion == "RU":
-        aipPdfPages = pdfPages[code]
-    elif aipRegion == "SE":
-        aipPdfPages = parseDromePageSE (code, aipBaseUrl, href)
-    else:
-        logger.fatal ("Unknown region passed for drome page parsing: {0}".format(aipRegion))
-        exit(1)
+#
+# loop through all the found airodromes to pull out the PDF links
+# and then update the JSON output string
+#
+for adType in aipPages:
+    if len(aipPages[adType]) == 0:
+        continue
 
-    # check if we have any charts for this drome
-    if len(aipPdfPages) > 0:
-        #outputString += "\t\t\"" + code + " - " + name + "\": {\n"
-        outputString += "\t\t\"" + name + " : " + code + "\": {\n"
-    
-        # loop through all the PDF links to generate the schema
-        for title in aipPdfPages:
-            pdf_href, filename = aipPdfPages[title]
-            outputString += "\t\t\t\"" + title + "\": {\n"
-            outputString += "\t\t\t\t\"url\": \"" + pdf_href + "\",\n"
-            outputString += "\t\t\t\t\"filename\": \"" + filename + "\"\n"
-            outputString += "\t\t\t},\n"
+    outputString += "\t\t\"" + adType + "\": {\n"
 
-        outputString = outputString[:-2]
-        outputString += "\n\t\t},\n"
+    for dromeCode in aipPages[adType]:
+        dromeStructure = aipPages[adType][dromeCode]
+        dromeHref = dromeStructure["PageURL"]
+        dromName = dromeStructure["Name"]
+
+        #
+        # parse the drome page and pull the pdf info
+        #
+        if   aipRegion == "UK":
+            aipPdfPages = parseDromePageUK (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "BE":
+            aipPdfPages = parseDromePageBE (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "FI":
+            aipPdfPages = parseDromePageFI (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "FR":
+            aipPdfPages = parseDromePageFR (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "IE":
+            aipPdfPages = parseDromePageIE (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "NL":
+            aipPdfPages = parseDromePageNL (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "NO":
+            aipPdfPages = parseDromePageNO (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "RU":
+            # already pulled out the RU PDF links
+            aipPdfPages = dromeStructure["PageLinks"]
+        elif aipRegion == "SE":
+            aipPdfPages = parseDromePageSE (dromeCode, aipBaseUrl, dromeHref)
+        else:
+            logger.fatal ("Unknown region passed for drome page parsing: {0}".format(aipRegion))
+            exit(1)
+
+        # check if we have any charts for this drome
+        if len(aipPdfPages) > 0:
+            #outputString += "\t\t\t\"" + dromeCode + " - " + dromName + "\": {\n"
+            outputString += "\t\t\t\"" + dromName + " : " + dromeCode + "\": {\n"
+        
+            # loop through all the PDF links to generate the schema
+            for title in aipPdfPages:
+                pdf_href, filename = aipPdfPages[title]
+                outputString += "\t\t\t\t\"" + title + "\": {\n"
+                outputString += "\t\t\t\t\t\"url\": \"" + pdf_href + "\",\n"
+                outputString += "\t\t\t\t\t\"filename\": \"" + filename + "\"\n"
+                outputString += "\t\t\t\t},\n"
+
+            outputString = outputString[:-2]
+            outputString += "\n\t\t\t},\n"
+
+    outputString = outputString[:-2]
+    outputString += "\n\t\t},\n"
 
 outputString = outputString[:-2]
 outputString += "\n\t}\n}\n"
