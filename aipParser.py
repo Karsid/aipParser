@@ -163,7 +163,7 @@ effectiveDates = [
 # hold all the website information
 aipInformation = {
     "BE": ["Belgium",   "https://ops.skeyes.be/html/belgocontrol_static"],
-    "ES": ["Spain",     "https://ais.enaire.es/AIP"],
+    "ES": ["Spain",     "https://aip.enaire.es/AIP"],
     "FI": ["Finland",   "https://ais.fi"],
     "FR": ["France",    "https://www.sia.aviation-civile.gouv.fr/dvd"],
     "IE": ["Ireland",   "http://iaip.iaa.ie"],
@@ -309,58 +309,101 @@ def parseMainPageBE ( aipBaseUrl, aipRegion ):
 # associated information pages
 #
 def parseMainPageES ( aipBaseUrl, aipRegion ):
-    aipMainPage = "{0}/AIP.html".format(aipBaseUrl)
+    global aipPages
+
+    aipMainPage = "{0}/AIP-es.html".format(aipBaseUrl)
 
     # get site page
     html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
-    #https://ais.enaire.es/AIP/AIPS/AMDT_329_2020_AIRAC_06_2020/AIP/aip/ad/ad2/LECO_A_CORUNA/LE_AD_2_LECO_en.pdf
-
-    # files containing the AD2 and AD3 data
-    #https://ais.enaire.es/AIP/AIPS/AMDT_329_2020_AIRAC_06_2020/AIP/aip/ad/ad2/ad2.csv
-    #https://ais.enaire.es/AIP/AIPS/AMDT_329_2020_AIRAC_06_2020/AIP/aip/ad/ad2/ad3.csv
-
-    logger.debug ("    PAGE :\n{0}".format(html))
-
-    logger.fatal ("    Unable to continue as dont know how to get the aerodrome page data")
-    exit(1)
-
-    # loop through all the link tags
     type = ""
-    for link in html.find_all("a"):
-        #logger.debug (link)
-        title = ""
-        href = ""
-        id = ""
-        code = ""
-        name = ""
-        if ("title" in link.attrs):
-            title = link["title"].replace("\r", "").replace("\n", "")
-        if ("href" in link.attrs):
-            href = link["href"]
-        if ("id" in link.attrs):
-            id = link["id"]
-            if ("AD-2plus" == id):
+    old_code = ""
+    code = ""
+    name = ""
+    title = ""
+    href = ""
+    dromeDetail = False
+    tmpPages = {}
+    for item in html.find_all(["h1", "td"]):
+        #logger.debug ("{0} == {1} == {2}".format(type, item.name, item))
+
+        # try and find the section start
+        if item.name == "h1":
+            if item.get_text() == "AD 2":
                 type = adType2
-            elif ("AD-3plus" == id):
-                type = adType3
-
-        # loop through all the span tags in the link tag
-        for span in link.find_all("span"):
-            if ("class" not in span.attrs):
+                dromeDetail = False
                 continue
-            if ( "SD" in span["class"] ):
-                if (code):
-                    name = span.get_text()
-                else:
-                    code = span.get_text()
+            elif item.get_text() == "AD 3":
+                type = adType3
+                dromeDetail = False
+                old_code = ""
+                continue
+            else:
+                if type not in ("", None):
+                    dromeDetail = True
+                    continue
 
-        #logger.debug (title + "==" + code + "==" + href + "==" + type)
+        if type in ("", None):
+            continue
 
-        # check if this is a valid link we want
-        if (not title and href != "#" and code):
-            new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            addAipPage(type, code, name, new_href)
+        if item.name == "td" and not dromeDetail:
+            if ("class" in item.attrs):
+                if item["class"][0] == "id":
+                    # some drome codes have xxxx/xxxx so ignore second part
+                    code = item.get_text()[:4]
+                elif item["class"][0] == "desc":
+                    name = item.get_text()
+            if (type and code and name):
+                addAipPage(type, code, name, href)
+                code = ""
+                name = ""
+
+        if item.name == "td" and dromeDetail:
+            if ("class" in item.attrs):
+                if item["class"][0] == "id":
+                    text = item.get_text()
+                    code = text[5:9]
+
+                    if ("onclick" in item.attrs):
+                        onclick = item["onclick"]
+                        if onclick.find(".pdf") >= 0:
+                            href = "{0}/{1}".format(aipBaseUrl, onclick.split("\'")[1])
+                        else:
+                            code = ""
+                            href = ""
+                            title = ""
+                if item["class"][0] == "desc" and code not in ("", None):
+                    title = item.get_text()
+
+            if (type and code and title and href):
+                filename = code + " - " + title.replace("/", "-").replace(".", "") + ".pdf"
+                logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, href, filename))
+
+                if old_code == "" or old_code == code:
+                    tmpPages[title] = href, filename
+                    old_code = code
+                elif old_code != code:
+                    aipPages[type][old_code]["PageLinks"] = tmpPages
+                    tmpPages = {}
+                    tmpPages[title] = href, filename
+                    old_code = code
+
+                code = ""
+                title = ""
+                href = ""
+
+    if (type and code and title and href and filename):
+        filename = code + " - " + title.replace("/", "-").replace(".", "") + ".pdf"
+        logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, href, filename))
+
+        if old_code == "" or old_code == code:
+            tmpPages[title] = href, filename
+            aipPages[type][code]["PageLinks"] = tmpPages
+        elif old_code != code:
+            aipPages[type][old_code]["PageLinks"] = tmpPages
+            tmpPages = {}
+            tmpPages[title] = href, filename
+            aipPages[type][code]["PageLinks"] = tmpPages
 
     return
 
@@ -1148,7 +1191,7 @@ elif aipRegion == "BE":
     parseMainPageBE (aipBaseUrl, aipRegion)
 
 elif aipRegion == "ES":
-    aipBaseUrl = "{0}/AIPS/AMDT_{1}_{2}_AIRAC_{3}_{2}".format(aipRegionUrl, offsetES, currentReleaseYear, currentReleaseMonth)
+    aipBaseUrl = aipRegionUrl
     parseMainPageES (aipBaseUrl, aipRegion)
 
 elif aipRegion == "FI":
@@ -1218,7 +1261,7 @@ for adType in aipPages:
     for dromeCode in aipPages[adType]:
         dromeStructure = aipPages[adType][dromeCode]
         dromeHref = dromeStructure["PageURL"]
-        dromName = dromeStructure["Name"]
+        dromeName = dromeStructure["Name"]
 
         #
         # parse the drome page and pull the pdf info
@@ -1227,6 +1270,9 @@ for adType in aipPages:
             aipPdfPages = parseDromePageUK (dromeCode, aipBaseUrl, dromeHref)
         elif aipRegion == "BE":
             aipPdfPages = parseDromePageBE (dromeCode, aipBaseUrl, dromeHref)
+        elif aipRegion == "ES":
+            # already pulled out the ES PDF links
+            aipPdfPages = dromeStructure["PageLinks"]
         elif aipRegion == "FI":
             aipPdfPages = parseDromePageFI (dromeCode, aipBaseUrl, dromeHref)
         elif aipRegion == "FR":
@@ -1248,8 +1294,8 @@ for adType in aipPages:
 
         # check if we have any charts for this drome
         if len(aipPdfPages) > 0:
-            #outputString += "\t\t\t\"" + dromeCode + " - " + dromName + "\": {\n"
-            outputString += "\t\t\t\"" + dromName + " : " + dromeCode + "\": {\n"
+            #outputString += "\t\t\t\"" + dromeCode + " - " + dromeName + "\": {\n"
+            outputString += "\t\t\t\"" + dromeName + " : " + dromeCode + "\": {\n"
         
             # loop through all the PDF links to generate the schema
             for title in aipPdfPages:
