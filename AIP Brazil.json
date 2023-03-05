@@ -1,0 +1,214 @@
+{
+	"eBagLib": {
+		"0: Published - 2023-02-23": {
+		},
+		"AD 2 AERODROMES": {
+			"Adhemar de Barros : SBDN": {
+				"Aerodrome Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=4746cb1c-61e2-46a4-bcd0f9f224c7a8b7&apikey=1587263166",
+					"filename": "SBDN - Aerodrome Charter.pdf"
+				}
+			},
+			"Anápolis Air Force Base : SBAN": {
+				"Aerodrome Parking Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=d72d9e05-2e3f-412d-b4cbf89283622e2a&apikey=1587263166",
+					"filename": "SBAN - Aerodrome Parking Charter.pdf"
+				}
+			},
+			"Belém Air Force Base : SBBE": {
+				"RWY 02/20 - 06/24": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=ac4e7535-ae06-4a04-a22b41abcadf7435&apikey=1587263166",
+					"filename": "SBBE - RWY 02-20 - 06-24.pdf"
+				}
+			},
+			"Brig. Eduardo Gomes : SBEG": {
+				"VOR Z RWY 11": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=c4dfa1da-9b9c-40b3-869a5ecdfb9d839d&apikey=1587263166",
+					"filename": "SBEG - VOR Z RWY 11.pdf"
+				}
+			},
+			"Domingos Rego, Timon : SNDR": {
+				"Aerodrome Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=5a369dcc-3cd6-4566-9a3dced1d0b4c728&apikey=1587263166",
+					"filename": "SNDR - Aerodrome Charter.pdf"
+				},
+				"RWY 02/20": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=c29514e4-ccbd-42c3-b03841a8752ac93c&apikey=1587263166",
+					"filename": "SNDR - RWY 02-20.pdf"
+				}
+			},
+			"Dragão do Mar : SBAC": {
+				"RNP RWY 09": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=2c042e05-c345-420f-aa7cac5fada82fce&apikey=1587263166",
+					"filename": "SBAC - RNP RWY 09.pdf"
+				}
+			},
+			"Fortaleza Air Force Base : SBFZ": {
+				"RNAV IRURA 2B - ASOVU 1A RWY 13": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=feadb19a-4d04-4a6d-b1404a28a120f04b&apikey=1587263166",
+					"filename": "SBFZ - RNAV IRURA 2B - ASOVU 1A RWY 13.pdf"
+				}
+			},
+			"Garça, São Paulo : SDGC": {
+				"RWY 01/09": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=91514de0-dec2-4e70-ba570786a5c875e0&apikey=1587263166",
+					"filename": "SDGC - RWY 01-09.pdf"
+				}
+			},
+			"Glauber Rocha : SBVC": {
+				"RNAV ANKOL 1A - MIBEM 1A - MOTBO 1A - ORAPA 1A - UBLEK 1A RWY 15": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=2a9f0d70-e630-460e-ae77cd4e79cbccc9&apikey=1587263166",
+					"filename": "SBVC - RNAV ANKOL 1A - MIBEM 1A - MOTBO 1A - ORAPA 1A - UBLEK 1A RWY 15.pdf"
+				}
+			},
+			"Gov. Carlos Wilson : SBFN": {
+				"RNP Z RWY 12": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=ef735a01-959e-40c3-a4d81ee5a3f2af52&apikey=1587263166",
+					"filename": "SBFN - RNP Z RWY 12.pdf"
+				},
+				"RNP Z RWY 30": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=c18c8014-2f09-46f7-8d1bb72dc7239716&apikey=1587263166",
+					"filename": "SBFN - RNP Z RWY 30.pdf"
+				}
+			},
+			"Gov. José Richa : SBLO": {
+				"Aerodrome Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=d08986e5-9c26-43b6-8422dcf9091ca816&apikey=1587263166",
+					"filename": "SBLO - Aerodrome Charter.pdf"
+				}
+			},
+			"Humberto Ghizzo Bortoluzzi : SBJA": {
+				"OMNI RWY 05/23": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=2df576be-2e86-489b-850a751c712b4a03&apikey=1587263166",
+					"filename": "SBJA - OMNI RWY 05-23.pdf"
+				},
+				"RNAV NUNVU 2A RWY 23": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=5659d798-6f65-4762-81ce29267eb98150&apikey=1587263166",
+					"filename": "SBJA - RNAV NUNVU 2A RWY 23.pdf"
+				},
+				"RNAV OPRUK 2A RWY 05": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=02bfcf4c-6ec0-4101-b61cad706b182577&apikey=1587263166",
+					"filename": "SBJA - RNAV OPRUK 2A RWY 05.pdf"
+				}
+			},
+			"Lauro Carneiro de Loyola : SBJV": {
+				"RNAV POXOL 1F RWY 33": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=61ad6396-998b-4a41-b1d45e4794a004f4&apikey=1587263166",
+					"filename": "SBJV - RNAV POXOL 1F RWY 33.pdf"
+				},
+				"RNAV UMDUK 1E RWY 15": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=b7bdc97f-8820-4497-ae650c9c35afd43a&apikey=1587263166",
+					"filename": "SBJV - RNAV UMDUK 1E RWY 15.pdf"
+				}
+			},
+			"Manaus Air Force Base : SBMN": {
+				"OMNI RWY 09/27": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=3cc6076b-ef0a-447e-86663c724f26adf5&apikey=1587263166",
+					"filename": "SBMN - OMNI RWY 09-27.pdf"
+				},
+				"MASDU 1A - SIPOX 1A - VUPOM 1A RWY 09": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=23cf6214-0c0f-4e42-942f968f9d29eacf&apikey=1587263166",
+					"filename": "SBMN - MASDU 1A - SIPOX 1A - VUPOM 1A RWY 09.pdf"
+				},
+				"MASDU 1B - SIPOX 1B - VUPOM 1B RWY 27": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=2decd275-7f92-4aa7-9dc8e9c743b76c21&apikey=1587263166",
+					"filename": "SBMN - MASDU 1B - SIPOX 1B - VUPOM 1B RWY 27.pdf"
+				}
+			},
+			"Orlando Bezerra de Menezes : SBJU": {
+				"IAC RNP RWY 31": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=1765f7b5-e775-4a71-8424665f764ec846&apikey=1587263166",
+					"filename": "SBJU - IAC RNP RWY 31.pdf"
+				}
+			},
+			"Pedro Rabelo de Souza : SNZR": {
+				"RWY 11/29": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=441ff7a4-8c4c-43f7-b6cff28de0046bb3&apikey=1587263166",
+					"filename": "SNZR - RWY 11-29.pdf"
+				}
+			},
+			"Piracicaba : SDPW": {
+				" RWY 17/35 ": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=1f77b355-8ebc-4759-b3fdff110a26e43a&apikey=1587263166",
+					"filename": "SDPW -  RWY 17-35 .pdf"
+				}
+			},
+			"Porto Trombetas : SBTB": {
+				"Aerodrome Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=196a8a7d-3e8a-4420-90e328657becc235&apikey=1587263166",
+					"filename": "SBTB - Aerodrome Charter.pdf"
+				}
+			},
+			"Pres. João Suassuna : SBKG": {
+				"RNP RWY 33": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=f077a587-86c0-4f78-87c870120dec7a1c&apikey=1587263166",
+					"filename": "SBKG - RNP RWY 33.pdf"
+				}
+			},
+			"Prof. Urbano Ernesto Stumpf : SBSJ": {
+				"ILS T RWY 16": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=80597f13-fb50-4533-9321787c93512807&apikey=1587263166",
+					"filename": "SBSJ - ILS T RWY 16.pdf"
+				},
+				"VOR RWY 34": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=50fc455f-6991-4735-855012d4f0f0e9bc&apikey=1587263166",
+					"filename": "SBSJ - VOR RWY 34.pdf"
+				}
+			},
+			"Rio/São Paulo : SBXP": {
+				"Area Chart": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=75630c66-b949-4078-b6dec3ec70756b67&apikey=1587263166",
+					"filename": "SBXP - Area Chart.pdf"
+				}
+			},
+			"Salvador Air Force Base : SBSV": {
+				"Aerodrome Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=56efc8b2-bc7c-42f7-8a8f12cf5de5f917&apikey=1587263166",
+					"filename": "SBSV - Aerodrome Charter.pdf"
+				}
+			},
+			"Santos Dumont : SBRJ": {
+				"Aerodrome Parking Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=ea1d804d-ff40-4c46-9892943dad11b0d1&apikey=1587263166",
+					"filename": "SBRJ - Aerodrome Parking Charter.pdf"
+				}
+			},
+			"Serafin Enoss Bertaso : SBCH": {
+				"Aerodrome Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=f90ece74-1018-4877-afe8736f49fd4b41&apikey=1587263166",
+					"filename": "SBCH - Aerodrome Charter.pdf"
+				},
+				"Aerodrome Parking Charter": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=f7d617ef-643e-4bb0-9820821cb956bbf3&apikey=1587263166",
+					"filename": "SBCH - Aerodrome Parking Charter.pdf"
+				}
+			},
+			"São Paulo Air Force Base : SBGR": {
+				"RNAV CGO 1B RWY 28L": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=d6a068f7-83f5-43ec-9958b51a92f0dec3&apikey=1587263166",
+					"filename": "SBGR - RNAV CGO 1B RWY 28L.pdf"
+				},
+				"RNAV EVNEB 1A RWY 28L": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=b08b0f25-ce2b-4889-b227e15d2312401d&apikey=1587263166",
+					"filename": "SBGR - RNAV EVNEB 1A RWY 28L.pdf"
+				},
+				"RNAV VUNVU 3A RWY 28R": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=a8304c08-a600-4789-943d76a54cca32d1&apikey=1587263166",
+					"filename": "SBGR - RNAV VUNVU 3A RWY 28R.pdf"
+				}
+			},
+			"São Pedro da Aldeia : SBES": {
+				"RWY 07/25": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=70bd8c4a-9ce1-451b-8bf36c3242035ac4&apikey=1587263166",
+					"filename": "SBES - RWY 07-25.pdf"
+				}
+			},
+			"Tancredo Thomas de Faria : SSGG": {
+				"RNP RWY 08": {
+					"url": "https://aisweb.decea.gov.br/download/?arquivo=397dc90f-3859-4a54-bdf0ccb6f23efefb&apikey=1587263166",
+					"filename": "SSGG - RNP RWY 08.pdf"
+				}
+			}
+		}
+	}
+}
