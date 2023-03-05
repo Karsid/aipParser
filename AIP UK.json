@@ -4687,6 +4687,18 @@
 					"filename": "EGPB - INSTRUMENT APPROACH PROCEDURE CODING TABLES - RNP RWY 27.pdf"
 				}
 			},
+			"SWANSEA : EGFH": {
+				"AERODROME CHART - ICAO": {
+					"url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/graphics/318480.pdf",
+					"filename": "EGFH - AERODROME CHART - ICAO.pdf"
+				}
+			},
+			"TATENHILL : EGBM": {
+				"AERODROME CHART - ICAO": {
+					"url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/graphics/118772.pdf",
+					"filename": "EGBM - AERODROME CHART - ICAO.pdf"
+				}
+			},
 			"TEESSIDE INTERNATIONAL : EGNV": {
 				"AERODROME CHART - ICAO": {
 					"url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/graphics/292413.pdf",
@@ -4731,18 +4743,6 @@
 				"INSTRUMENT APPROACH CHART NDB(L) RWY 23 - ICAO": {
 					"url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/graphics/292017.pdf",
 					"filename": "EGNV - INSTRUMENT APPROACH CHART NDB(L) RWY 23 - ICAO.pdf"
-				}
-			},
-			"SWANSEA : EGFH": {
-				"AERODROME CHART - ICAO": {
-					"url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/graphics/318480.pdf",
-					"filename": "EGFH - AERODROME CHART - ICAO.pdf"
-				}
-			},
-			"TATENHILL : EGBM": {
-				"AERODROME CHART - ICAO": {
-					"url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/graphics/118772.pdf",
-					"filename": "EGBM - AERODROME CHART - ICAO.pdf"
 				}
 			},
 			"THRUXTON : EGHO": {

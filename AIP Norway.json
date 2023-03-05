@@ -1891,16 +1891,6 @@
 					"filename": "ENKR - TMA-TIA CHART KIRKENES TMA.pdf"
 				}
 			},
-			"LILLESTRØM/Kjeller : ENKJ": {
-				"Landing Chart": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/3255.pdf",
-					"filename": "ENKJ - Landing Chart.pdf"
-				},
-				"Visual Approach Chart - ICAO": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/178393.pdf",
-					"filename": "ENKJ - Visual Approach Chart - ICAO.pdf"
-				}
-			},
 			"KRISTIANSAND/Kjevik : ENCN": {
 				"Aerodrome Chart": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345972.pdf",
@@ -2415,6 +2405,16 @@
 				"Visual Approach Chart - ICAO": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/325815.pdf",
 					"filename": "ENLK - Visual Approach Chart - ICAO.pdf"
+				}
+			},
+			"LILLESTRØM/Kjeller : ENKJ": {
+				"Landing Chart": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/3255.pdf",
+					"filename": "ENKJ - Landing Chart.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/178393.pdf",
+					"filename": "ENKJ - Visual Approach Chart - ICAO.pdf"
 				}
 			},
 			"MEHAMN : ENMH": {
@@ -2932,13 +2932,13 @@
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/178475.pdf",
 					"filename": "ENGM - Standard Arrival Routes Instrument (RNAV 1 STAR BASED ON GNSS OR DME-DME) - RWY 19L-R (2).pdf"
 				},
-				"ILS or LOC RWY 01R CAT II & III": {
+				"ILS or LOC RWY 01R CAT II and III": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345645.pdf",
-					"filename": "ENGM - ILS or LOC RWY 01R CAT II & III.pdf"
+					"filename": "ENGM - ILS or LOC RWY 01R CAT II and III.pdf"
 				},
-				"ILS or LOC RWY 01R CAT II & III Significant points": {
+				"ILS or LOC RWY 01R CAT II and III Significant points": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/273213.pdf",
-					"filename": "ENGM - ILS or LOC RWY 01R CAT II & III Significant points.pdf"
+					"filename": "ENGM - ILS or LOC RWY 01R CAT II and III Significant points.pdf"
 				},
 				"RNP E RWY 01R (AR)": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345647.pdf",
@@ -2980,13 +2980,13 @@
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/178445.pdf",
 					"filename": "ENGM - RNP Z RWY 01R Recommended coding.pdf"
 				},
-				"ILS or LOC RWY 01L CAT II & III": {
+				"ILS or LOC RWY 01L CAT II and III": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345631.pdf",
-					"filename": "ENGM - ILS or LOC RWY 01L CAT II & III.pdf"
+					"filename": "ENGM - ILS or LOC RWY 01L CAT II and III.pdf"
 				},
-				"ILS or LOC RWY 01L CAT II & III Significant points": {
+				"ILS or LOC RWY 01L CAT II and III Significant points": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/273216.pdf",
-					"filename": "ENGM - ILS or LOC RWY 01L CAT II & III Significant points.pdf"
+					"filename": "ENGM - ILS or LOC RWY 01L CAT II and III Significant points.pdf"
 				},
 				"RNP E RWY 01L (AR)": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345633.pdf",
@@ -3036,13 +3036,13 @@
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/267712.pdf",
 					"filename": "ENGM - VOR RWY 01L Significant points.pdf"
 				},
-				"ILS or LOC RWY 19R CAT II & III": {
+				"ILS or LOC RWY 19R CAT II and III": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345667.pdf",
-					"filename": "ENGM - ILS or LOC RWY 19R CAT II & III.pdf"
+					"filename": "ENGM - ILS or LOC RWY 19R CAT II and III.pdf"
 				},
-				"ILS or LOC RWY 19R CAT II & III Significant points": {
+				"ILS or LOC RWY 19R CAT II and III Significant points": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/267722.pdf",
-					"filename": "ENGM - ILS or LOC RWY 19R CAT II & III Significant points.pdf"
+					"filename": "ENGM - ILS or LOC RWY 19R CAT II and III Significant points.pdf"
 				},
 				"RNP E RWY 19R (AR)": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345669.pdf",
@@ -3084,13 +3084,13 @@
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/267738.pdf",
 					"filename": "ENGM - VOR RWY 19R Significant points.pdf"
 				},
-				"ILS or LOC RWY 19L CAT II & III": {
+				"ILS or LOC RWY 19L CAT II and III": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345657.pdf",
-					"filename": "ENGM - ILS or LOC RWY 19L CAT II & III.pdf"
+					"filename": "ENGM - ILS or LOC RWY 19L CAT II and III.pdf"
 				},
-				"ILS or LOC RWY 19L CAT II & III Significant points": {
+				"ILS or LOC RWY 19L CAT II and III Significant points": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/267580.pdf",
-					"filename": "ENGM - ILS or LOC RWY 19L CAT II & III Significant points.pdf"
+					"filename": "ENGM - ILS or LOC RWY 19L CAT II and III Significant points.pdf"
 				},
 				"RNP E RWY 19L (AR)": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/345659.pdf",
@@ -4857,6 +4857,108 @@
 					"filename": "ENSS - Visual Approach Chart - ICAO.pdf"
 				}
 			},
+			"ÅLESUND/Vigra : ENAL": {
+				"Aerodrome Chart": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335819.pdf",
+					"filename": "ENAL - Aerodrome Chart.pdf"
+				},
+				"Aircraft Parking/Docking Chart": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335817.pdf",
+					"filename": "ENAL - Aircraft Parking-Docking Chart.pdf"
+				},
+				"Aircraft Parking/Docking Chart - Coordinates": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335821.pdf",
+					"filename": "ENAL - Aircraft Parking-Docking Chart - Coordinates.pdf"
+				},
+				"Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226522.pdf",
+					"filename": "ENAL - Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 06.pdf"
+				},
+				"Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226520.pdf",
+					"filename": "ENAL - Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 06.pdf"
+				},
+				"Omni-directional Departure RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226524.pdf",
+					"filename": "ENAL - Omni-directional Departure RWY 06.pdf"
+				},
+				"Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226538.pdf",
+					"filename": "ENAL - Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 24.pdf"
+				},
+				"Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226536.pdf",
+					"filename": "ENAL - Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 24.pdf"
+				},
+				"Omni-directional Departure RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226534.pdf",
+					"filename": "ENAL - Omni-directional Departure RWY 24.pdf"
+				},
+				"Standard Arrival Chart Instrument (RNAV1 STAR BASED ON GNSS) RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226528.pdf",
+					"filename": "ENAL - Standard Arrival Chart Instrument (RNAV1 STAR BASED ON GNSS) RWY 06.pdf"
+				},
+				"Standard Arrival Routes Instrument (RNAV1 STAR BASED ON GNSS) RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226526.pdf",
+					"filename": "ENAL - Standard Arrival Routes Instrument (RNAV1 STAR BASED ON GNSS) RWY 06.pdf"
+				},
+				"Standard Arrival Chart Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226542.pdf",
+					"filename": "ENAL - Standard Arrival Chart Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24.pdf"
+				},
+				"Standard Arrival Routes Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226540.pdf",
+					"filename": "ENAL - Standard Arrival Routes Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24.pdf"
+				},
+				"RNP Z RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167893.pdf",
+					"filename": "ENAL - RNP Z RWY 06.pdf"
+				},
+				"RNP Z RWY 06 Recommended coding": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167891.pdf",
+					"filename": "ENAL - RNP Z RWY 06 Recommended coding.pdf"
+				},
+				"RNP Y RWY 06 (LPV only)": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167889.pdf",
+					"filename": "ENAL - RNP Y RWY 06 (LPV only).pdf"
+				},
+				"RNP Y RWY 06 (LPV only) Recommended coding": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/234686.pdf",
+					"filename": "ENAL - RNP Y RWY 06 (LPV only) Recommended coding.pdf"
+				},
+				"VOR RWY 06": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226530.pdf",
+					"filename": "ENAL - VOR RWY 06.pdf"
+				},
+				"ILS or LOC RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226532.pdf",
+					"filename": "ENAL - ILS or LOC RWY 24.pdf"
+				},
+				"RNP Z RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167902.pdf",
+					"filename": "ENAL - RNP Z RWY 24.pdf"
+				},
+				"RNP Z RWY 24 Recommended coding": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167899.pdf",
+					"filename": "ENAL - RNP Z RWY 24 Recommended coding.pdf"
+				},
+				"RNP Y RWY 24": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167897.pdf",
+					"filename": "ENAL - RNP Y RWY 24.pdf"
+				},
+				"RNP Y RWY 24 Recommended coding": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167895.pdf",
+					"filename": "ENAL - RNP Y RWY 24 Recommended coding.pdf"
+				},
+				"Visual Approach Chart - ICAO": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226544.pdf",
+					"filename": "ENAL - Visual Approach Chart - ICAO.pdf"
+				},
+				"TMA/TIA CHART MØRE TMA": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/336115.pdf",
+					"filename": "ENAL - TMA-TIA CHART MØRE TMA.pdf"
+				}
+			},
 			"ØRLAND : ENOL": {
 				"Aerodrome Chart": {
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/367223.pdf",
@@ -5024,111 +5126,15 @@
 					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/336121.pdf",
 					"filename": "ENOV - TMA-TIA CHART MØRE TMA.pdf"
 				}
-			},
-			"ÅLESUND/Vigra : ENAL": {
-				"Aerodrome Chart": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335819.pdf",
-					"filename": "ENAL - Aerodrome Chart.pdf"
-				},
-				"Aircraft Parking/Docking Chart": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335817.pdf",
-					"filename": "ENAL - Aircraft Parking-Docking Chart.pdf"
-				},
-				"Aircraft Parking/Docking Chart - Coordinates": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335821.pdf",
-					"filename": "ENAL - Aircraft Parking-Docking Chart - Coordinates.pdf"
-				},
-				"Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226522.pdf",
-					"filename": "ENAL - Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 06.pdf"
-				},
-				"Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226520.pdf",
-					"filename": "ENAL - Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 06.pdf"
-				},
-				"Omni-directional Departure RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226524.pdf",
-					"filename": "ENAL - Omni-directional Departure RWY 06.pdf"
-				},
-				"Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226538.pdf",
-					"filename": "ENAL - Standard Departure Chart Instrument (RNAV 1 SID BASED ON GNSS) RWY 24.pdf"
-				},
-				"Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226536.pdf",
-					"filename": "ENAL - Standard Departure Routes Instrument (RNAV 1 SID BASED ON GNSS) RWY 24.pdf"
-				},
-				"Omni-directional Departure RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226534.pdf",
-					"filename": "ENAL - Omni-directional Departure RWY 24.pdf"
-				},
-				"Standard Arrival Chart Instrument (RNAV1 STAR BASED ON GNSS) RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226528.pdf",
-					"filename": "ENAL - Standard Arrival Chart Instrument (RNAV1 STAR BASED ON GNSS) RWY 06.pdf"
-				},
-				"Standard Arrival Routes Instrument (RNAV1 STAR BASED ON GNSS) RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226526.pdf",
-					"filename": "ENAL - Standard Arrival Routes Instrument (RNAV1 STAR BASED ON GNSS) RWY 06.pdf"
-				},
-				"Standard Arrival Chart Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226542.pdf",
-					"filename": "ENAL - Standard Arrival Chart Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24.pdf"
-				},
-				"Standard Arrival Routes Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226540.pdf",
-					"filename": "ENAL - Standard Arrival Routes Instrument (RNAV 1 STAR BASED ON GNSS) RWY 24.pdf"
-				},
-				"RNP Z RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167893.pdf",
-					"filename": "ENAL - RNP Z RWY 06.pdf"
-				},
-				"RNP Z RWY 06 Recommended coding": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167891.pdf",
-					"filename": "ENAL - RNP Z RWY 06 Recommended coding.pdf"
-				},
-				"RNP Y RWY 06 (LPV only)": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167889.pdf",
-					"filename": "ENAL - RNP Y RWY 06 (LPV only).pdf"
-				},
-				"RNP Y RWY 06 (LPV only) Recommended coding": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/234686.pdf",
-					"filename": "ENAL - RNP Y RWY 06 (LPV only) Recommended coding.pdf"
-				},
-				"VOR RWY 06": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226530.pdf",
-					"filename": "ENAL - VOR RWY 06.pdf"
-				},
-				"ILS or LOC RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226532.pdf",
-					"filename": "ENAL - ILS or LOC RWY 24.pdf"
-				},
-				"RNP Z RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167902.pdf",
-					"filename": "ENAL - RNP Z RWY 24.pdf"
-				},
-				"RNP Z RWY 24 Recommended coding": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167899.pdf",
-					"filename": "ENAL - RNP Z RWY 24 Recommended coding.pdf"
-				},
-				"RNP Y RWY 24": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167897.pdf",
-					"filename": "ENAL - RNP Y RWY 24.pdf"
-				},
-				"RNP Y RWY 24 Recommended coding": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/167895.pdf",
-					"filename": "ENAL - RNP Y RWY 24 Recommended coding.pdf"
-				},
-				"Visual Approach Chart - ICAO": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/226544.pdf",
-					"filename": "ENAL - Visual Approach Chart - ICAO.pdf"
-				},
-				"TMA/TIA CHART MØRE TMA": {
-					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/336115.pdf",
-					"filename": "ENAL - TMA-TIA CHART MØRE TMA.pdf"
-				}
 			}
 		},
-		"AD 3 HELIPORT": 
+		"AD 3 HELIPORT": {
+			"HAAKONSVERN : ENBH": {
+				"Heliport Chart": {
+					"url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/graphics/335965.pdf",
+					"filename": "ENBH - Heliport Chart.pdf"
+				}
+			}
 		}
 	}
 }

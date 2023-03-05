@@ -20,9 +20,16 @@
 #
 # Example run lines:
 #   python aipParser.py --region BE
-#   python aipParser.py --region UK
-#   python aipParser.py --region FR --debug
+#   python aipParser.py --region ES --codesort
+#   python aipParser.py --region FI
+#   python aipParser.py --region FR
 #   python aipParser.py --region IE
+#   python aipParser.py --region NO --previous
+#   python aipParser.py --region NL
+#   python aipParser.py --region RU
+#   python aipParser.py --region SE
+#   python aipParser.py --region UK
+#   python aipParser.py --region UK --debug
 #
 ##################################################################
 
@@ -163,7 +170,7 @@ effectiveDates = [
 # hold all the website information
 aipInformation = {
     "BE": ["Belgium",   "https://ops.skeyes.be/html/belgocontrol_static"],
-    "ES": ["Spain",     "https://aip.enaire.es/AIP"],
+    "ES": ["Spain",     "https://aip.enaire.es"],
     "FI": ["Finland",   "https://ais.fi"],
     "FR": ["France",    "https://www.sia.aviation-civile.gouv.fr/dvd"],
     "IE": ["Ireland",   "http://iaip.iaa.ie"],
@@ -203,27 +210,41 @@ aipPages = {
     adType3 : {}
 }
 
+# default sort order is either NAME or CODE
+# if its NAME then in the JSON we output NAME : CODE
+# if its NAME then in the JSON we output CODE : NAME
+sortOrder = "NAME"
+
 
 #
 # Common routine to add to the AIP page data structure
 #
-def addAipPage (adType, dromeCode, dromeName, dromeHref):
-    global aipPages
+def addAipPage (adType, dromeCode, dromeName, dromeHref, ignoreDups = False):
+    global aipPages, sortOrder
+    key = ""
+
+    # check what order we want to store data
+    if sortOrder == "NAME":
+        key = dromeName
+    else:
+        key = dromeCode
 
     # check its a known type
     if adType not in aipPages.keys():
-        logger.info ("    Unknown AD type found [{0}] for [{1}]. Ignoring.".format(adType, dromeCode))
+        logger.info ("    Unknown AD type found [{0}] for [{1}]. Ignoring.".format(adType, key))
         return
 
-    if dromeCode not in aipPages[adType].keys():
+    if key not in aipPages[adType].keys():
         dromeStructure = {
                             "Name" : dromeName,
+                            "Code" : dromeCode,
                             "PageURL" : dromeHref,
                             "PageLinks" : {}
                          }
-        aipPages[adType][dromeCode] = dromeStructure
+        aipPages[adType][key] = dromeStructure
     else:
-        logger.info ("    Duplicate code found [{0}] for AD type [{1}]. Ignoring.".format(dromeCode, adType))
+        if not ignoreDups:
+            logger.info ("    Duplicate [{0}] found [{1}] for AD type [{2}]. Ignoring.".format(sortOrder, key, adType))
         return
 
     logger.debug ("    {0} == {1} == {2} == {3}".format(adType, dromeCode, dromeName, dromeHref))
@@ -232,7 +253,36 @@ def addAipPage (adType, dromeCode, dromeName, dromeHref):
 
 
 #
-# Common routine to get a webpage
+# Common routine to update the page links data in the AIP page data structure
+#
+def updateAipPageLinks (adType, dromeCode, dromeName, dromeLinks):
+    global aipPages, sortOrder
+    key = ""
+
+    # check what order we want to store data
+    if sortOrder == "NAME":
+        key = dromeName
+    else:
+        key = dromeCode
+
+    # check its a known type
+    if adType not in aipPages.keys():
+        logger.info ("    Unknown AD type found [{0}] for [{1}]. Ignoring.".format(adType, key))
+        return
+
+    if key in aipPages[adType].keys():
+        aipPages[adType][key]["PageLinks"] = dromeLinks
+    else:
+        logger.info ("    Unknown [{0}] found [{1}] for AD type [{2}]. Not adding links.".format(sortOrder, key, adType))
+        return
+
+    #logger.debug ("    {0} == {1} == {2} == {3}".format(adType, dromeCode, dromeName, dromeHref))
+
+    return
+
+
+#
+# Common routine to load a webpage
 #
 def getWebPage ( pageType, pageName, pageURL, sslHack = False ):
     logger.info ("Parsing {0} {1} main page: {2}".format(pageName, pageType, pageURL))
@@ -299,7 +349,8 @@ def parseMainPageBE ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (title and href and code and type):
             new_href = aipBaseUrl + "/html/eAIP/" + href.replace("#" + id, "")
-            addAipPage(type, code, name, new_href)
+            addAipPage (type, code, name, new_href)
+            parseDromePageBE (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -318,6 +369,7 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
 
     type = ""
     old_code = ""
+    old_name = ""
     code = ""
     name = ""
     title = ""
@@ -373,7 +425,7 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
                             href = ""
                             title = ""
                 if item["class"][0] == "desc" and code not in ("", None):
-                    title = item.get_text()
+                    title = item.get_text().replace("&", "and")
 
             if (type and code and title and href):
                 filename = code + " - " + title.replace("/", "-").replace(".", "") + ".pdf"
@@ -382,11 +434,15 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
                 if old_code == "" or old_code == code:
                     tmpPages[title] = href, filename
                     old_code = code
+                    old_name = name
                 elif old_code != code:
-                    aipPages[type][old_code]["PageLinks"] = tmpPages
+                    # add the links to the page structure
+                    updateAipPageLinks (type, old_code, old_name, tmpPages)
+
                     tmpPages = {}
                     tmpPages[title] = href, filename
                     old_code = code
+                    old_name = name
 
                 code = ""
                 title = ""
@@ -398,12 +454,19 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
 
         if old_code == "" or old_code == code:
             tmpPages[title] = href, filename
-            aipPages[type][code]["PageLinks"] = tmpPages
+
+            # add the links to the page structure
+            updateAipPageLinks (type, code, name, tmpPages)
         elif old_code != code:
+            # add the links to the page structure
+            updateAipPageLinks (type, old_code, old_name, tmpPages)
+
             aipPages[type][old_code]["PageLinks"] = tmpPages
             tmpPages = {}
             tmpPages[title] = href, filename
-            aipPages[type][code]["PageLinks"] = tmpPages
+
+            # add the links to the page structure
+            updateAipPageLinks (type, code, name, tmpPages)
 
     return
 
@@ -454,7 +517,8 @@ def parseMainPageFI ( aipBaseUrl, aipRegion ):
             # check if this is a valid link we want
             if (href and code):
                 new_href = aipBaseUrl + "/eaip/" + href.replace("../", "")
-                addAipPage(type, code, name, new_href)
+                addAipPage (type, code, name, new_href)
+                parseDromePageFI (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -502,7 +566,8 @@ def parseMainPageFR ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (not title and href != "#" and code):
             new_href = aipBaseUrl + "/html/eAIP/" + href.replace("#" + id, "")
-            addAipPage(type, code, name, new_href)
+            addAipPage (type, code, name, new_href)
+            parseDromePageFR (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -541,7 +606,8 @@ def parseMainPageIE ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (href and code):
             new_href = aipBaseUrl + "/" + href
-            addAipPage(type, code, name, new_href)
+            addAipPage (type, code, name, new_href)
+            parseDromePageIE (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -586,7 +652,8 @@ def parseMainPageNL ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (not title and href != "#" and code and type):
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            addAipPage(type, code, name, new_href)
+            addAipPage (type, code, name, new_href)
+            parseDromePageNL (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -635,7 +702,8 @@ def parseMainPageNO ( aipBaseUrl, aipRegion ):
             code = name.split()[0]
             new_name = name.replace(code, "").strip()
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            addAipPage(type, code, new_name, new_href)
+            addAipPage (type, code, new_name, new_href)
+            parseDromePageNO (type, code, new_name, aipBaseUrl, new_href)
 
     return
 
@@ -698,7 +766,8 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
 
                 # check if this is a valid link we want
                 if (code and type and name):
-                    addAipPage(type, code, name, "")
+                    # set flag to ignore duplicates, as site repeats drome data multiple times
+                    addAipPage(type, code, name, "", True)
             if ("ItemLink" == line[:8]):
                 if (not itemBegin):
                     continue
@@ -717,7 +786,9 @@ def parseMainPageRU ( aipBaseUrl, aipRegion ):
             if ("ItemEnd" == line[:7]):
                 if (not itemBegin):
                     continue
-                aipPages[type][code]["PageLinks"] = tmpPages
+
+                # add the links to the page structure
+                updateAipPageLinks (type, code, name, tmpPages)
 
                 itemBegin = ""
                 itemLink = ""
@@ -758,7 +829,8 @@ def parseMainPageSE ( aipBaseUrl, aipRegion ):
             # check if this is a valid link we want
             if (href and code):
                 new_href = aipBaseUrl + "/" + href
-                addAipPage(type, code, name, new_href)
+                addAipPage (type, code, name, new_href)
+                parseDromePageSE (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -807,7 +879,8 @@ def parseMainPageUK ( aipBaseUrl, aipRegion ):
         # check if this is a valid link we want
         if (not title and href != "#" and code and type):
             new_href = aipBaseUrl + "/html/" + href.replace("../", "").replace("#" + id, "")
-            addAipPage(type, code, name, new_href)
+            addAipPage (type, code, name, new_href)
+            parseDromePageUK (type, code, name, aipBaseUrl, new_href)
 
     return
 
@@ -816,7 +889,7 @@ def parseMainPageUK ( aipBaseUrl, aipRegion ):
 # parse the BE AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageBE ( code, baseUrl, dromeUrl ):
+def parseDromePageBE ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -827,7 +900,7 @@ def parseDromePageBE ( code, baseUrl, dromeUrl ):
         #logger.debug (tr)
         href = ""
         for td in tr.find_all("td"):
-            title = newTitle
+            title = newTitle.replace("&", "and")
             newTitle = td.get_text().strip()
 
             for div in td.find_all("div"):
@@ -847,14 +920,17 @@ def parseDromePageBE ( code, baseUrl, dromeUrl ):
             pdfPages[title] = new_href, filename
             logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the FI AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageFI ( code, baseUrl, dromeUrl ):
+def parseDromePageFI ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -882,14 +958,17 @@ def parseDromePageFI ( code, baseUrl, dromeUrl ):
             pdfPages[title] = new_href, filename
             logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the FR AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageFR ( code, baseUrl, dromeUrl ):
+def parseDromePageFR ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -918,14 +997,17 @@ def parseDromePageFR ( code, baseUrl, dromeUrl ):
                 pdfPages[title] = new_href, filename
                 logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the IE AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageIE ( code, baseUrl, dromeUrl ):
+def parseDromePageIE ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -950,14 +1032,17 @@ def parseDromePageIE ( code, baseUrl, dromeUrl ):
             pdfPages[title] = new_href, filename
             logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the NL AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageNL ( code, baseUrl, dromeUrl ):
+def parseDromePageNL ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -989,14 +1074,17 @@ def parseDromePageNL ( code, baseUrl, dromeUrl ):
                 pdfPages[title] = new_href, filename
                 logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the NO AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageNO ( code, baseUrl, dromeUrl ):
+def parseDromePageNO ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -1016,7 +1104,7 @@ def parseDromePageNO ( code, baseUrl, dromeUrl ):
         for tr in div.find_all("tr"):
             # grab the link title
             for p in tr.find_all("p"):
-                title = p.get_text().replace("\r", "").replace("\n", "")
+                title = p.get_text().replace("\r", "").replace("\n", "").replace("&", "and")
                 href = ""
             # grab the link href
             for link in tr.find_all("a"):
@@ -1030,14 +1118,17 @@ def parseDromePageNO ( code, baseUrl, dromeUrl ):
                 pdfPages[title] = new_href, filename
                 logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the SE AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageSE ( code, baseUrl, dromeUrl ):
+def parseDromePageSE ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -1059,14 +1150,17 @@ def parseDromePageSE ( code, baseUrl, dromeUrl ):
                 pdfPages[title] = new_href, filename
                 logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
 # parse the UK AIP airodrome page to get list of PDF chart files that
 # are available for that airodrome
 #
-def parseDromePageUK ( code, baseUrl, dromeUrl ):
+def parseDromePageUK ( type, code, dromeTitle, baseUrl, dromeUrl ):
     # get site drome page
     html = getWebPage ( "Drome",  code, dromeUrl )
 
@@ -1100,7 +1194,10 @@ def parseDromePageUK ( code, baseUrl, dromeUrl ):
                 pdfPages[title] = new_href, filename
                 logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
 
-    return pdfPages
+    # add the links to the page structure
+    updateAipPageLinks (type, code, dromeTitle, pdfPages)
+
+    return
 
 
 #
@@ -1114,12 +1211,13 @@ logger.info ("Started")
 parser = argparse.ArgumentParser()
 parser.add_argument('--region', help='Region to generate [BE | ES | FI | FR | IE | NL | NO | RU | SE | UK]', choices=["BE", "ES", "FI", "FR", "IE", "NL", "NO", "RU", "SE", "UK"], default="UK")
 parser.add_argument('--previous', action="store_true", help='User previous schedule', default=False)
+parser.add_argument('--codesort', action="store_true", help='Sort by Drome code, not Drome name', default=False)
 parser.add_argument('--debug', action="store_true", help='Set debug logging', default=False)
 args = parser.parse_args()
 
-aipRegion=""
-aipRegionName=""
-aipRegionUrl=""
+aipRegion = ""
+aipRegionName = ""
+aipRegionUrl = ""
 usePreviousSchedule = False
 
 if args.region in aipInformation.keys():
@@ -1132,6 +1230,8 @@ else:
 if args.debug:
     logging.getLogger("aipParser").setLevel(logging.DEBUG)
     console.setLevel(logging.DEBUG)
+if args.codesort:
+    sortOrder = "CODE"
 if args.previous:
     usePreviousSchedule = True
 
@@ -1191,7 +1291,7 @@ elif aipRegion == "BE":
     parseMainPageBE (aipBaseUrl, aipRegion)
 
 elif aipRegion == "ES":
-    aipBaseUrl = aipRegionUrl
+    aipBaseUrl = "{0}/AIP".format(aipRegionUrl)
     parseMainPageES (aipBaseUrl, aipRegion)
 
 elif aipRegion == "FI":
@@ -1235,7 +1335,7 @@ else:
 outputString = "{\n\t\"eBagLib\": {\n"
 
 # add in the schedule information
-if (aipRegion in ["FI", "IE", "RU", "SE"]):
+if (aipRegion in ["BE", "ES", "FI", "IE", "RU", "SE"]):
     outputString += "\t\t\"0: Generated - " + currentDTG + "\": {\n"
 else:
     outputString += "\t\t\"0: Published - " + currentRelease + "\": {\n"
@@ -1258,44 +1358,18 @@ for adType in aipPages:
 
     outputString += "\t\t\"" + adType + "\": {\n"
 
-    for dromeCode in aipPages[adType]:
-        dromeStructure = aipPages[adType][dromeCode]
-        dromeHref = dromeStructure["PageURL"]
+    for key in sorted(aipPages[adType]):
+        dromeStructure = aipPages[adType][key]
         dromeName = dromeStructure["Name"]
-
-        #
-        # parse the drome page and pull the pdf info
-        #
-        if   aipRegion == "UK":
-            aipPdfPages = parseDromePageUK (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "BE":
-            aipPdfPages = parseDromePageBE (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "ES":
-            # already pulled out the ES PDF links
-            aipPdfPages = dromeStructure["PageLinks"]
-        elif aipRegion == "FI":
-            aipPdfPages = parseDromePageFI (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "FR":
-            aipPdfPages = parseDromePageFR (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "IE":
-            aipPdfPages = parseDromePageIE (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "NL":
-            aipPdfPages = parseDromePageNL (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "NO":
-            aipPdfPages = parseDromePageNO (dromeCode, aipBaseUrl, dromeHref)
-        elif aipRegion == "RU":
-            # already pulled out the RU PDF links
-            aipPdfPages = dromeStructure["PageLinks"]
-        elif aipRegion == "SE":
-            aipPdfPages = parseDromePageSE (dromeCode, aipBaseUrl, dromeHref)
-        else:
-            logger.fatal ("Unknown region passed for drome page parsing: {0}".format(aipRegion))
-            exit(1)
+        dromeCode = dromeStructure["Code"]
+        aipPdfPages = dromeStructure["PageLinks"]
 
         # check if we have any charts for this drome
         if len(aipPdfPages) > 0:
-            #outputString += "\t\t\t\"" + dromeCode + " - " + dromeName + "\": {\n"
-            outputString += "\t\t\t\"" + dromeName + " : " + dromeCode + "\": {\n"
+            if sortOrder == "NAME":
+                outputString += "\t\t\t\"" + dromeName + " : " + dromeCode + "\": {\n"
+            else:
+                outputString += "\t\t\t\"" + dromeCode + " - " + dromeName + "\": {\n"
         
             # loop through all the PDF links to generate the schema
             for title in aipPdfPages:

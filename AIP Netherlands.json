@@ -259,112 +259,86 @@
 					"filename": "EHAM - Visual approach chart VFR traffic circuits.pdf"
 				}
 			},
-			"WEERT/Budel : EHBD": {
+			"BREDA/Seppe : EHSE": {
 				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-ADC.pdf",
-					"filename": "EHBD - Aerodrome chart.pdf"
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHSE-ADC.pdf",
+					"filename": "EHSE - Aerodrome chart.pdf"
 				},
-				"Standard instrument departure chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-SID-OVERVIEW.pdf",
-					"filename": "EHBD - Standard instrument departure chart.pdf"
-				},
-				"Standard instrument departure chart RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-SID-03.pdf",
-					"filename": "EHBD - Standard instrument departure chart RWY 03.pdf"
-				},
-				"Standard instrument departure chart RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-SID-21.pdf",
-					"filename": "EHBD - Standard instrument departure chart RWY 21.pdf"
-				},
-				"Standard arrival chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-STAR.pdf",
-					"filename": "EHBD - Standard arrival chart.pdf"
-				},
-				"Instrument approach chart RNP RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-IAC-21.pdf",
-					"filename": "EHBD - Instrument approach chart RNP RWY 21.pdf"
-				},
-				"Visual approach chart/VFR procedures": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-VAC-1.pdf",
-					"filename": "EHBD - Visual approach chart-VFR procedures.pdf"
-				},
-				"Visual approach chart VFR traffic circuits": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-VAC-2.pdf",
-					"filename": "EHBD - Visual approach chart VFR traffic circuits.pdf"
+				"Visual approach chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHSE-VAC.pdf",
+					"filename": "EHSE - Visual approach chart.pdf"
 				}
 			},
-			"MAASTRICHT/Maastricht Aachen : EHBK": {
+			"DEN HELDER/De Kooy : EHKD": {
 				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-ADC.pdf",
-					"filename": "EHBK - Aerodrome chart.pdf"
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-ADC.pdf",
+					"filename": "EHKD - Aerodrome chart.pdf"
 				},
 				"Aircraft parking / docking chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-APDC.pdf",
-					"filename": "EHBK - Aircraft parking - docking chart.pdf"
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-APDC.pdf",
+					"filename": "EHKD - Aircraft parking - docking chart.pdf"
 				},
-				"Aerodrome obstacle chart type A RWY 03/21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-AOC-03-21.pdf",
-					"filename": "EHBK - Aerodrome obstacle chart type A RWY 03-21.pdf"
+				"Aerodrome obstacle chart RWY 03/21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-AOC-03-21.pdf",
+					"filename": "EHKD - Aerodrome obstacle chart RWY 03-21.pdf"
 				},
-				"Precision approach terrain chart RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-PATC-21.pdf",
-					"filename": "EHBK - Precision approach terrain chart RWY 21.pdf"
+				"Standard instrument departure chart RWY 03 COPTER": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-SID-03-2.pdf",
+					"filename": "EHKD - Standard instrument departure chart RWY 03 COPTER.pdf"
 				},
-				"Standard instrument departure chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-SID-OVERVIEW.pdf",
-					"filename": "EHBK - Standard instrument departure chart.pdf"
+				"Standard instrument departure chart RWY 21 COPTER": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-SID-21-2.pdf",
+					"filename": "EHKD - Standard instrument departure chart RWY 21 COPTER.pdf"
 				},
-				"Standard instrument departure chart RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-SID-03.pdf",
-					"filename": "EHBK - Standard instrument departure chart RWY 03.pdf"
+				"Standard arrival chart COPTER": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-STAR.pdf",
+					"filename": "EHKD - Standard arrival chart COPTER.pdf"
 				},
-				"Standard instrument departure chart RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-SID-21.pdf",
-					"filename": "EHBK - Standard instrument departure chart RWY 21.pdf"
+				"Instrument approach chart RNP Z RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-03-1.pdf",
+					"filename": "EHKD - Instrument approach chart RNP Z RWY 03.pdf"
 				},
-				"Standard arrival chart RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-STAR-1.pdf",
-					"filename": "EHBK - Standard arrival chart RWY 03.pdf"
+				"Instrument approach chart RNP Y RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-03-2.pdf",
+					"filename": "EHKD - Instrument approach chart RNP Y RWY 03.pdf"
 				},
-				"Standard arrival chart RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-STAR-2.pdf",
-					"filename": "EHBK - Standard arrival chart RWY 21.pdf"
+				"Instrument approach chart ILS or LOC RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-21-1.pdf",
+					"filename": "EHKD - Instrument approach chart ILS or LOC RWY 21.pdf"
 				},
-				"ATC surveillance minimum altitude chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-ATC-SMAC.pdf",
-					"filename": "EHBK - ATC surveillance minimum altitude chart.pdf"
+				"Instrument approach chart RNP Z RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-21-2.pdf",
+					"filename": "EHKD - Instrument approach chart RNP Z RWY 21.pdf"
 				},
-				"Instrument approach chart ILS Z or LOC Z RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-1.pdf",
-					"filename": "EHBK - Instrument approach chart ILS Z or LOC Z RWY 03.pdf"
-				},
-				"Instrument approach chart ILS Y or LOC Y RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-2.pdf",
-					"filename": "EHBK - Instrument approach chart ILS Y or LOC Y RWY 03.pdf"
-				},
-				"Instrument approach chart ILS X or LOC X RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-3.pdf",
-					"filename": "EHBK - Instrument approach chart ILS X or LOC X RWY 03.pdf"
-				},
-				"Instrument approach chart NDB RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-4.pdf",
-					"filename": "EHBK - Instrument approach chart NDB RWY 03.pdf"
-				},
-				"Instrument approach chart ILS X CAT II & III or LOC X RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-21-1.pdf",
-					"filename": "EHBK - Instrument approach chart ILS X CAT II & III or LOC X RWY 21.pdf"
-				},
-				"Instrument approach chart RNP RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-21-2.pdf",
-					"filename": "EHBK - Instrument approach chart RNP RWY 21.pdf"
+				"Instrument approach chart RNP Y RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-21-3.pdf",
+					"filename": "EHKD - Instrument approach chart RNP Y RWY 21.pdf"
 				},
 				"Visual approach chart/VFR procedures": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-VAC-1.pdf",
-					"filename": "EHBK - Visual approach chart-VFR procedures.pdf"
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-VAC.pdf",
+					"filename": "EHKD - Visual approach chart-VFR procedures.pdf"
+				}
+			},
+			"DEVENTER/Teuge : EHTE": {
+				"Aerodrome chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-ADC.pdf",
+					"filename": "EHTE - Aerodrome chart.pdf"
 				},
-				"Visual approach chart VFR traffic circuits": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-VAC-2.pdf",
-					"filename": "EHBK - Visual approach chart VFR traffic circuits.pdf"
+				"Aerodrome ground movement chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-GMC.pdf",
+					"filename": "EHTE - Aerodrome ground movement chart.pdf"
+				},
+				"Aerodrome obstacle chart RWY 08/26": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-AOC-08-26.pdf",
+					"filename": "EHTE - Aerodrome obstacle chart RWY 08-26.pdf"
+				},
+				"Instrument approach chart RNP RWY 26": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-IAC-26.pdf",
+					"filename": "EHTE - Instrument approach chart RNP RWY 26.pdf"
+				},
+				"Visual approach chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-VAC.pdf",
+					"filename": "EHTE - Visual approach chart.pdf"
 				}
 			},
 			"DRACHTEN/Drachten : EHDR": {
@@ -447,6 +421,24 @@
 					"filename": "EHEH - Visual approach chart VFR traffic circuits.pdf"
 				}
 			},
+			"ENSCHEDE/Twente : EHTW": {
+				"Aerodrome chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-ADC.pdf",
+					"filename": "EHTW - Aerodrome chart.pdf"
+				},
+				"Aircraft parking / docking chart C-apron": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-APDC.pdf",
+					"filename": "EHTW - Aircraft parking - docking chart C-apron.pdf"
+				},
+				"Visual approach chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-VAC-1.pdf",
+					"filename": "EHTW - Visual approach chart.pdf"
+				},
+				"Visual approach chart / VFR procedures": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-VAC-2.pdf",
+					"filename": "EHTW - Visual approach chart - VFR procedures.pdf"
+				}
+			},
 			"GRONINGEN/Eelde : EHGG": {
 				"Aerodrome chart": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHGG-ADC.pdf",
@@ -513,16 +505,6 @@
 					"filename": "EHGG - Visual approach chart VFR traffic circuits RWY 05-23.pdf"
 				}
 			},
-			"HOOGEVEEN/Hoogeveen : EHHO": {
-				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHHO-ADC.pdf",
-					"filename": "EHHO - Aerodrome chart.pdf"
-				},
-				"Visual approach chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHHO-VAC.pdf",
-					"filename": "EHHO - Visual approach chart.pdf"
-				}
-			},
 			"HILVERSUM/Hilversum : EHHV": {
 				"Aerodrome chart": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHHV-ADC.pdf",
@@ -541,54 +523,14 @@
 					"filename": "EHHV - Visual approach chart RWY 12-30.pdf"
 				}
 			},
-			"DEN HELDER/De Kooy : EHKD": {
+			"HOOGEVEEN/Hoogeveen : EHHO": {
 				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-ADC.pdf",
-					"filename": "EHKD - Aerodrome chart.pdf"
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHHO-ADC.pdf",
+					"filename": "EHHO - Aerodrome chart.pdf"
 				},
-				"Aircraft parking / docking chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-APDC.pdf",
-					"filename": "EHKD - Aircraft parking - docking chart.pdf"
-				},
-				"Aerodrome obstacle chart RWY 03/21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-AOC-03-21.pdf",
-					"filename": "EHKD - Aerodrome obstacle chart RWY 03-21.pdf"
-				},
-				"Standard instrument departure chart RWY 03 COPTER": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-SID-03-2.pdf",
-					"filename": "EHKD - Standard instrument departure chart RWY 03 COPTER.pdf"
-				},
-				"Standard instrument departure chart RWY 21 COPTER": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-SID-21-2.pdf",
-					"filename": "EHKD - Standard instrument departure chart RWY 21 COPTER.pdf"
-				},
-				"Standard arrival chart COPTER": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-STAR.pdf",
-					"filename": "EHKD - Standard arrival chart COPTER.pdf"
-				},
-				"Instrument approach chart RNP Z RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-03-1.pdf",
-					"filename": "EHKD - Instrument approach chart RNP Z RWY 03.pdf"
-				},
-				"Instrument approach chart RNP Y RWY 03": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-03-2.pdf",
-					"filename": "EHKD - Instrument approach chart RNP Y RWY 03.pdf"
-				},
-				"Instrument approach chart ILS or LOC RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-21-1.pdf",
-					"filename": "EHKD - Instrument approach chart ILS or LOC RWY 21.pdf"
-				},
-				"Instrument approach chart RNP Z RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-21-2.pdf",
-					"filename": "EHKD - Instrument approach chart RNP Z RWY 21.pdf"
-				},
-				"Instrument approach chart RNP Y RWY 21": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-IAC-21-3.pdf",
-					"filename": "EHKD - Instrument approach chart RNP Y RWY 21.pdf"
-				},
-				"Visual approach chart/VFR procedures": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHKD-VAC.pdf",
-					"filename": "EHKD - Visual approach chart-VFR procedures.pdf"
+				"Visual approach chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHHO-VAC.pdf",
+					"filename": "EHHO - Visual approach chart.pdf"
 				}
 			},
 			"LELYSTAD/Lelystad : EHLE": {
@@ -635,6 +577,80 @@
 				"VFR training circuit": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHLE-VAC-2.pdf",
 					"filename": "EHLE - VFR training circuit.pdf"
+				}
+			},
+			"MAASTRICHT/Maastricht Aachen : EHBK": {
+				"Aerodrome chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-ADC.pdf",
+					"filename": "EHBK - Aerodrome chart.pdf"
+				},
+				"Aircraft parking / docking chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-APDC.pdf",
+					"filename": "EHBK - Aircraft parking - docking chart.pdf"
+				},
+				"Aerodrome obstacle chart type A RWY 03/21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-AOC-03-21.pdf",
+					"filename": "EHBK - Aerodrome obstacle chart type A RWY 03-21.pdf"
+				},
+				"Precision approach terrain chart RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-PATC-21.pdf",
+					"filename": "EHBK - Precision approach terrain chart RWY 21.pdf"
+				},
+				"Standard instrument departure chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-SID-OVERVIEW.pdf",
+					"filename": "EHBK - Standard instrument departure chart.pdf"
+				},
+				"Standard instrument departure chart RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-SID-03.pdf",
+					"filename": "EHBK - Standard instrument departure chart RWY 03.pdf"
+				},
+				"Standard instrument departure chart RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-SID-21.pdf",
+					"filename": "EHBK - Standard instrument departure chart RWY 21.pdf"
+				},
+				"Standard arrival chart RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-STAR-1.pdf",
+					"filename": "EHBK - Standard arrival chart RWY 03.pdf"
+				},
+				"Standard arrival chart RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-STAR-2.pdf",
+					"filename": "EHBK - Standard arrival chart RWY 21.pdf"
+				},
+				"ATC surveillance minimum altitude chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-ATC-SMAC.pdf",
+					"filename": "EHBK - ATC surveillance minimum altitude chart.pdf"
+				},
+				"Instrument approach chart ILS Z or LOC Z RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-1.pdf",
+					"filename": "EHBK - Instrument approach chart ILS Z or LOC Z RWY 03.pdf"
+				},
+				"Instrument approach chart ILS Y or LOC Y RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-2.pdf",
+					"filename": "EHBK - Instrument approach chart ILS Y or LOC Y RWY 03.pdf"
+				},
+				"Instrument approach chart ILS X or LOC X RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-3.pdf",
+					"filename": "EHBK - Instrument approach chart ILS X or LOC X RWY 03.pdf"
+				},
+				"Instrument approach chart NDB RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-03-4.pdf",
+					"filename": "EHBK - Instrument approach chart NDB RWY 03.pdf"
+				},
+				"Instrument approach chart ILS X CAT II & III or LOC X RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-21-1.pdf",
+					"filename": "EHBK - Instrument approach chart ILS X CAT II & III or LOC X RWY 21.pdf"
+				},
+				"Instrument approach chart RNP RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-IAC-21-2.pdf",
+					"filename": "EHBK - Instrument approach chart RNP RWY 21.pdf"
+				},
+				"Visual approach chart/VFR procedures": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-VAC-1.pdf",
+					"filename": "EHBK - Visual approach chart-VFR procedures.pdf"
+				},
+				"Visual approach chart VFR traffic circuits": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBK-VAC-2.pdf",
+					"filename": "EHBK - Visual approach chart VFR traffic circuits.pdf"
 				}
 			},
 			"MIDDELBURG/Midden-Zeeland : EHMZ": {
@@ -751,16 +767,6 @@
 					"filename": "EHRD - Visual approach chart VFR training circuits.pdf"
 				}
 			},
-			"BREDA/Seppe : EHSE": {
-				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHSE-ADC.pdf",
-					"filename": "EHSE - Aerodrome chart.pdf"
-				},
-				"Visual approach chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHSE-VAC.pdf",
-					"filename": "EHSE - Visual approach chart.pdf"
-				}
-			},
 			"STADSKANAAL : EHST": {
 				"Aerodrome chart": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHST-ADC.pdf",
@@ -771,28 +777,6 @@
 					"filename": "EHST - Visual approach chart.pdf"
 				}
 			},
-			"DEVENTER/Teuge : EHTE": {
-				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-ADC.pdf",
-					"filename": "EHTE - Aerodrome chart.pdf"
-				},
-				"Aerodrome ground movement chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-GMC.pdf",
-					"filename": "EHTE - Aerodrome ground movement chart.pdf"
-				},
-				"Aerodrome obstacle chart RWY 08/26": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-AOC-08-26.pdf",
-					"filename": "EHTE - Aerodrome obstacle chart RWY 08-26.pdf"
-				},
-				"Instrument approach chart RNP RWY 26": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-IAC-26.pdf",
-					"filename": "EHTE - Instrument approach chart RNP RWY 26.pdf"
-				},
-				"Visual approach chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTE-VAC.pdf",
-					"filename": "EHTE - Visual approach chart.pdf"
-				}
-			},
 			"TERLET : EHTL": {
 				"Aerodrome chart": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTL-ADC.pdf",
@@ -801,24 +785,6 @@
 				"Visual approach chart/VFR procedures": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTL-VAC.pdf",
 					"filename": "EHTL - Visual approach chart-VFR procedures.pdf"
-				}
-			},
-			"ENSCHEDE/Twente : EHTW": {
-				"Aerodrome chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-ADC.pdf",
-					"filename": "EHTW - Aerodrome chart.pdf"
-				},
-				"Aircraft parking / docking chart C-apron": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-APDC.pdf",
-					"filename": "EHTW - Aircraft parking - docking chart C-apron.pdf"
-				},
-				"Visual approach chart": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-VAC-1.pdf",
-					"filename": "EHTW - Visual approach chart.pdf"
-				},
-				"Visual approach chart / VFR procedures": {
-					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTW-VAC-2.pdf",
-					"filename": "EHTW - Visual approach chart - VFR procedures.pdf"
 				}
 			},
 			"TEXEL/Texel : EHTX": {
@@ -837,6 +803,40 @@
 				"Seasonal VFR departure procedures RWY 03/21": {
 					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHTX-VAC-3.pdf",
 					"filename": "EHTX - Seasonal VFR departure procedures RWY 03-21.pdf"
+				}
+			},
+			"WEERT/Budel : EHBD": {
+				"Aerodrome chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-ADC.pdf",
+					"filename": "EHBD - Aerodrome chart.pdf"
+				},
+				"Standard instrument departure chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-SID-OVERVIEW.pdf",
+					"filename": "EHBD - Standard instrument departure chart.pdf"
+				},
+				"Standard instrument departure chart RWY 03": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-SID-03.pdf",
+					"filename": "EHBD - Standard instrument departure chart RWY 03.pdf"
+				},
+				"Standard instrument departure chart RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-SID-21.pdf",
+					"filename": "EHBD - Standard instrument departure chart RWY 21.pdf"
+				},
+				"Standard arrival chart": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-STAR.pdf",
+					"filename": "EHBD - Standard arrival chart.pdf"
+				},
+				"Instrument approach chart RNP RWY 21": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-IAC-21.pdf",
+					"filename": "EHBD - Instrument approach chart RNP RWY 21.pdf"
+				},
+				"Visual approach chart/VFR procedures": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-VAC-1.pdf",
+					"filename": "EHBD - Visual approach chart-VFR procedures.pdf"
+				},
+				"Visual approach chart VFR traffic circuits": {
+					"url": "https://eaip.lvnl.nl/2023-01-12-AIRAC/graphics/eAIP/EH-AD-2.EHBD-VAC-2.pdf",
+					"filename": "EHBD - Visual approach chart VFR traffic circuits.pdf"
 				}
 			}
 		},

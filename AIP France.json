@@ -821,6 +821,44 @@
 					"filename": "LFMV - IAC_RWY35_VPT.pdf"
 				}
 			},
+			"AVORD : LFOA": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_ADC_01.pdf",
+					"filename": "LFOA - ADC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_GMC_01.pdf",
+					"filename": "LFOA - GMC_01.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_AMG_01.pdf",
+					"filename": "LFOA - AMG_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_DATA_01.pdf",
+					"filename": "LFOA - DATA_01.pdf"
+				},
+				"DATA_RWY06_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_DATA_RWY06_RNP_CODE.pdf",
+					"filename": "LFOA - DATA_RWY06_RNP_CODE.pdf"
+				},
+				"DATA_RWY24_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_DATA_RWY24_RNP_CODE.pdf",
+					"filename": "LFOA - DATA_RWY24_RNP_CODE.pdf"
+				},
+				"IAC_RWY06_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_IAC_RWY06_RNP.pdf",
+					"filename": "LFOA - IAC_RWY06_RNP.pdf"
+				},
+				"IAC_RWY24_ILS_LOC": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_IAC_RWY24_ILS_LOC.pdf",
+					"filename": "LFOA - IAC_RWY24_ILS_LOC.pdf"
+				},
+				"IAC_RWY24_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_IAC_RWY24_RNP.pdf",
+					"filename": "LFOA - IAC_RWY24_RNP.pdf"
+				}
+			},
 			"BALE-MULHOUSE : LFSB": {
 				"MIA_TEXT_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSB/AD_2_LFSB_MIA_TEXT_01.pdf",
@@ -2929,6 +2967,20 @@
 					"filename": "LFCK - IAC_RWY32_VPT.pdf"
 				}
 			},
+			"CAZAUX : LFBC": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBC/AD_2_LFBC_ADC_01.pdf",
+					"filename": "LFBC - ADC_01.pdf"
+				},
+				"ADC_TEXT01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBC/AD_2_LFBC_ADC_TEXT01.pdf",
+					"filename": "LFBC - ADC_TEXT01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBC/AD_2_LFBC_GMC_01.pdf",
+					"filename": "LFBC - GMC_01.pdf"
+				}
+			},
 			"CHALON CHAMPFORGEUIL : LFLH": {
 				"ADC_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLH/AD_2_LFLH_ADC_01.pdf",
@@ -3199,6 +3251,12 @@
 				"IAC_RWY23_RNP_A": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFJY/AD_2_LFJY_IAC_RWY23_RNP_A.pdf",
 					"filename": "LFJY - IAC_RWY23_RNP_A.pdf"
+				}
+			},
+			"CHATEAUDUN : LFOC": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOC/AD_2_LFOC_ADC_01.pdf",
+					"filename": "LFOC - ADC_01.pdf"
 				}
 			},
 			"CHATEAUROUX DEOLS : LFLX": {
@@ -3515,6 +3573,76 @@
 				"IAC_RWY26_VOR": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLC/AD_2_LFLC_IAC_RWY26_VOR.pdf",
 					"filename": "LFLC - IAC_RWY26_VOR.pdf"
+				}
+			},
+			"COGNAC CHATEAUBERNARD : LFBG": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_ADC_01.pdf",
+					"filename": "LFBG - ADC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_GMC_01.pdf",
+					"filename": "LFBG - GMC_01.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_AMG_01.pdf",
+					"filename": "LFBG - AMG_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_01.pdf",
+					"filename": "LFBG - DATA_01.pdf"
+				},
+				"DATA_RWY05_RNP_Z_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY05_RNP_Z_CODE.pdf",
+					"filename": "LFBG - DATA_RWY05_RNP_Z_CODE.pdf"
+				},
+				"DATA_RWY05_RNP_Z_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY05_RNP_Z_FASDB.pdf",
+					"filename": "LFBG - DATA_RWY05_RNP_Z_FASDB.pdf"
+				},
+				"DATA_RWY23_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY23_RNP_CODE.pdf",
+					"filename": "LFBG - DATA_RWY23_RNP_CODE.pdf"
+				},
+				"DATA_RWY23_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY23_RNP_FASDB.pdf",
+					"filename": "LFBG - DATA_RWY23_RNP_FASDB.pdf"
+				},
+				"SID_RWY05_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY05_CONV.pdf",
+					"filename": "LFBG - SID_RWY05_CONV.pdf"
+				},
+				"SID_RWY05_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY05_CONV_INSTR_01.pdf",
+					"filename": "LFBG - SID_RWY05_CONV_INSTR_01.pdf"
+				},
+				"SID_RWY23_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY23_CONV.pdf",
+					"filename": "LFBG - SID_RWY23_CONV.pdf"
+				},
+				"SID_RWY23_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY23_CONV_INSTR_01.pdf",
+					"filename": "LFBG - SID_RWY23_CONV_INSTR_01.pdf"
+				},
+				"IAC_RWY05_RNP_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY05_RNP_Z.pdf",
+					"filename": "LFBG - IAC_RWY05_RNP_Z.pdf"
+				},
+				"IAC_RWY05_VOR_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY05_VOR_Z.pdf",
+					"filename": "LFBG - IAC_RWY05_VOR_Z.pdf"
+				},
+				"IAC_RWY23_ILS_Z_LOC_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY23_ILS_Z_LOC_Z.pdf",
+					"filename": "LFBG - IAC_RWY23_ILS_Z_LOC_Z.pdf"
+				},
+				"IAC_RWY23_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY23_RNP.pdf",
+					"filename": "LFBG - IAC_RWY23_RNP.pdf"
+				},
+				"IAC_RWY23_VOR_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY23_VOR_Z.pdf",
+					"filename": "LFBG - IAC_RWY23_VOR_Z.pdf"
 				}
 			},
 			"COLMAR HOUSSEN : LFGA": {
@@ -3911,6 +4039,64 @@
 					"filename": "LFSG - IAC_RWY26_RNP.pdf"
 				}
 			},
+			"EVREUX FAUVILLE : LFOE": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_ADC_01.pdf",
+					"filename": "LFOE - ADC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_GMC_01.pdf",
+					"filename": "LFOE - GMC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_01.pdf",
+					"filename": "LFOE - DATA_01.pdf"
+				},
+				"DATA_RWY04_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY04_RNP_CODE.pdf",
+					"filename": "LFOE - DATA_RWY04_RNP_CODE.pdf"
+				},
+				"DATA_RWY04_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY04_RNP_FASDB.pdf",
+					"filename": "LFOE - DATA_RWY04_RNP_FASDB.pdf"
+				},
+				"DATA_RWY22_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY22_RNP_CODE.pdf",
+					"filename": "LFOE - DATA_RWY22_RNP_CODE.pdf"
+				},
+				"DATA_RWY22_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY22_RNP_FASDB.pdf",
+					"filename": "LFOE - DATA_RWY22_RNP_FASDB.pdf"
+				},
+				"IAC_RWY04_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY04_RNP.pdf",
+					"filename": "LFOE - IAC_RWY04_RNP.pdf"
+				},
+				"IAC_RWY04_VOR": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY04_VOR.pdf",
+					"filename": "LFOE - IAC_RWY04_VOR.pdf"
+				},
+				"IAC_RWY04_VPT": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY04_VPT.pdf",
+					"filename": "LFOE - IAC_RWY04_VPT.pdf"
+				},
+				"IAC_RWY22_ILS_Z_LOC_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_ILS_Z_LOC_Z.pdf",
+					"filename": "LFOE - IAC_RWY22_ILS_Z_LOC_Z.pdf"
+				},
+				"IAC_RWY22_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_RNP.pdf",
+					"filename": "LFOE - IAC_RWY22_RNP.pdf"
+				},
+				"IAC_RWY22_VOR": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_VOR.pdf",
+					"filename": "LFOE - IAC_RWY22_VOR.pdf"
+				},
+				"IAC_RWY22_VPT": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_VPT.pdf",
+					"filename": "LFOE - IAC_RWY22_VPT.pdf"
+				}
+			},
 			"FIGARI SUD CORSE : LFKF": {
 				"MIA_TEXT_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFKF/AD_2_LFKF_MIA_TEXT_01.pdf",
@@ -4191,6 +4377,182 @@
 					"filename": "LFLS - IAC_RWY27_VPT.pdf"
 				}
 			},
+			"GRENOBLE LE VERSOUD : LFLG": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_ADC_01.pdf",
+					"filename": "LFLG - ADC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_01.pdf",
+					"filename": "LFLG - DATA_01.pdf"
+				},
+				"DATA_RWY048_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_RWY048_RNP_CODE.pdf",
+					"filename": "LFLG - DATA_RWY048_RNP_CODE.pdf"
+				},
+				"DATA_RWY215_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_RWY215_RNP_CODE.pdf",
+					"filename": "LFLG - DATA_RWY215_RNP_CODE.pdf"
+				},
+				"DATA_RWY215_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_RWY215_RNP_FASDB.pdf",
+					"filename": "LFLG - DATA_RWY215_RNP_FASDB.pdf"
+				},
+				"DATA_SID_RWY030_RNAV_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY030_RNAV_CODE_01.pdf",
+					"filename": "LFLG - DATA_SID_RWY030_RNAV_CODE_01.pdf"
+				},
+				"DATA_SID_RWY030_RNP_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY030_RNP_CODE_01.pdf",
+					"filename": "LFLG - DATA_SID_RWY030_RNP_CODE_01.pdf"
+				},
+				"DATA_SID_RWY249_RNAV_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY249_RNAV_CODE_01.pdf",
+					"filename": "LFLG - DATA_SID_RWY249_RNAV_CODE_01.pdf"
+				},
+				"DATA_SID_RWY249_RNP_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY249_RNP_CODE_01.pdf",
+					"filename": "LFLG - DATA_SID_RWY249_RNP_CODE_01.pdf"
+				},
+				"SID_030_RNAV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_030_RNAV.pdf",
+					"filename": "LFLG - SID_030_RNAV.pdf"
+				},
+				"SID_030_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_030_RNP.pdf",
+					"filename": "LFLG - SID_030_RNP.pdf"
+				},
+				"SID_249_RNAV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_249_RNAV.pdf",
+					"filename": "LFLG - SID_249_RNAV.pdf"
+				},
+				"SID_249_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_249_RNP.pdf",
+					"filename": "LFLG - SID_249_RNP.pdf"
+				},
+				"IAC_048_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_IAC_048_RNP.pdf",
+					"filename": "LFLG - IAC_048_RNP.pdf"
+				},
+				"IAC_215_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_IAC_215_RNP.pdf",
+					"filename": "LFLG - IAC_215_RNP.pdf"
+				}
+			},
+			"HYERES LE PALYVESTRE : LFTH": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_ADC_01.pdf",
+					"filename": "LFTH - ADC_01.pdf"
+				},
+				"AOC_RWY05-23": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_AOC_RWY05-23.pdf",
+					"filename": "LFTH - AOC_RWY05-23.pdf"
+				},
+				"AOC_RWY13-31": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_AOC_RWY13-31.pdf",
+					"filename": "LFTH - AOC_RWY13-31.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_GMC_01.pdf",
+					"filename": "LFTH - GMC_01.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_AMG_01.pdf",
+					"filename": "LFTH - AMG_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_01.pdf",
+					"filename": "LFTH - DATA_01.pdf"
+				},
+				"DATA_RWY05_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_RWY05_RNP_CODE.pdf",
+					"filename": "LFTH - DATA_RWY05_RNP_CODE.pdf"
+				},
+				"DATA_RWY05_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_RWY05_RNP_FASDB.pdf",
+					"filename": "LFTH - DATA_RWY05_RNP_FASDB.pdf"
+				},
+				"DATA_STAR_RWY05_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY05_CODE_01.pdf",
+					"filename": "LFTH - DATA_STAR_RWY05_CODE_01.pdf"
+				},
+				"DATA_STAR_RWY_ALL_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY_ALL_CODE_01.pdf",
+					"filename": "LFTH - DATA_STAR_RWY_ALL_CODE_01.pdf"
+				},
+				"DATA_STAR_RWY_ALL_RNAV_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY_ALL_RNAV_CODE_01.pdf",
+					"filename": "LFTH - DATA_STAR_RWY_ALL_RNAV_CODE_01.pdf"
+				},
+				"DATA_STAR_RWY_ALL_RNAV_CODE_02": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY_ALL_RNAV_CODE_02.pdf",
+					"filename": "LFTH - DATA_STAR_RWY_ALL_RNAV_CODE_02.pdf"
+				},
+				"SID_RWY05_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05_CONV.pdf",
+					"filename": "LFTH - SID_RWY05_CONV.pdf"
+				},
+				"SID_RWY05_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05_CONV_INSTR_01.pdf",
+					"filename": "LFTH - SID_RWY05_CONV_INSTR_01.pdf"
+				},
+				"SID_RWY05-23_RNAV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05-23_RNAV.pdf",
+					"filename": "LFTH - SID_RWY05-23_RNAV.pdf"
+				},
+				"SID_RWY05-23_RNAV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05-23_RNAV_INSTR_01.pdf",
+					"filename": "LFTH - SID_RWY05-23_RNAV_INSTR_01.pdf"
+				},
+				"SID_RWY05-23_RNAV_INSTR_02": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05-23_RNAV_INSTR_02.pdf",
+					"filename": "LFTH - SID_RWY05-23_RNAV_INSTR_02.pdf"
+				},
+				"SID_RWY13_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY13_CONV.pdf",
+					"filename": "LFTH - SID_RWY13_CONV.pdf"
+				},
+				"SID_RWY13_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY13_CONV_INSTR_01.pdf",
+					"filename": "LFTH - SID_RWY13_CONV_INSTR_01.pdf"
+				},
+				"SID_RWY23_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY23_CONV.pdf",
+					"filename": "LFTH - SID_RWY23_CONV.pdf"
+				},
+				"SID_RWY23_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY23_CONV_INSTR_01.pdf",
+					"filename": "LFTH - SID_RWY23_CONV_INSTR_01.pdf"
+				},
+				"SID_RWY31_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY31_CONV.pdf",
+					"filename": "LFTH - SID_RWY31_CONV.pdf"
+				},
+				"SID_RWY31_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY31_CONV_INSTR_01.pdf",
+					"filename": "LFTH - SID_RWY31_CONV_INSTR_01.pdf"
+				},
+				"STAR_RWY05": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_STAR_RWY05.pdf",
+					"filename": "LFTH - STAR_RWY05.pdf"
+				},
+				"STAR_RWY_ALL_RNAV-CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_STAR_RWY_ALL_RNAV-CONV.pdf",
+					"filename": "LFTH - STAR_RWY_ALL_RNAV-CONV.pdf"
+				},
+				"STAR_RWY_ALL_RNAV_HA": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_STAR_RWY_ALL_RNAV_HA.pdf",
+					"filename": "LFTH - STAR_RWY_ALL_RNAV_HA.pdf"
+				},
+				"IAC_RWY05_ILS_LOC": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_IAC_RWY05_ILS_LOC.pdf",
+					"filename": "LFTH - IAC_RWY05_ILS_LOC.pdf"
+				},
+				"IAC_RWY05_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_IAC_RWY05_RNP.pdf",
+					"filename": "LFTH - IAC_RWY05_RNP.pdf"
+				}
+			},
 			"ILE D'YEU : LFEY": {
 				"ADC_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFEY/AD_2_LFEY_ADC_01.pdf",
@@ -4223,6 +4585,56 @@
 				"IAC_RWY32_RNP": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFEY/AD_2_LFEY_IAC_RWY32_RNP.pdf",
 					"filename": "LFEY - IAC_RWY32_RNP.pdf"
+				}
+			},
+			"ISTRES LE TUBE : LFMI": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_ADC_01.pdf",
+					"filename": "LFMI - ADC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_GMC_01.pdf",
+					"filename": "LFMI - GMC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_DATA_01.pdf",
+					"filename": "LFMI - DATA_01.pdf"
+				},
+				"DATA_RWY15_RNP_Z_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_DATA_RWY15_RNP_Z_CODE.pdf",
+					"filename": "LFMI - DATA_RWY15_RNP_Z_CODE.pdf"
+				},
+				"DATA_RWY33_RNP_Z_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_DATA_RWY33_RNP_Z_CODE.pdf",
+					"filename": "LFMI - DATA_RWY33_RNP_Z_CODE.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_AMG_01.pdf",
+					"filename": "LFMI - AMG_01.pdf"
+				},
+				"SID_RWY_ALL_RNAV-CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_SID_RWY_ALL_RNAV-CONV.pdf",
+					"filename": "LFMI - SID_RWY_ALL_RNAV-CONV.pdf"
+				},
+				"SID_RWY_ALL_RNAV-CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_SID_RWY_ALL_RNAV-CONV_INSTR_01.pdf",
+					"filename": "LFMI - SID_RWY_ALL_RNAV-CONV_INSTR_01.pdf"
+				},
+				"STAR_RWY_ALL_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_STAR_RWY_ALL_CONV.pdf",
+					"filename": "LFMI - STAR_RWY_ALL_CONV.pdf"
+				},
+				"IAC_RWY15_INA_GNSS": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_IAC_RWY15_INA_GNSS.pdf",
+					"filename": "LFMI - IAC_RWY15_INA_GNSS.pdf"
+				},
+				"IAC_RWY33_RNP_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_IAC_RWY33_RNP_Z.pdf",
+					"filename": "LFMI - IAC_RWY33_RNP_Z.pdf"
+				},
+				"IAC_RWY_15_FNA_RNP_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_IAC_RWY_15_FNA_RNP_Z.pdf",
+					"filename": "LFMI - IAC_RWY_15_FNA_RNP_Z.pdf"
 				}
 			},
 			"LA MOLE : LFTZ": {
@@ -4409,6 +4821,20 @@
 				"IAC_RWY27_RNP": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBH/AD_2_LFBH_IAC_RWY27_RNP.pdf",
 					"filename": "LFBH - IAC_RWY27_RNP.pdf"
+				}
+			},
+			"LANDIVISIAU : LFRJ": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRJ/AD_2_LFRJ_ADC_01.pdf",
+					"filename": "LFRJ - ADC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRJ/AD_2_LFRJ_GMC_01.pdf",
+					"filename": "LFRJ - GMC_01.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRJ/AD_2_LFRJ_AMG_01.pdf",
+					"filename": "LFRJ - AMG_01.pdf"
 				}
 			},
 			"LANNION : LFRO": {
@@ -5055,6 +5481,92 @@
 				"IAC_RWY21_NDB": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBL/AD_2_LFBL_IAC_RWY21_NDB.pdf",
 					"filename": "LFBL - IAC_RWY21_NDB.pdf"
+				}
+			},
+			"LORIENT LANN BIHOUE : LFRH": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_ADC_01.pdf",
+					"filename": "LFRH - ADC_01.pdf"
+				},
+				"AOC_RWY07-25": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_AOC_RWY07-25.pdf",
+					"filename": "LFRH - AOC_RWY07-25.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_AMG_01.pdf",
+					"filename": "LFRH - AMG_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_GMC_01.pdf",
+					"filename": "LFRH - GMC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_01.pdf",
+					"filename": "LFRH - DATA_01.pdf"
+				},
+				"DATA_RWY07_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_RWY07_RNP_CODE.pdf",
+					"filename": "LFRH - DATA_RWY07_RNP_CODE.pdf"
+				},
+				"DATA_RWY25_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_RWY25_RNP_CODE.pdf",
+					"filename": "LFRH - DATA_RWY25_RNP_CODE.pdf"
+				},
+				"DATA_STAR_RWY25_CODE_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_STAR_RWY25_CODE_01.pdf",
+					"filename": "LFRH - DATA_STAR_RWY25_CODE_01.pdf"
+				},
+				"SID_RWY07_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY07_CONV.pdf",
+					"filename": "LFRH - SID_RWY07_CONV.pdf"
+				},
+				"SID_RWY07_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY07_CONV_INSTR_01.pdf",
+					"filename": "LFRH - SID_RWY07_CONV_INSTR_01.pdf"
+				},
+				"SID_RWY25_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY25_CONV.pdf",
+					"filename": "LFRH - SID_RWY25_CONV.pdf"
+				},
+				"SID_RWY25_CONV_INSTR_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY25_CONV_INSTR_01.pdf",
+					"filename": "LFRH - SID_RWY25_CONV_INSTR_01.pdf"
+				},
+				"STAR_RWY07_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_STAR_RWY07_CONV.pdf",
+					"filename": "LFRH - STAR_RWY07_CONV.pdf"
+				},
+				"STAR_RWY25_RNAV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_STAR_RWY25_RNAV.pdf",
+					"filename": "LFRH - STAR_RWY25_RNAV.pdf"
+				},
+				"STAR_RWY25_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_STAR_RWY25_CONV.pdf",
+					"filename": "LFRH - STAR_RWY25_CONV.pdf"
+				},
+				"IAC_RWY07_NDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY07_NDB.pdf",
+					"filename": "LFRH - IAC_RWY07_NDB.pdf"
+				},
+				"IAC_RWY07_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY07_RNP.pdf",
+					"filename": "LFRH - IAC_RWY07_RNP.pdf"
+				},
+				"IAC_RWY25_ILS_LOC": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_ILS_LOC.pdf",
+					"filename": "LFRH - IAC_RWY25_ILS_LOC.pdf"
+				},
+				"IAC_RWY25_NDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_NDB.pdf",
+					"filename": "LFRH - IAC_RWY25_NDB.pdf"
+				},
+				"IAC_RWY25_RADAR_ILS_Z_LOC_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_RADAR_ILS_Z_LOC_Z.pdf",
+					"filename": "LFRH - IAC_RWY25_RADAR_ILS_Z_LOC_Z.pdf"
+				},
+				"IAC_RWY25_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_RNP.pdf",
+					"filename": "LFRH - IAC_RWY25_RNP.pdf"
 				}
 			},
 			"LYON BRON : LFLY": {
@@ -6015,6 +6527,24 @@
 					"filename": "LFJL - IAC_RWY22_RNP.pdf"
 				}
 			},
+			"MONT DE MARSAN : LFBM": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_ADC_01.pdf",
+					"filename": "LFBM - ADC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_DATA_01.pdf",
+					"filename": "LFBM - DATA_01.pdf"
+				},
+				"IAC_RWY27_FNA_ILS_Z_LOC_Z": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_IAC_RWY27_FNA_ILS_Z_LOC_Z.pdf",
+					"filename": "LFBM - IAC_RWY27_FNA_ILS_Z_LOC_Z.pdf"
+				},
+				"IAC_RWY27_INA_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_IAC_RWY27_INA_CONV.pdf",
+					"filename": "LFBM - IAC_RWY27_INA_CONV.pdf"
+				}
+			},
 			"MONTBELIARD COURCELLES : LFSM": {
 				"ADC_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSM/AD_2_LFSM_ADC_01.pdf",
@@ -6929,6 +7459,68 @@
 				"IAC_RWY25_RNP": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBN/AD_2_LFBN_IAC_RWY25_RNP.pdf",
 					"filename": "LFBN - IAC_RWY25_RNP.pdf"
+				}
+			},
+			"ORLEANS BRICY : LFOJ": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_ADC_01.pdf",
+					"filename": "LFOJ - ADC_01.pdf"
+				},
+				"APDC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_APDC_01.pdf",
+					"filename": "LFOJ - APDC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_GMC_01.pdf",
+					"filename": "LFOJ - GMC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_01.pdf",
+					"filename": "LFOJ - DATA_01.pdf"
+				},
+				"DATA_RWY07_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY07_RNP_CODE.pdf",
+					"filename": "LFOJ - DATA_RWY07_RNP_CODE.pdf"
+				},
+				"DATA_RWY07_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY07_RNP_FASDB.pdf",
+					"filename": "LFOJ - DATA_RWY07_RNP_FASDB.pdf"
+				},
+				"DATA_RWY25_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY25_RNP_CODE.pdf",
+					"filename": "LFOJ - DATA_RWY25_RNP_CODE.pdf"
+				},
+				"DATA_RWY25_RNP_FASDB": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY25_RNP_FASDB.pdf",
+					"filename": "LFOJ - DATA_RWY25_RNP_FASDB.pdf"
+				},
+				"AMG_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_AMG_01.pdf",
+					"filename": "LFOJ - AMG_01.pdf"
+				},
+				"SID_RWY07_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_SID_RWY07_CONV.pdf",
+					"filename": "LFOJ - SID_RWY07_CONV.pdf"
+				},
+				"SID_RWY25_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_SID_RWY25_CONV.pdf",
+					"filename": "LFOJ - SID_RWY25_CONV.pdf"
+				},
+				"STAR_RWY_ALL_CONV": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_STAR_RWY_ALL_CONV.pdf",
+					"filename": "LFOJ - STAR_RWY_ALL_CONV.pdf"
+				},
+				"IAC_RWY07_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_IAC_RWY07_RNP.pdf",
+					"filename": "LFOJ - IAC_RWY07_RNP.pdf"
+				},
+				"IAC_RWY25_ILS_ou_LOC": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_IAC_RWY25_ILS_ou_LOC.pdf",
+					"filename": "LFOJ - IAC_RWY25_ILS_ou_LOC.pdf"
+				},
+				"IAC_RWY25_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_IAC_RWY25_RNP.pdf",
+					"filename": "LFOJ - IAC_RWY25_RNP.pdf"
 				}
 			},
 			"ORLEANS SAINT DENIS DE L'HOTEL : LFOZ": {
@@ -10039,6 +10631,36 @@
 					"filename": "LFRT - IAC_RWY24_RNP.pdf"
 				}
 			},
+			"SAINT DIZIER ROBINSON : LFSI": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_ADC_01.pdf",
+					"filename": "LFSI - ADC_01.pdf"
+				},
+				"GMC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_GMC_01.pdf",
+					"filename": "LFSI - GMC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_DATA_01.pdf",
+					"filename": "LFSI - DATA_01.pdf"
+				},
+				"DATA_RWY11_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_DATA_RWY11_RNP_CODE.pdf",
+					"filename": "LFSI - DATA_RWY11_RNP_CODE.pdf"
+				},
+				"DATA_RWY29_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_DATA_RWY29_RNP_CODE.pdf",
+					"filename": "LFSI - DATA_RWY29_RNP_CODE.pdf"
+				},
+				"IAC_RWY_11_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_IAC_RWY_11_RNP.pdf",
+					"filename": "LFSI - IAC_RWY_11_RNP.pdf"
+				},
+				"IAC_RWY_29_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_IAC_RWY_29_RNP.pdf",
+					"filename": "LFSI - IAC_RWY_29_RNP.pdf"
+				}
+			},
 			"SAINT ETIENNE LOIRE : LFMH": {
 				"ADC_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMH/AD_2_LFMH_ADC_01.pdf",
@@ -10291,6 +10913,12 @@
 				"IAC_RWY33R_RNP": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLN/AD_2_LFLN_IAC_RWY33R_RNP.pdf",
 					"filename": "LFLN - IAC_RWY33R_RNP.pdf"
+				}
+			},
+			"SOLENZARA : LFKS": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFKS/AD_2_LFKS_ADC_01.pdf",
+					"filename": "LFKS - ADC_01.pdf"
 				}
 			},
 			"STRASBOURG ENTZHEIM : LFST": {
@@ -11683,652 +12311,6 @@
 					"filename": "LFLV - IAC_RWY01_RNP.pdf"
 				}
 			},
-			"VILLEFRANCHE TARARE : LFHV": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_ADC_01.pdf",
-					"filename": "LFHV - ADC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_DATA_01.pdf",
-					"filename": "LFHV - DATA_01.pdf"
-				},
-				"DATA_RWY18_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_DATA_RWY18_RNP_CODE.pdf",
-					"filename": "LFHV - DATA_RWY18_RNP_CODE.pdf"
-				},
-				"IAC_RWY18_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_IAC_RWY18_RNP.pdf",
-					"filename": "LFHV - IAC_RWY18_RNP.pdf"
-				}
-			},
-			"GRENOBLE LE VERSOUD : LFLG": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_ADC_01.pdf",
-					"filename": "LFLG - ADC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_01.pdf",
-					"filename": "LFLG - DATA_01.pdf"
-				},
-				"DATA_RWY048_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_RWY048_RNP_CODE.pdf",
-					"filename": "LFLG - DATA_RWY048_RNP_CODE.pdf"
-				},
-				"DATA_RWY215_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_RWY215_RNP_CODE.pdf",
-					"filename": "LFLG - DATA_RWY215_RNP_CODE.pdf"
-				},
-				"DATA_RWY215_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_RWY215_RNP_FASDB.pdf",
-					"filename": "LFLG - DATA_RWY215_RNP_FASDB.pdf"
-				},
-				"DATA_SID_RWY030_RNAV_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY030_RNAV_CODE_01.pdf",
-					"filename": "LFLG - DATA_SID_RWY030_RNAV_CODE_01.pdf"
-				},
-				"DATA_SID_RWY030_RNP_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY030_RNP_CODE_01.pdf",
-					"filename": "LFLG - DATA_SID_RWY030_RNP_CODE_01.pdf"
-				},
-				"DATA_SID_RWY249_RNAV_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY249_RNAV_CODE_01.pdf",
-					"filename": "LFLG - DATA_SID_RWY249_RNAV_CODE_01.pdf"
-				},
-				"DATA_SID_RWY249_RNP_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_DATA_SID_RWY249_RNP_CODE_01.pdf",
-					"filename": "LFLG - DATA_SID_RWY249_RNP_CODE_01.pdf"
-				},
-				"SID_030_RNAV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_030_RNAV.pdf",
-					"filename": "LFLG - SID_030_RNAV.pdf"
-				},
-				"SID_030_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_030_RNP.pdf",
-					"filename": "LFLG - SID_030_RNP.pdf"
-				},
-				"SID_249_RNAV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_249_RNAV.pdf",
-					"filename": "LFLG - SID_249_RNAV.pdf"
-				},
-				"SID_249_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_SID_249_RNP.pdf",
-					"filename": "LFLG - SID_249_RNP.pdf"
-				},
-				"IAC_048_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_IAC_048_RNP.pdf",
-					"filename": "LFLG - IAC_048_RNP.pdf"
-				},
-				"IAC_215_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFLG/AD_2_LFLG_IAC_215_RNP.pdf",
-					"filename": "LFLG - IAC_215_RNP.pdf"
-				}
-			},
-			"AVORD : LFOA": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_ADC_01.pdf",
-					"filename": "LFOA - ADC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_GMC_01.pdf",
-					"filename": "LFOA - GMC_01.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_AMG_01.pdf",
-					"filename": "LFOA - AMG_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_DATA_01.pdf",
-					"filename": "LFOA - DATA_01.pdf"
-				},
-				"DATA_RWY06_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_DATA_RWY06_RNP_CODE.pdf",
-					"filename": "LFOA - DATA_RWY06_RNP_CODE.pdf"
-				},
-				"DATA_RWY24_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_DATA_RWY24_RNP_CODE.pdf",
-					"filename": "LFOA - DATA_RWY24_RNP_CODE.pdf"
-				},
-				"IAC_RWY06_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_IAC_RWY06_RNP.pdf",
-					"filename": "LFOA - IAC_RWY06_RNP.pdf"
-				},
-				"IAC_RWY24_ILS_LOC": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_IAC_RWY24_ILS_LOC.pdf",
-					"filename": "LFOA - IAC_RWY24_ILS_LOC.pdf"
-				},
-				"IAC_RWY24_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOA/AD_2_LFOA_IAC_RWY24_RNP.pdf",
-					"filename": "LFOA - IAC_RWY24_RNP.pdf"
-				}
-			},
-			"CAZAUX : LFBC": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBC/AD_2_LFBC_ADC_01.pdf",
-					"filename": "LFBC - ADC_01.pdf"
-				},
-				"ADC_TEXT01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBC/AD_2_LFBC_ADC_TEXT01.pdf",
-					"filename": "LFBC - ADC_TEXT01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBC/AD_2_LFBC_GMC_01.pdf",
-					"filename": "LFBC - GMC_01.pdf"
-				}
-			},
-			"CHATEAUDUN : LFOC": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOC/AD_2_LFOC_ADC_01.pdf",
-					"filename": "LFOC - ADC_01.pdf"
-				}
-			},
-			"COGNAC CHATEAUBERNARD : LFBG": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_ADC_01.pdf",
-					"filename": "LFBG - ADC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_GMC_01.pdf",
-					"filename": "LFBG - GMC_01.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_AMG_01.pdf",
-					"filename": "LFBG - AMG_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_01.pdf",
-					"filename": "LFBG - DATA_01.pdf"
-				},
-				"DATA_RWY05_RNP_Z_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY05_RNP_Z_CODE.pdf",
-					"filename": "LFBG - DATA_RWY05_RNP_Z_CODE.pdf"
-				},
-				"DATA_RWY05_RNP_Z_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY05_RNP_Z_FASDB.pdf",
-					"filename": "LFBG - DATA_RWY05_RNP_Z_FASDB.pdf"
-				},
-				"DATA_RWY23_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY23_RNP_CODE.pdf",
-					"filename": "LFBG - DATA_RWY23_RNP_CODE.pdf"
-				},
-				"DATA_RWY23_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_DATA_RWY23_RNP_FASDB.pdf",
-					"filename": "LFBG - DATA_RWY23_RNP_FASDB.pdf"
-				},
-				"SID_RWY05_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY05_CONV.pdf",
-					"filename": "LFBG - SID_RWY05_CONV.pdf"
-				},
-				"SID_RWY05_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY05_CONV_INSTR_01.pdf",
-					"filename": "LFBG - SID_RWY05_CONV_INSTR_01.pdf"
-				},
-				"SID_RWY23_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY23_CONV.pdf",
-					"filename": "LFBG - SID_RWY23_CONV.pdf"
-				},
-				"SID_RWY23_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_SID_RWY23_CONV_INSTR_01.pdf",
-					"filename": "LFBG - SID_RWY23_CONV_INSTR_01.pdf"
-				},
-				"IAC_RWY05_RNP_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY05_RNP_Z.pdf",
-					"filename": "LFBG - IAC_RWY05_RNP_Z.pdf"
-				},
-				"IAC_RWY05_VOR_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY05_VOR_Z.pdf",
-					"filename": "LFBG - IAC_RWY05_VOR_Z.pdf"
-				},
-				"IAC_RWY23_ILS_Z_LOC_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY23_ILS_Z_LOC_Z.pdf",
-					"filename": "LFBG - IAC_RWY23_ILS_Z_LOC_Z.pdf"
-				},
-				"IAC_RWY23_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY23_RNP.pdf",
-					"filename": "LFBG - IAC_RWY23_RNP.pdf"
-				},
-				"IAC_RWY23_VOR_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBG/AD_2_LFBG_IAC_RWY23_VOR_Z.pdf",
-					"filename": "LFBG - IAC_RWY23_VOR_Z.pdf"
-				}
-			},
-			"EVREUX FAUVILLE : LFOE": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_ADC_01.pdf",
-					"filename": "LFOE - ADC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_GMC_01.pdf",
-					"filename": "LFOE - GMC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_01.pdf",
-					"filename": "LFOE - DATA_01.pdf"
-				},
-				"DATA_RWY04_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY04_RNP_CODE.pdf",
-					"filename": "LFOE - DATA_RWY04_RNP_CODE.pdf"
-				},
-				"DATA_RWY04_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY04_RNP_FASDB.pdf",
-					"filename": "LFOE - DATA_RWY04_RNP_FASDB.pdf"
-				},
-				"DATA_RWY22_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY22_RNP_CODE.pdf",
-					"filename": "LFOE - DATA_RWY22_RNP_CODE.pdf"
-				},
-				"DATA_RWY22_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_DATA_RWY22_RNP_FASDB.pdf",
-					"filename": "LFOE - DATA_RWY22_RNP_FASDB.pdf"
-				},
-				"IAC_RWY04_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY04_RNP.pdf",
-					"filename": "LFOE - IAC_RWY04_RNP.pdf"
-				},
-				"IAC_RWY04_VOR": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY04_VOR.pdf",
-					"filename": "LFOE - IAC_RWY04_VOR.pdf"
-				},
-				"IAC_RWY04_VPT": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY04_VPT.pdf",
-					"filename": "LFOE - IAC_RWY04_VPT.pdf"
-				},
-				"IAC_RWY22_ILS_Z_LOC_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_ILS_Z_LOC_Z.pdf",
-					"filename": "LFOE - IAC_RWY22_ILS_Z_LOC_Z.pdf"
-				},
-				"IAC_RWY22_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_RNP.pdf",
-					"filename": "LFOE - IAC_RWY22_RNP.pdf"
-				},
-				"IAC_RWY22_VOR": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_VOR.pdf",
-					"filename": "LFOE - IAC_RWY22_VOR.pdf"
-				},
-				"IAC_RWY22_VPT": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOE/AD_2_LFOE_IAC_RWY22_VPT.pdf",
-					"filename": "LFOE - IAC_RWY22_VPT.pdf"
-				}
-			},
-			"HYERES LE PALYVESTRE : LFTH": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_ADC_01.pdf",
-					"filename": "LFTH - ADC_01.pdf"
-				},
-				"AOC_RWY05-23": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_AOC_RWY05-23.pdf",
-					"filename": "LFTH - AOC_RWY05-23.pdf"
-				},
-				"AOC_RWY13-31": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_AOC_RWY13-31.pdf",
-					"filename": "LFTH - AOC_RWY13-31.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_GMC_01.pdf",
-					"filename": "LFTH - GMC_01.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_AMG_01.pdf",
-					"filename": "LFTH - AMG_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_01.pdf",
-					"filename": "LFTH - DATA_01.pdf"
-				},
-				"DATA_RWY05_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_RWY05_RNP_CODE.pdf",
-					"filename": "LFTH - DATA_RWY05_RNP_CODE.pdf"
-				},
-				"DATA_RWY05_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_RWY05_RNP_FASDB.pdf",
-					"filename": "LFTH - DATA_RWY05_RNP_FASDB.pdf"
-				},
-				"DATA_STAR_RWY05_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY05_CODE_01.pdf",
-					"filename": "LFTH - DATA_STAR_RWY05_CODE_01.pdf"
-				},
-				"DATA_STAR_RWY_ALL_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY_ALL_CODE_01.pdf",
-					"filename": "LFTH - DATA_STAR_RWY_ALL_CODE_01.pdf"
-				},
-				"DATA_STAR_RWY_ALL_RNAV_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY_ALL_RNAV_CODE_01.pdf",
-					"filename": "LFTH - DATA_STAR_RWY_ALL_RNAV_CODE_01.pdf"
-				},
-				"DATA_STAR_RWY_ALL_RNAV_CODE_02": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_DATA_STAR_RWY_ALL_RNAV_CODE_02.pdf",
-					"filename": "LFTH - DATA_STAR_RWY_ALL_RNAV_CODE_02.pdf"
-				},
-				"SID_RWY05_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05_CONV.pdf",
-					"filename": "LFTH - SID_RWY05_CONV.pdf"
-				},
-				"SID_RWY05_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05_CONV_INSTR_01.pdf",
-					"filename": "LFTH - SID_RWY05_CONV_INSTR_01.pdf"
-				},
-				"SID_RWY05-23_RNAV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05-23_RNAV.pdf",
-					"filename": "LFTH - SID_RWY05-23_RNAV.pdf"
-				},
-				"SID_RWY05-23_RNAV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05-23_RNAV_INSTR_01.pdf",
-					"filename": "LFTH - SID_RWY05-23_RNAV_INSTR_01.pdf"
-				},
-				"SID_RWY05-23_RNAV_INSTR_02": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY05-23_RNAV_INSTR_02.pdf",
-					"filename": "LFTH - SID_RWY05-23_RNAV_INSTR_02.pdf"
-				},
-				"SID_RWY13_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY13_CONV.pdf",
-					"filename": "LFTH - SID_RWY13_CONV.pdf"
-				},
-				"SID_RWY13_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY13_CONV_INSTR_01.pdf",
-					"filename": "LFTH - SID_RWY13_CONV_INSTR_01.pdf"
-				},
-				"SID_RWY23_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY23_CONV.pdf",
-					"filename": "LFTH - SID_RWY23_CONV.pdf"
-				},
-				"SID_RWY23_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY23_CONV_INSTR_01.pdf",
-					"filename": "LFTH - SID_RWY23_CONV_INSTR_01.pdf"
-				},
-				"SID_RWY31_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY31_CONV.pdf",
-					"filename": "LFTH - SID_RWY31_CONV.pdf"
-				},
-				"SID_RWY31_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_SID_RWY31_CONV_INSTR_01.pdf",
-					"filename": "LFTH - SID_RWY31_CONV_INSTR_01.pdf"
-				},
-				"STAR_RWY05": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_STAR_RWY05.pdf",
-					"filename": "LFTH - STAR_RWY05.pdf"
-				},
-				"STAR_RWY_ALL_RNAV-CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_STAR_RWY_ALL_RNAV-CONV.pdf",
-					"filename": "LFTH - STAR_RWY_ALL_RNAV-CONV.pdf"
-				},
-				"STAR_RWY_ALL_RNAV_HA": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_STAR_RWY_ALL_RNAV_HA.pdf",
-					"filename": "LFTH - STAR_RWY_ALL_RNAV_HA.pdf"
-				},
-				"IAC_RWY05_ILS_LOC": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_IAC_RWY05_ILS_LOC.pdf",
-					"filename": "LFTH - IAC_RWY05_ILS_LOC.pdf"
-				},
-				"IAC_RWY05_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFTH/AD_2_LFTH_IAC_RWY05_RNP.pdf",
-					"filename": "LFTH - IAC_RWY05_RNP.pdf"
-				}
-			},
-			"ISTRES LE TUBE : LFMI": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_ADC_01.pdf",
-					"filename": "LFMI - ADC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_GMC_01.pdf",
-					"filename": "LFMI - GMC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_DATA_01.pdf",
-					"filename": "LFMI - DATA_01.pdf"
-				},
-				"DATA_RWY15_RNP_Z_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_DATA_RWY15_RNP_Z_CODE.pdf",
-					"filename": "LFMI - DATA_RWY15_RNP_Z_CODE.pdf"
-				},
-				"DATA_RWY33_RNP_Z_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_DATA_RWY33_RNP_Z_CODE.pdf",
-					"filename": "LFMI - DATA_RWY33_RNP_Z_CODE.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_AMG_01.pdf",
-					"filename": "LFMI - AMG_01.pdf"
-				},
-				"SID_RWY_ALL_RNAV-CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_SID_RWY_ALL_RNAV-CONV.pdf",
-					"filename": "LFMI - SID_RWY_ALL_RNAV-CONV.pdf"
-				},
-				"SID_RWY_ALL_RNAV-CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_SID_RWY_ALL_RNAV-CONV_INSTR_01.pdf",
-					"filename": "LFMI - SID_RWY_ALL_RNAV-CONV_INSTR_01.pdf"
-				},
-				"STAR_RWY_ALL_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_STAR_RWY_ALL_CONV.pdf",
-					"filename": "LFMI - STAR_RWY_ALL_CONV.pdf"
-				},
-				"IAC_RWY15_INA_GNSS": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_IAC_RWY15_INA_GNSS.pdf",
-					"filename": "LFMI - IAC_RWY15_INA_GNSS.pdf"
-				},
-				"IAC_RWY33_RNP_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_IAC_RWY33_RNP_Z.pdf",
-					"filename": "LFMI - IAC_RWY33_RNP_Z.pdf"
-				},
-				"IAC_RWY_15_FNA_RNP_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFMI/AD_2_LFMI_IAC_RWY_15_FNA_RNP_Z.pdf",
-					"filename": "LFMI - IAC_RWY_15_FNA_RNP_Z.pdf"
-				}
-			},
-			"LANDIVISIAU : LFRJ": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRJ/AD_2_LFRJ_ADC_01.pdf",
-					"filename": "LFRJ - ADC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRJ/AD_2_LFRJ_GMC_01.pdf",
-					"filename": "LFRJ - GMC_01.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRJ/AD_2_LFRJ_AMG_01.pdf",
-					"filename": "LFRJ - AMG_01.pdf"
-				}
-			},
-			"LORIENT LANN BIHOUE : LFRH": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_ADC_01.pdf",
-					"filename": "LFRH - ADC_01.pdf"
-				},
-				"AOC_RWY07-25": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_AOC_RWY07-25.pdf",
-					"filename": "LFRH - AOC_RWY07-25.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_AMG_01.pdf",
-					"filename": "LFRH - AMG_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_GMC_01.pdf",
-					"filename": "LFRH - GMC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_01.pdf",
-					"filename": "LFRH - DATA_01.pdf"
-				},
-				"DATA_RWY07_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_RWY07_RNP_CODE.pdf",
-					"filename": "LFRH - DATA_RWY07_RNP_CODE.pdf"
-				},
-				"DATA_RWY25_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_RWY25_RNP_CODE.pdf",
-					"filename": "LFRH - DATA_RWY25_RNP_CODE.pdf"
-				},
-				"DATA_STAR_RWY25_CODE_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_DATA_STAR_RWY25_CODE_01.pdf",
-					"filename": "LFRH - DATA_STAR_RWY25_CODE_01.pdf"
-				},
-				"SID_RWY07_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY07_CONV.pdf",
-					"filename": "LFRH - SID_RWY07_CONV.pdf"
-				},
-				"SID_RWY07_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY07_CONV_INSTR_01.pdf",
-					"filename": "LFRH - SID_RWY07_CONV_INSTR_01.pdf"
-				},
-				"SID_RWY25_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY25_CONV.pdf",
-					"filename": "LFRH - SID_RWY25_CONV.pdf"
-				},
-				"SID_RWY25_CONV_INSTR_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_SID_RWY25_CONV_INSTR_01.pdf",
-					"filename": "LFRH - SID_RWY25_CONV_INSTR_01.pdf"
-				},
-				"STAR_RWY07_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_STAR_RWY07_CONV.pdf",
-					"filename": "LFRH - STAR_RWY07_CONV.pdf"
-				},
-				"STAR_RWY25_RNAV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_STAR_RWY25_RNAV.pdf",
-					"filename": "LFRH - STAR_RWY25_RNAV.pdf"
-				},
-				"STAR_RWY25_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_STAR_RWY25_CONV.pdf",
-					"filename": "LFRH - STAR_RWY25_CONV.pdf"
-				},
-				"IAC_RWY07_NDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY07_NDB.pdf",
-					"filename": "LFRH - IAC_RWY07_NDB.pdf"
-				},
-				"IAC_RWY07_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY07_RNP.pdf",
-					"filename": "LFRH - IAC_RWY07_RNP.pdf"
-				},
-				"IAC_RWY25_ILS_LOC": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_ILS_LOC.pdf",
-					"filename": "LFRH - IAC_RWY25_ILS_LOC.pdf"
-				},
-				"IAC_RWY25_NDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_NDB.pdf",
-					"filename": "LFRH - IAC_RWY25_NDB.pdf"
-				},
-				"IAC_RWY25_RADAR_ILS_Z_LOC_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_RADAR_ILS_Z_LOC_Z.pdf",
-					"filename": "LFRH - IAC_RWY25_RADAR_ILS_Z_LOC_Z.pdf"
-				},
-				"IAC_RWY25_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFRH/AD_2_LFRH_IAC_RWY25_RNP.pdf",
-					"filename": "LFRH - IAC_RWY25_RNP.pdf"
-				}
-			},
-			"MONT DE MARSAN : LFBM": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_ADC_01.pdf",
-					"filename": "LFBM - ADC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_DATA_01.pdf",
-					"filename": "LFBM - DATA_01.pdf"
-				},
-				"IAC_RWY27_FNA_ILS_Z_LOC_Z": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_IAC_RWY27_FNA_ILS_Z_LOC_Z.pdf",
-					"filename": "LFBM - IAC_RWY27_FNA_ILS_Z_LOC_Z.pdf"
-				},
-				"IAC_RWY27_INA_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFBM/AD_2_LFBM_IAC_RWY27_INA_CONV.pdf",
-					"filename": "LFBM - IAC_RWY27_INA_CONV.pdf"
-				}
-			},
-			"ORLEANS BRICY : LFOJ": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_ADC_01.pdf",
-					"filename": "LFOJ - ADC_01.pdf"
-				},
-				"APDC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_APDC_01.pdf",
-					"filename": "LFOJ - APDC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_GMC_01.pdf",
-					"filename": "LFOJ - GMC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_01.pdf",
-					"filename": "LFOJ - DATA_01.pdf"
-				},
-				"DATA_RWY07_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY07_RNP_CODE.pdf",
-					"filename": "LFOJ - DATA_RWY07_RNP_CODE.pdf"
-				},
-				"DATA_RWY07_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY07_RNP_FASDB.pdf",
-					"filename": "LFOJ - DATA_RWY07_RNP_FASDB.pdf"
-				},
-				"DATA_RWY25_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY25_RNP_CODE.pdf",
-					"filename": "LFOJ - DATA_RWY25_RNP_CODE.pdf"
-				},
-				"DATA_RWY25_RNP_FASDB": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_DATA_RWY25_RNP_FASDB.pdf",
-					"filename": "LFOJ - DATA_RWY25_RNP_FASDB.pdf"
-				},
-				"AMG_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_AMG_01.pdf",
-					"filename": "LFOJ - AMG_01.pdf"
-				},
-				"SID_RWY07_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_SID_RWY07_CONV.pdf",
-					"filename": "LFOJ - SID_RWY07_CONV.pdf"
-				},
-				"SID_RWY25_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_SID_RWY25_CONV.pdf",
-					"filename": "LFOJ - SID_RWY25_CONV.pdf"
-				},
-				"STAR_RWY_ALL_CONV": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_STAR_RWY_ALL_CONV.pdf",
-					"filename": "LFOJ - STAR_RWY_ALL_CONV.pdf"
-				},
-				"IAC_RWY07_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_IAC_RWY07_RNP.pdf",
-					"filename": "LFOJ - IAC_RWY07_RNP.pdf"
-				},
-				"IAC_RWY25_ILS_ou_LOC": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_IAC_RWY25_ILS_ou_LOC.pdf",
-					"filename": "LFOJ - IAC_RWY25_ILS_ou_LOC.pdf"
-				},
-				"IAC_RWY25_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFOJ/AD_2_LFOJ_IAC_RWY25_RNP.pdf",
-					"filename": "LFOJ - IAC_RWY25_RNP.pdf"
-				}
-			},
-			"SAINT DIZIER ROBINSON : LFSI": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_ADC_01.pdf",
-					"filename": "LFSI - ADC_01.pdf"
-				},
-				"GMC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_GMC_01.pdf",
-					"filename": "LFSI - GMC_01.pdf"
-				},
-				"DATA_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_DATA_01.pdf",
-					"filename": "LFSI - DATA_01.pdf"
-				},
-				"DATA_RWY11_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_DATA_RWY11_RNP_CODE.pdf",
-					"filename": "LFSI - DATA_RWY11_RNP_CODE.pdf"
-				},
-				"DATA_RWY29_RNP_CODE": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_DATA_RWY29_RNP_CODE.pdf",
-					"filename": "LFSI - DATA_RWY29_RNP_CODE.pdf"
-				},
-				"IAC_RWY_11_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_IAC_RWY_11_RNP.pdf",
-					"filename": "LFSI - IAC_RWY_11_RNP.pdf"
-				},
-				"IAC_RWY_29_RNP": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFSI/AD_2_LFSI_IAC_RWY_29_RNP.pdf",
-					"filename": "LFSI - IAC_RWY_29_RNP.pdf"
-				}
-			},
-			"SOLENZARA : LFKS": {
-				"ADC_01": {
-					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFKS/AD_2_LFKS_ADC_01.pdf",
-					"filename": "LFKS - ADC_01.pdf"
-				}
-			},
 			"VILLACOUBLAY VELIZY : LFPV": {
 				"ADC_01": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFPV/AD_2_LFPV_ADC_01.pdf",
@@ -12481,6 +12463,24 @@
 				"IAC_RWY27_VPT_Z": {
 					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFPV/AD_2_LFPV_IAC_RWY27_VPT_Z.pdf",
 					"filename": "LFPV - IAC_RWY27_VPT_Z.pdf"
+				}
+			},
+			"VILLEFRANCHE TARARE : LFHV": {
+				"ADC_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_ADC_01.pdf",
+					"filename": "LFHV - ADC_01.pdf"
+				},
+				"DATA_01": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_DATA_01.pdf",
+					"filename": "LFHV - DATA_01.pdf"
+				},
+				"DATA_RWY18_RNP_CODE": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_DATA_RWY18_RNP_CODE.pdf",
+					"filename": "LFHV - DATA_RWY18_RNP_CODE.pdf"
+				},
+				"IAC_RWY18_RNP": {
+					"url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/eAIP/Cartes/LFHV/AD_2_LFHV_IAC_RWY18_RNP.pdf",
+					"filename": "LFHV - IAC_RWY18_RNP.pdf"
 				}
 			}
 		}
