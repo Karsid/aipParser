@@ -20,7 +20,7 @@
 #
 # Example run lines:
 #   python aipParser.py --region BE
-#   python aipParser.py --region ES --codesort
+#   python aipParser.py --region ES
 #   python aipParser.py --region FI
 #   python aipParser.py --region FR
 #   python aipParser.py --region IE
@@ -29,7 +29,7 @@
 #   python aipParser.py --region RU
 #   python aipParser.py --region SE
 #   python aipParser.py --region UK
-#   python aipParser.py --region UK --debug
+#   python aipParser.py --region UK --debug --previous --codesort
 #
 ##################################################################
 
@@ -367,6 +367,10 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
     # get site page
     html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
+    # for this site we need to keep track of the code
+    # so we can look up the drome name
+    dromeMapping = {}
+
     type = ""
     old_code = ""
     old_name = ""
@@ -407,6 +411,7 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
                     name = item.get_text()
             if (type and code and name):
                 addAipPage(type, code, name, href)
+                dromeMapping[code] = name
                 code = ""
                 name = ""
 
@@ -437,7 +442,7 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
                     old_name = name
                 elif old_code != code:
                     # add the links to the page structure
-                    updateAipPageLinks (type, old_code, old_name, tmpPages)
+                    updateAipPageLinks (type, old_code, dromeMapping[old_code], tmpPages)
 
                     tmpPages = {}
                     tmpPages[title] = href, filename
@@ -456,17 +461,17 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
             tmpPages[title] = href, filename
 
             # add the links to the page structure
-            updateAipPageLinks (type, code, name, tmpPages)
+            updateAipPageLinks (type, code, dromeMapping[code], tmpPages)
         elif old_code != code:
             # add the links to the page structure
-            updateAipPageLinks (type, old_code, old_name, tmpPages)
+            updateAipPageLinks (type, old_code, dromeMapping[old_code], tmpPages)
 
             aipPages[type][old_code]["PageLinks"] = tmpPages
             tmpPages = {}
             tmpPages[title] = href, filename
 
             # add the links to the page structure
-            updateAipPageLinks (type, code, name, tmpPages)
+            updateAipPageLinks (type, code, dromeMapping[code], tmpPages)
 
     return
 
