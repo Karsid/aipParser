@@ -15,17 +15,17 @@ To install this library you would:
 
 ## Countries currently supported  
 The following countries are supported in this script:  
-: BE - Belgium  
-: BR - Brazil  
-: ES - Spain  
-: FI - Finland  
-: FR - France  
-: IE - Ireland  
-: NL - Netherlands  
-: NO - Norway  
-: RU - Russia  
-: SE - Sweden  
-: UK - United Kingdom  
+- BE - Belgium  
+- BR - Brazil  
+- ES - Spain  
+- FI - Finland  
+- FR - France  
+- IE - Ireland  
+- NL - Netherlands  
+- NO - Norway  
+- RU - Russia  
+- SE - Sweden  
+- UK - United Kingdom  
 
 
 ## AIP schedule  
