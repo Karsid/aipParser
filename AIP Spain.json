@@ -1,6 +1,6 @@
 {
 	"eBagLib": {
-		"0: Generated - 2023-03-05": {
+		"0: Generated - 2023-10-18": {
 		},
 		"AD 2 AERODROMES": {
 			"A CORUÑA : LECO": {
@@ -59,10 +59,6 @@
 				"IAC/6 - VOR RWY 21": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LECO/LE_AD_2_LECO_IAC_6_en.pdf",
 					"filename": "LECO - IAC-6 - VOR RWY 21.pdf"
-				},
-				"IAC/7 - NDB RWY 21": {
-					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LECO/LE_AD_2_LECO_IAC_7_en.pdf",
-					"filename": "LECO - IAC-7 - NDB RWY 21.pdf"
 				},
 				"VPT 1 - RWY 03": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LECO/LE_AD_2_LECO_VPT_1_en.pdf",
@@ -528,29 +524,25 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_2_en.pdf",
 					"filename": "LEBZ - IAC-2 - VOR Z RWY 31.pdf"
 				},
-				"IAC/3 - VOR Y o ILS Y o LOC Y RWY ": {
+				"IAC/3 - VOR Y o ILS Y o LOC Y RWY 31": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_3_en.pdf",
-					"filename": "LEBZ - IAC-3 - VOR Y o ILS Y o LOC Y RWY .pdf"
+					"filename": "LEBZ - IAC-3 - VOR Y o ILS Y o LOC Y RWY 31.pdf"
 				},
-				"IAC/4 - VOR X RWY 31": {
+				"IAC/4 - TACAN RWY 31": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_4_en.pdf",
-					"filename": "LEBZ - IAC-4 - VOR X RWY 31.pdf"
+					"filename": "LEBZ - IAC-4 - TACAN RWY 31.pdf"
 				},
-				"IAC/5 - TACAN RWY 31": {
+				"IAC/5 - HI-TACAN o ILS Z o LOC Z RWY 31": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_5_en.pdf",
-					"filename": "LEBZ - IAC-5 - TACAN RWY 31.pdf"
+					"filename": "LEBZ - IAC-5 - HI-TACAN o ILS Z o LOC Z RWY 31.pdf"
 				},
-				"IAC/6 - HI-TACAN o ILS Z o LOC Z RWY 31": {
+				"IAC/6 - HI-VOR o ILS Y o LOC Y RWY 31": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_6_en.pdf",
-					"filename": "LEBZ - IAC-6 - HI-TACAN o ILS Z o LOC Z RWY 31.pdf"
+					"filename": "LEBZ - IAC-6 - HI-VOR o ILS Y o LOC Y RWY 31.pdf"
 				},
-				"IAC/7 - HI-VOR o ILS Y o LOC Y RWY 31": {
+				"IAC/7 - HI-TACAN RWY 13": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_7_en.pdf",
-					"filename": "LEBZ - IAC-7 - HI-VOR o ILS Y o LOC Y RWY 31.pdf"
-				},
-				"IAC/8 - HI-TACAN RWY 13": {
-					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_IAC_8_en.pdf",
-					"filename": "LEBZ - IAC-8 - HI-TACAN RWY 13.pdf"
+					"filename": "LEBZ - IAC-7 - HI-TACAN RWY 13.pdf"
 				},
 				"VAC": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBZ/LE_AD_2_LEBZ_VAC_1_en.pdf",
@@ -658,69 +650,65 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_PATC_4_en.pdf",
 					"filename": "LEBL - PATC-4 - RWY 24R.pdf"
 				},
-				"SID 1 - RWY 02 CONFIGURACIÓN ESTE": {
+				"SID 1 - RWY 02 CONFIGURACIÓN ESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_1_en.pdf",
-					"filename": "LEBL - SID 1 - RWY 02 CONFIGURACIÓN ESTE.pdf"
+					"filename": "LEBL - SID 1 - RWY 02 CONFIGURACIÓN ESTE - RNAV1.pdf"
 				},
-				"SID 2 - RWY 06L CONFIGURACIÓN ESTE": {
+				"SID 2 - RWY 06L CONFIGURACIÓN ESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_2_en.pdf",
-					"filename": "LEBL - SID 2 - RWY 06L CONFIGURACIÓN ESTE.pdf"
+					"filename": "LEBL - SID 2 - RWY 06L CONFIGURACIÓN ESTE - RNAV1.pdf"
 				},
-				"SID 3 - RWY 06R CONFIGURACIÓN ESTE": {
+				"SID 3 - RWY 06L CONFIGURACIÓN ESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_3_en.pdf",
-					"filename": "LEBL - SID 3 - RWY 06R CONFIGURACIÓN ESTE.pdf"
+					"filename": "LEBL - SID 3 - RWY 06L CONFIGURACIÓN ESTE - RNAV1.pdf"
 				},
-				"SID 4 - RWY 20 CONFIGURACIÓN OESTE  ": {
+				"SID 4 - RWY 06L CONFIGURACIÓN ESTE - RNAV1  ": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_4_en.pdf",
-					"filename": "LEBL - SID 4 - RWY 20 CONFIGURACIÓN OESTE  .pdf"
+					"filename": "LEBL - SID 4 - RWY 06L CONFIGURACIÓN ESTE - RNAV1  .pdf"
 				},
-				"SID 5 - RWY 24L CONFIGURACIÓN OESTE ": {
+				"SID 5 - RWY 06R CONFIGURACIÓN ESTE - RNAV1 ": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_5_en.pdf",
-					"filename": "LEBL - SID 5 - RWY 24L CONFIGURACIÓN OESTE .pdf"
+					"filename": "LEBL - SID 5 - RWY 06R CONFIGURACIÓN ESTE - RNAV1 .pdf"
 				},
-				"SID 6 - RWY 24R CONFIGURACIÓN OESTE": {
+				"SID 6 - RWY 06R CONFIGURACIÓN ESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_6_en.pdf",
-					"filename": "LEBL - SID 6 - RWY 24R CONFIGURACIÓN OESTE.pdf"
+					"filename": "LEBL - SID 6 - RWY 06R CONFIGURACIÓN ESTE - RNAV1.pdf"
 				},
-				"SID 7 - RWY 02 CONFIGURACIÓN ESTE - BRNAV": {
+				"SID 7 - RWY 20 CONFIGURACIÓN OESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_7_en.pdf",
-					"filename": "LEBL - SID 7 - RWY 02 CONFIGURACIÓN ESTE - BRNAV.pdf"
+					"filename": "LEBL - SID 7 - RWY 20 CONFIGURACIÓN OESTE - RNAV1.pdf"
 				},
-				"SID 8 - RWY 06L/RWY 06R CONFIGURACIÓN ESTE  - BRNAV": {
+				"SID 8 - RWY 20R CONFIGURACIÓN OESTE  - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_8_en.pdf",
-					"filename": "LEBL - SID 8 - RWY 06L-RWY 06R CONFIGURACIÓN ESTE  - BRNAV.pdf"
+					"filename": "LEBL - SID 8 - RWY 20R CONFIGURACIÓN OESTE  - RNAV1.pdf"
 				},
-				"SID 9 - RWY 06L/RWY 06R CONFIGURACIÓN ESTE - RNAV1": {
+				"SID 9 - RWY 24L CONFIGURACIÓN OESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_9_en.pdf",
-					"filename": "LEBL - SID 9 - RWY 06L-RWY 06R CONFIGURACIÓN ESTE - RNAV1.pdf"
+					"filename": "LEBL - SID 9 - RWY 24L CONFIGURACIÓN OESTE - RNAV1.pdf"
 				},
-				"SID 10 - RWY 06R CONFIGURACIÓN ESTE - RNAV1": {
+				"SID 10 - RWY 24L CONFIGURACIÓN OESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_10_en.pdf",
-					"filename": "LEBL - SID 10 - RWY 06R CONFIGURACIÓN ESTE - RNAV1.pdf"
+					"filename": "LEBL - SID 10 - RWY 24L CONFIGURACIÓN OESTE - RNAV1.pdf"
 				},
-				"SID 11 - RWY 20 CONFIGURACIÓN OESTE - RNAV1": {
+				"SID 11 - RWY 24R CONFIGURACIÓN OESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_11_en.pdf",
-					"filename": "LEBL - SID 11 - RWY 20 CONFIGURACIÓN OESTE - RNAV1.pdf"
+					"filename": "LEBL - SID 11 - RWY 24R CONFIGURACIÓN OESTE - RNAV1.pdf"
 				},
-				"SID 12 -  RWY 24L CONFIGURACIÓN OESTE - RNAV1": {
+				"SID 12 -  RWY 24R CONFIGURACIÓN OESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_12_en.pdf",
-					"filename": "LEBL - SID 12 -  RWY 24L CONFIGURACIÓN OESTE - RNAV1.pdf"
+					"filename": "LEBL - SID 12 -  RWY 24R CONFIGURACIÓN OESTE - RNAV1.pdf"
 				},
-				"SID 13 -  RWY 24R CONFIGURACIÓN OESTE - RNAV1": {
-					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_SID_13_en.pdf",
-					"filename": "LEBL - SID 13 -  RWY 24R CONFIGURACIÓN OESTE - RNAV1.pdf"
-				},
-				"STAR 1 - RWY 02 (CONVENCIONAL) RWY 02 (RNAV1) (CONFIGURACIÓN NORTE)": {
+				"STAR 1 - RWY 02 CONFIGURACIÓN NORTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_STAR_1_en.pdf",
-					"filename": "LEBL - STAR 1 - RWY 02 (CONVENCIONAL) RWY 02 (RNAV1) (CONFIGURACIÓN NORTE).pdf"
+					"filename": "LEBL - STAR 1 - RWY 02 CONFIGURACIÓN NORTE - RNAV1.pdf"
 				},
-				"STAR 2 - RWY 06L/06R (CONVENCIONAL) RWY 06L/06R (RNAV1)  (CONFIGURACIÓN ESTE)": {
+				"STAR 2 - RWY 06L/06R CONFIGURACIÓN ESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_STAR_2_en.pdf",
-					"filename": "LEBL - STAR 2 - RWY 06L-06R (CONVENCIONAL) RWY 06L-06R (RNAV1)  (CONFIGURACIÓN ESTE).pdf"
+					"filename": "LEBL - STAR 2 - RWY 06L-06R CONFIGURACIÓN ESTE - RNAV1.pdf"
 				},
-				"STAR 3 - RWY 24R/24L (CONVENCIONAL) RWY 24R/24L (RNAV DME/DME) (CONFIGURACIÓN OESTE)": {
+				"STAR 3 - RWY 24L/24R CONFIGURACIÓN OESTE - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_STAR_3_en.pdf",
-					"filename": "LEBL - STAR 3 - RWY 24R-24L (CONVENCIONAL) RWY 24R-24L (RNAV DME-DME) (CONFIGURACIÓN OESTE).pdf"
+					"filename": "LEBL - STAR 3 - RWY 24L-24R CONFIGURACIÓN OESTE - RNAV1.pdf"
 				},
 				"TRAN 1 - RWY 02 RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBL/LE_AD_2_LEBL_TRAN_1_en.pdf",
@@ -932,9 +920,9 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBB/LE_AD_2_LEBB_STAR_2_en.pdf",
 					"filename": "LEBB - STAR 2 - RWY 30.pdf"
 				},
-				"ATCSMAC": {
+				"ATCSMAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBB/LE_AD_2_LEBB_ATCSMAC_1_en.pdf",
-					"filename": "LEBB - ATCSMAC.pdf"
+					"filename": "LEBB - ATCSMAC 1.pdf"
 				},
 				"IAC/1 - ILS Z RWY 12": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBB/LE_AD_2_LEBB_IAC_1_en.pdf",
@@ -1022,9 +1010,25 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_IAC_1_en.pdf",
 					"filename": "LEBG - IAC-1 - VOR RWY 04.pdf"
 				},
-				"IAC/2 - VOR RWY 22": {
+				"IAC/2 - RNP Z RWY 04 (LPV ONLY)": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_IAC_2_en.pdf",
-					"filename": "LEBG - IAC-2 - VOR RWY 22.pdf"
+					"filename": "LEBG - IAC-2 - RNP Z RWY 04 (LPV ONLY).pdf"
+				},
+				"IAC/3 - RNP Y RWY 04": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_IAC_3_en.pdf",
+					"filename": "LEBG - IAC-3 - RNP Y RWY 04.pdf"
+				},
+				"IAC/4 - VOR RWY 22": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_IAC_4_en.pdf",
+					"filename": "LEBG - IAC-4 - VOR RWY 22.pdf"
+				},
+				"IAC /5 - RNP Z RWY 22 (LPV ONLY)": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_IAC_5_en.pdf",
+					"filename": "LEBG - IAC -5 - RNP Z RWY 22 (LPV ONLY).pdf"
+				},
+				"IAC/6 - RNP Y RWY 22": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_IAC_6_en.pdf",
+					"filename": "LEBG - IAC-6 - RNP Y RWY 22.pdf"
 				},
 				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBG/LE_AD_2_LEBG_VAC_1_en.pdf",
@@ -1160,29 +1164,29 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_CARR_1_en.pdf",
 					"filename": "LERT - CARR_1 - RWY 10-28.pdf"
 				},
-				"IAC/1 - ILS/DME Z RWY 10": {
+				"IAC/1 - ILS Z RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_1_en.pdf",
-					"filename": "LERT - IAC-1 - ILS-DME Z RWY 10.pdf"
+					"filename": "LERT - IAC-1 - ILS Z RWY 10.pdf"
 				},
-				"IAC/2 - ILS/DME Y RWY 10": {
+				"IAC/2 - ILS Y RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_2_en.pdf",
-					"filename": "LERT - IAC-2 - ILS-DME Y RWY 10.pdf"
+					"filename": "LERT - IAC-2 - ILS Y RWY 10.pdf"
 				},
-				"IAC/3 - ILS/DME X RWY 10": {
+				"IAC/3 - ILS X RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_3_en.pdf",
-					"filename": "LERT - IAC-3 - ILS-DME X RWY 10.pdf"
+					"filename": "LERT - IAC-3 - ILS X RWY 10.pdf"
 				},
-				"IAC/4 - LOC/DME Z RWY 10": {
+				"IAC/4 - LOC Z RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_4_en.pdf",
-					"filename": "LERT - IAC-4 - LOC-DME Z RWY 10.pdf"
+					"filename": "LERT - IAC-4 - LOC Z RWY 10.pdf"
 				},
-				"IAC/5 - LOC/DME Y RWY 10": {
+				"IAC/5 - LOC Y RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_5_en.pdf",
-					"filename": "LERT - IAC-5 - LOC-DME Y RWY 10.pdf"
+					"filename": "LERT - IAC-5 - LOC Y RWY 10.pdf"
 				},
-				"IAC/6 - LOC/DME X RWY 10": {
+				"IAC/6 - LOC X RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_6_en.pdf",
-					"filename": "LERT - IAC-6 - LOC-DME X RWY 10.pdf"
+					"filename": "LERT - IAC-6 - LOC X RWY 10.pdf"
 				},
 				"IAC/7 - TACAN RWY 10": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERT/LE_AD_2_LERT_IAC_7_en.pdf",
@@ -1221,6 +1225,54 @@
 				"AOC/2 - RWY 21": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_AOC_2_en.pdf",
 					"filename": "LEBA - AOC-2 - RWY 21.pdf"
+				},
+				"SID 1 - RWY 03 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_SID_1_en.pdf",
+					"filename": "LEBA - SID 1 - RWY 03 RNAV1.pdf"
+				},
+				"SID 2 - RWY 21 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_SID_2_en.pdf",
+					"filename": "LEBA - SID 2 - RWY 21 RNAV1.pdf"
+				},
+				"STAR 1 - RWY 03 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_STAR_1_en.pdf",
+					"filename": "LEBA - STAR 1 - RWY 03 RNAV1.pdf"
+				},
+				"STAR 2 - RWY 21 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_STAR_2_en.pdf",
+					"filename": "LEBA - STAR 2 - RWY 21 RNAV1.pdf"
+				},
+				"IAC/1 - VOR RWY 03": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_1_en.pdf",
+					"filename": "LEBA - IAC-1 - VOR RWY 03.pdf"
+				},
+				"IAC/2 - RNP Z RWY 03 (LPV ONLY)": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_2_en.pdf",
+					"filename": "LEBA - IAC-2 - RNP Z RWY 03 (LPV ONLY).pdf"
+				},
+				"IAC/3 - RNP Y RWY 03": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_3_en.pdf",
+					"filename": "LEBA - IAC-3 - RNP Y RWY 03.pdf"
+				},
+				"IAC/4 - RNP X RWY 03": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_4_en.pdf",
+					"filename": "LEBA - IAC-4 - RNP X RWY 03.pdf"
+				},
+				"IAC/5 - RNP Z RWY 21 (LPV ONLY)": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_5_en.pdf",
+					"filename": "LEBA - IAC-5 - RNP Z RWY 21 (LPV ONLY).pdf"
+				},
+				"IAC/6 - VOR A": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_6_en.pdf",
+					"filename": "LEBA - IAC-6 - VOR A.pdf"
+				},
+				"IAC/7 - VOR B": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_7_en.pdf",
+					"filename": "LEBA - IAC-7 - VOR B.pdf"
+				},
+				"IAC/8 - RNP A": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_IAC_8_en.pdf",
+					"filename": "LEBA - IAC-8 - RNP A.pdf"
 				},
 				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEBA/LE_AD_2_LEBA_VAC_1_en.pdf",
@@ -1460,9 +1512,17 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGE/LE_AD_2_LEGE_SID_1_en.pdf",
 					"filename": "LEGE - SID 1 - RWY 01.pdf"
 				},
-				"SID 2 - RWY 19": {
+				"SID 2 - RWY 01 RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGE/LE_AD_2_LEGE_SID_2_en.pdf",
-					"filename": "LEGE - SID 2 - RWY 19.pdf"
+					"filename": "LEGE - SID 2 - RWY 01 RNAV1.pdf"
+				},
+				"SID 3 - RWY 19": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGE/LE_AD_2_LEGE_SID_3_en.pdf",
+					"filename": "LEGE - SID 3 - RWY 19.pdf"
+				},
+				"SID 4 - RWY 19 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGE/LE_AD_2_LEGE_SID_4_en.pdf",
+					"filename": "LEGE - SID 4 - RWY 19 RNAV1.pdf"
 				},
 				"STAR 1 - RWY 01": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGE/LE_AD_2_LEGE_STAR_1_en.pdf",
@@ -1562,9 +1622,9 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLP/LE_AD_2_GCLP_STAR_2_en.pdf",
 					"filename": "GCLP - STAR 2 - RWY 21L - 21R.pdf"
 				},
-				"ATCSMAC": {
+				"ATCSMAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLP/LE_AD_2_GCLP_ATCSMAC_1_en.pdf",
-					"filename": "GCLP - ATCSMAC.pdf"
+					"filename": "GCLP - ATCSMAC 1.pdf"
 				},
 				"IAC/1 - ILS Z RWY 03L": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLP/LE_AD_2_GCLP_IAC_1_en.pdf",
@@ -1810,21 +1870,21 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEIB/LE_AD_2_LEIB_AOC_2_en.pdf",
 					"filename": "LEIB - AOC-2 - RWY 24.pdf"
 				},
-				"SID 1 - RNAV1 RWY 06  ": {
+				"SID 1 - RWY 06 RNAV1 ": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEIB/LE_AD_2_LEIB_SID_1_en.pdf",
-					"filename": "LEIB - SID 1 - RNAV1 RWY 06  .pdf"
+					"filename": "LEIB - SID 1 - RWY 06 RNAV1 .pdf"
 				},
-				"SID 2 - RNAV1 RWY 24": {
+				"SID 2 - RWY 24 RNAV1 ": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEIB/LE_AD_2_LEIB_SID_2_en.pdf",
-					"filename": "LEIB - SID 2 - RNAV1 RWY 24.pdf"
+					"filename": "LEIB - SID 2 - RWY 24 RNAV1 .pdf"
 				},
-				"STAR 1 - RNAV1 RWY 06": {
+				"STAR 1 - RWY 06 RNAV1 ": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEIB/LE_AD_2_LEIB_STAR_1_en.pdf",
-					"filename": "LEIB - STAR 1 - RNAV1 RWY 06.pdf"
+					"filename": "LEIB - STAR 1 - RWY 06 RNAV1 .pdf"
 				},
-				"STAR 2 - RNAV1 RWY 24": {
+				"STAR 2 - RWY 24 RNAV1 ": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEIB/LE_AD_2_LEIB_STAR_2_en.pdf",
-					"filename": "LEIB - STAR 2 - RNAV1 RWY 24.pdf"
+					"filename": "LEIB - STAR 2 - RWY 24 RNAV1 .pdf"
 				},
 				"IAC/1 - ILS Z RWY 06": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEIB/LE_AD_2_LEIB_IAC_1_en.pdf",
@@ -2004,9 +2064,17 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLA/LE_AD_2_GCLA_SID_1_en.pdf",
 					"filename": "GCLA - SID 1 - RWY 18 - RWY 36.pdf"
 				},
+				"SID 2 - RWY 18 / RWY 36 - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLA/LE_AD_2_GCLA_SID_2_en.pdf",
+					"filename": "GCLA - SID 2 - RWY 18 - RWY 36 - RNAV1.pdf"
+				},
 				"STAR 1 - RWY 18 / RWY 36": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLA/LE_AD_2_GCLA_STAR_1_en.pdf",
 					"filename": "GCLA - STAR 1 - RWY 18 - RWY 36.pdf"
+				},
+				"STAR 2 - RWY 18 / RWY 36 - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLA/LE_AD_2_GCLA_STAR_2_en.pdf",
+					"filename": "GCLA - STAR 2 - RWY 18 - RWY 36 - RNAV1.pdf"
 				},
 				"IAC/1 - NDB RWY 36": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCLA/LE_AD_2_GCLA_IAC_1_en.pdf",
@@ -2134,21 +2202,21 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_IAC_10_en.pdf",
 					"filename": "GCRR - IAC-10 - RNP A.pdf"
 				},
-				"IAC/12 - HI-ILS/DME RWY 03": {
+				"IAC/11 - HI-ILS RWY 03": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_IAC_11_en.pdf",
+					"filename": "GCRR - IAC-11 - HI-ILS RWY 03.pdf"
+				},
+				"IAC/12 - HI-LOC RWY 03": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_IAC_12_en.pdf",
-					"filename": "GCRR - IAC-12 - HI-ILS-DME RWY 03.pdf"
+					"filename": "GCRR - IAC-12 - HI-LOC RWY 03.pdf"
 				},
-				"IAC/13 - HI-LOC/DME RWY 03": {
+				"IAC/13 - HI-VOR RWY 03": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_IAC_13_en.pdf",
-					"filename": "GCRR - IAC-13 - HI-LOC-DME RWY 03.pdf"
+					"filename": "GCRR - IAC-13 - HI-VOR RWY 03.pdf"
 				},
-				"IAC/14 - HI-VOR/DME RWY 03": {
+				"IAC/14 - HI-TACAN RWY 03": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_IAC_14_en.pdf",
-					"filename": "GCRR - IAC-14 - HI-VOR-DME RWY 03.pdf"
-				},
-				"IAC/15 - HI-TACAN RWY 03": {
-					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_IAC_15_en.pdf",
-					"filename": "GCRR - IAC-15 - HI-TACAN RWY 03.pdf"
+					"filename": "GCRR - IAC-14 - HI-TACAN RWY 03.pdf"
 				},
 				"VPT 1 - RWY 21": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCRR/LE_AD_2_GCRR_VPT_1_en.pdf",
@@ -2234,9 +2302,17 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEDA/LE_AD_2_LEDA_SID_1_en.pdf",
 					"filename": "LEDA - SID 1 - RWY 13.pdf"
 				},
-				"SID 2 - RWY 31": {
+				"SID 2 - RWY 13 RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEDA/LE_AD_2_LEDA_SID_2_en.pdf",
-					"filename": "LEDA - SID 2 - RWY 31.pdf"
+					"filename": "LEDA - SID 2 - RWY 13 RNAV1.pdf"
+				},
+				"SID 3 - RWY 31": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEDA/LE_AD_2_LEDA_SID_3_en.pdf",
+					"filename": "LEDA - SID 3 - RWY 31.pdf"
+				},
+				"SID 4 - RWY 31 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEDA/LE_AD_2_LEDA_SID_4_en.pdf",
+					"filename": "LEDA - SID 4 - RWY 31 RNAV1.pdf"
 				},
 				"STAR 1 - RWY 13": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEDA/LE_AD_2_LEDA_STAR_1_en.pdf",
@@ -2308,25 +2384,33 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_STAR_1_en.pdf",
 					"filename": "LERJ - STAR 1 - RWY 11 - 29.pdf"
 				},
-				"IAC/1 - ILS Z RWY 29": {
+				"IAC/1 - RNP RWY 11 (LPV ONLY)": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_1_en.pdf",
-					"filename": "LERJ - IAC-1 - ILS Z RWY 29.pdf"
+					"filename": "LERJ - IAC-1 - RNP RWY 11 (LPV ONLY).pdf"
 				},
-				"IAC/2 - ILS Y RWY 29": {
+				"IAC/2 - ILS Z RWY 29": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_2_en.pdf",
-					"filename": "LERJ - IAC-2 - ILS Y RWY 29.pdf"
+					"filename": "LERJ - IAC-2 - ILS Z RWY 29.pdf"
 				},
-				"IAC/3 - LOC RWY 29": {
+				"IAC/3 - ILS Y RWY 29": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_3_en.pdf",
-					"filename": "LERJ - IAC-3 - LOC RWY 29.pdf"
+					"filename": "LERJ - IAC-3 - ILS Y RWY 29.pdf"
 				},
-				"IAC/4 - VOR A": {
+				"IAC/4 - LOC RWY 29": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_4_en.pdf",
-					"filename": "LERJ - IAC-4 - VOR A.pdf"
+					"filename": "LERJ - IAC-4 - LOC RWY 29.pdf"
 				},
-				"IAC/5 - VOR B": {
+				"IAC/5 - VOR A": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_5_en.pdf",
-					"filename": "LERJ - IAC-5 - VOR B.pdf"
+					"filename": "LERJ - IAC-5 - VOR A.pdf"
+				},
+				"IAC/6 - VOR B": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_6_en.pdf",
+					"filename": "LERJ - IAC-6 - VOR B.pdf"
+				},
+				"IAC/7 - RNP A (CAT A, B and C)": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_IAC_7_en.pdf",
+					"filename": "LERJ - IAC-7 - RNP A (CAT A, B and C).pdf"
 				},
 				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERJ/LE_AD_2_LERJ_VAC_1_en.pdf",
@@ -2390,9 +2474,41 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_PATC_4_en.pdf",
 					"filename": "LEMD - PATC 4 - RWY 32R.pdf"
 				},
-				"CONSULTE SUP 149/22 Salidas instrumentales RNAV1.": {
+				"SID 1 - RWY 14L DIURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_1_en.pdf",
+					"filename": "LEMD - SID 1 - RWY 14L DIURNO - RNAV1.pdf"
+				},
+				"SID 2 - RWY 14L NOCTURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_2_en.pdf",
+					"filename": "LEMD - SID 2 - RWY 14L NOCTURNO - RNAV1.pdf"
+				},
+				"SID 3 - RWY 14R DIURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_3_en.pdf",
+					"filename": "LEMD - SID 3 - RWY 14R DIURNO - RNAV1.pdf"
+				},
+				"SID 4 - RWY 14R NOCTURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_4_en.pdf",
+					"filename": "LEMD - SID 4 - RWY 14R NOCTURNO - RNAV1.pdf"
+				},
+				"SID 5 - RWY 36L DIURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_5_en.pdf",
+					"filename": "LEMD - SID 5 - RWY 36L DIURNO - RNAV1.pdf"
+				},
+				"SID 6 - RWY 36L NOCTURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_6_en.pdf",
+					"filename": "LEMD - SID 6 - RWY 36L NOCTURNO - RNAV1.pdf"
+				},
+				"SID 7 - RWY 36R DIURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_7_en.pdf",
+					"filename": "LEMD - SID 7 - RWY 36R DIURNO - RNAV1.pdf"
+				},
+				"SID 8 - RWY 36R NOCTURNO - RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_SID_8_en.pdf",
+					"filename": "LEMD - SID 8 - RWY 36R NOCTURNO - RNAV1.pdf"
+				},
+				"STAR 1 - RWY 18L /18R (CONFIGURACIÓN SUR) RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_STAR_1_en.pdf",
-					"filename": "LEMD - CONSULTE SUP 149-22 Salidas instrumentales RNAV1.pdf"
+					"filename": "LEMD - STAR 1 - RWY 18L -18R (CONFIGURACIÓN SUR) RNAV1.pdf"
 				},
 				"STAR 2 - RWY 18L /18R (CONFIGURACIÓN SUR) RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_STAR_2_en.pdf",
@@ -2422,9 +2538,9 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_IAC_4_en.pdf",
 					"filename": "LEMD - IAC-4 - VOR RWY 18L.pdf"
 				},
-				"IAC/5 - RNP Z RWY 18L (LVP ONLY)": {
+				"IAC/5 - RNP Z RWY 18L (LPV ONLY)": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_IAC_5_en.pdf",
-					"filename": "LEMD - IAC-5 - RNP Z RWY 18L (LVP ONLY).pdf"
+					"filename": "LEMD - IAC-5 - RNP Z RWY 18L (LPV ONLY).pdf"
 				},
 				"IAC/6 - RNP Y RWY 18L": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEMD/LE_AD_2_LEMD_IAC_6_en.pdf",
@@ -2554,21 +2670,25 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_STAR_1_en.pdf",
 					"filename": "LEGT - STAR 1 - RWY 05 - 23.pdf"
 				},
-				"IAC/1 - ILS, LOC RWY 05": {
+				"IAC/1 - ILS RWY 05": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_IAC_1_en.pdf",
-					"filename": "LEGT - IAC-1 - ILS, LOC RWY 05.pdf"
+					"filename": "LEGT - IAC-1 - ILS RWY 05.pdf"
 				},
-				"IAC/2 - VOR, TACAN RWY 05": {
+				"IAC/2 - LOC RWY 05": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_IAC_2_en.pdf",
-					"filename": "LEGT - IAC-2 - VOR, TACAN RWY 05.pdf"
+					"filename": "LEGT - IAC-2 - LOC RWY 05.pdf"
 				},
-				"IAC/3 - NDB RWY 05": {
+				"IAC/3 - VOR o TACAN RWY 05": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_IAC_3_en.pdf",
-					"filename": "LEGT - IAC-3 - NDB RWY 05.pdf"
+					"filename": "LEGT - IAC-3 - VOR o TACAN RWY 05.pdf"
 				},
-				"IAC/4 - HI-TACAN RWY 05": {
+				"IAC/4 - NDB RWY 05": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_IAC_4_en.pdf",
-					"filename": "LEGT - IAC-4 - HI-TACAN RWY 05.pdf"
+					"filename": "LEGT - IAC-4 - NDB RWY 05.pdf"
+				},
+				"IAC/5 - HI-TACAN RWY 05": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_IAC_5_en.pdf",
+					"filename": "LEGT - IAC-5 - HI-TACAN RWY 05.pdf"
 				},
 				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEGT/LE_AD_2_LEGT_VAC_1_en.pdf",
@@ -3454,17 +3574,33 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_SID_1_en.pdf",
 					"filename": "LERS - SID 1 - RWY 07.pdf"
 				},
-				"SID 2 - RWY 25": {
+				"SID 2 - RWY 07 RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_SID_2_en.pdf",
-					"filename": "LERS - SID 2 - RWY 25.pdf"
+					"filename": "LERS - SID 2 - RWY 07 RNAV1.pdf"
+				},
+				"SID 3 - RWY 25": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_SID_3_en.pdf",
+					"filename": "LERS - SID 3 - RWY 25.pdf"
+				},
+				"SID 4 - RWY 25 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_SID_4_en.pdf",
+					"filename": "LERS - SID 4 - RWY 25 RNAV1.pdf"
 				},
 				"STAR 1 - RWY 07": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_STAR_1_en.pdf",
 					"filename": "LERS - STAR 1 - RWY 07.pdf"
 				},
-				"STAR 2 - RWY 25": {
+				"STAR 2 - RWY 07 RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_STAR_2_en.pdf",
-					"filename": "LERS - STAR 2 - RWY 25.pdf"
+					"filename": "LERS - STAR 2 - RWY 07 RNAV1.pdf"
+				},
+				"STAR 3 - RWY 25": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_STAR_3_en.pdf",
+					"filename": "LERS - STAR 3 - RWY 25.pdf"
+				},
+				"STAR 4 - RWY 25 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_STAR_4_en.pdf",
+					"filename": "LERS - STAR 4 - RWY 25 RNAV1.pdf"
 				},
 				"IAC/1 - VOR RWY 07": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LERS/LE_AD_2_LERS_IAC_1_en.pdf",
@@ -3593,10 +3729,6 @@
 				"IAC/9 - HI-TACAN Y o ILS o LOC RWY 21": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LESA/LE_AD_2_LESA_IAC_9_en.pdf",
 					"filename": "LESA - IAC-9 - HI-TACAN Y o ILS o LOC RWY 21.pdf"
-				},
-				"IAC/10 - ILS/DME X RWY 21": {
-					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LESA/LE_AD_2_LESA_IAC_10_en.pdf",
-					"filename": "LESA - IAC-10 - ILS-DME X RWY 21.pdf"
 				},
 				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LESA/LE_AD_2_LESA_VAC_1_en.pdf",
@@ -3966,9 +4098,9 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEZL/LE_AD_2_LEZL_IAC_15_en.pdf",
 					"filename": "LEZL - IAC-15 - NDB RWY 27.pdf"
 				},
-				"VAC": {
+				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEZL/LE_AD_2_LEZL_VAC_1_en.pdf",
-					"filename": "LEZL - VAC.pdf"
+					"filename": "LEZL - VAC 1.pdf"
 				}
 			},
 			"SEVILLA/Morón : LEMO": {
@@ -4074,6 +4206,10 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCXO/LE_AD_2_GCXO_SID_2_en.pdf",
 					"filename": "GCXO - SID 2 - RWY 30.pdf"
 				},
+				"SID 3 - RWY 30 RNAV1": {
+					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCXO/LE_AD_2_GCXO_SID_3_en.pdf",
+					"filename": "GCXO - SID 3 - RWY 30 RNAV1.pdf"
+				},
 				"STAR 1 - RWY 12 / 30": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCXO/LE_AD_2_GCXO_STAR_1_en.pdf",
 					"filename": "GCXO - STAR 1 - RWY 12 - 30.pdf"
@@ -4114,9 +4250,9 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCXO/LE_AD_2_GCXO_IAC_8_en.pdf",
 					"filename": "GCXO - IAC-8 - VOR.pdf"
 				},
-				"VAC": {
+				"VAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCXO/LE_AD_2_GCXO_VAC_1_en.pdf",
-					"filename": "GCXO - VAC.pdf"
+					"filename": "GCXO - VAC 1.pdf"
 				}
 			},
 			"TENERIFE SUR : GCTS": {
@@ -4144,21 +4280,21 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_AOC_2_en.pdf",
 					"filename": "GCTS - AOC-2 - RWY 25.pdf"
 				},
-				"SID 1 - RWY 07": {
+				"SID 1 - RWY 07 - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_SID_1_en.pdf",
-					"filename": "GCTS - SID 1 - RWY 07.pdf"
+					"filename": "GCTS - SID 1 - RWY 07 - RNAV1.pdf"
 				},
-				"SID 2 - RWY 25": {
+				"SID 2 - RWY 25 - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_SID_2_en.pdf",
-					"filename": "GCTS - SID 2 - RWY 25.pdf"
+					"filename": "GCTS - SID 2 - RWY 25 - RNAV1.pdf"
 				},
-				"STAR 1 - RWY 07": {
+				"STAR 1 - RWY 07 - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_STAR_1_en.pdf",
-					"filename": "GCTS - STAR 1 - RWY 07.pdf"
+					"filename": "GCTS - STAR 1 - RWY 07 - RNAV1.pdf"
 				},
-				"STAR 2 - RWY 25": {
+				"STAR 2 - RWY 25 - RNAV1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_STAR_2_en.pdf",
-					"filename": "GCTS - STAR 2 - RWY 25.pdf"
+					"filename": "GCTS - STAR 2 - RWY 25 - RNAV1.pdf"
 				},
 				"ATCSMAC 1": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_ATCSMAC_1_en.pdf",
@@ -4172,21 +4308,21 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_2_en.pdf",
 					"filename": "GCTS - IAC-2 - ILS Y RWY 07.pdf"
 				},
-				"IAC/3 - LOC Z RWY 07": {
+				"IAC/3 - LOC RWY 07": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_3_en.pdf",
-					"filename": "GCTS - IAC-3 - LOC Z RWY 07.pdf"
+					"filename": "GCTS - IAC-3 - LOC RWY 07.pdf"
 				},
-				"IAC/4 - LOC Y RWY 07": {
+				"IAC/4 - VOR RWY 07": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_4_en.pdf",
-					"filename": "GCTS - IAC-4 - LOC Y RWY 07.pdf"
+					"filename": "GCTS - IAC-4 - VOR RWY 07.pdf"
 				},
-				"IAC/5 - VOR RWY 07": {
+				"IAC/5 - RNP Z RWY 07 (LPV ONLY)": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_5_en.pdf",
-					"filename": "GCTS - IAC-5 - VOR RWY 07.pdf"
+					"filename": "GCTS - IAC-5 - RNP Z RWY 07 (LPV ONLY).pdf"
 				},
-				"IAC/6 - NDB RWY 07": {
+				"IAC/6 - RNP Y RWY 07": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_6_en.pdf",
-					"filename": "GCTS - IAC-6 - NDB RWY 07.pdf"
+					"filename": "GCTS - IAC-6 - RNP Y RWY 07.pdf"
 				},
 				"IAC/7 - ILS Z RWY 25": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_7_en.pdf",
@@ -4196,21 +4332,21 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_8_en.pdf",
 					"filename": "GCTS - IAC-8 - ILS Y RWY 25.pdf"
 				},
-				"IAC/9 - LOC Z RWY 25": {
+				"IAC/9 - LOC RWY 25": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_9_en.pdf",
-					"filename": "GCTS - IAC-9 - LOC Z RWY 25.pdf"
+					"filename": "GCTS - IAC-9 - LOC RWY 25.pdf"
 				},
-				"IAC/10 - LOC Y RWY 25": {
+				"IAC/10 - VOR RWY 25": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_10_en.pdf",
-					"filename": "GCTS - IAC-10 - LOC Y RWY 25.pdf"
+					"filename": "GCTS - IAC-10 - VOR RWY 25.pdf"
 				},
-				"IAC/11 - VOR RWY 25": {
+				"IAC/11 - RNP Z RWY 25 (LPV ONLY)": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_11_en.pdf",
-					"filename": "GCTS - IAC-11 - VOR RWY 25.pdf"
+					"filename": "GCTS - IAC-11 - RNP Z RWY 25 (LPV ONLY).pdf"
 				},
-				"IAC/12 - NDB": {
+				"IAC/12 - RNP Y RWY 25": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_IAC_12_en.pdf",
-					"filename": "GCTS - IAC-12 - NDB.pdf"
+					"filename": "GCTS - IAC-12 - RNP Y RWY 25.pdf"
 				},
 				"VAC": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/GCTS/LE_AD_2_GCTS_VAC_1_en.pdf",
@@ -4676,9 +4812,9 @@
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEZG/LE_AD_2_LEZG_IAC_9_en.pdf",
 					"filename": "LEZG - IAC-9 - VOR RWY 30R.pdf"
 				},
-				"IAC/10 -TACAN RWY 30R": {
+				"IAC/10 - TACAN RWY 30R": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEZG/LE_AD_2_LEZG_IAC_10_en.pdf",
-					"filename": "LEZG - IAC-10 -TACAN RWY 30R.pdf"
+					"filename": "LEZG - IAC-10 - TACAN RWY 30R.pdf"
 				},
 				"IAC/11 - HI-TACAN RWY 30R": {
 					"url": "https://aip.enaire.es/AIP/contenido_AIP/AD/AD2/LEZG/LE_AD_2_LEZG_IAC_11_en.pdf",

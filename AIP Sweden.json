@@ -1,15 +1,15 @@
 {
 	"eBagLib": {
-		"0: Generated - 2023-03-05": {
+		"0: Generated - 2023-10-18": {
 		},
 		"AD 2 AERODROMES": {
 			"ARVIDSJAUR : ESNX": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/11500/ES_AD_2_ESNX_en",
+					"url": "https://aro.lfv.se//Editorial/View/13253/ES_AD_2_ESNX_en",
 					"filename": "ESNX - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/11490/ES_AD_2_ESNX_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13252/ES_AD_2_ESNX_2-1_en",
 					"filename": "ESNX - AD Chart.pdf"
 				},
 				"AOC RWY 12/30": {
@@ -67,7 +67,7 @@
 			},
 			"BORLÄNGE : ESSD": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12272/ES_AD_2_ESSD_en",
+					"url": "https://aro.lfv.se//Editorial/View/13170/ES_AD_2_ESSD_en",
 					"filename": "ESSD - Text.pdf"
 				},
 				"AD Chart": {
@@ -161,7 +161,7 @@
 					"filename": "ESSU - RNP RWY 18.pdf"
 				},
 				"RNP RWY 36": {
-					"url": "https://aro.lfv.se//Editorial/View/8875/ES_AD_2_ESSU_5-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/13272/ES_AD_2_ESSU_5-7_en",
 					"filename": "ESSU - RNP RWY 36.pdf"
 				},
 				"VAC": {
@@ -171,7 +171,7 @@
 			},
 			"GÄLLIVARE : ESNG": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12062/ES_AD_2_ESNG_en",
+					"url": "https://aro.lfv.se//Editorial/View/13247/ES_AD_2_ESNG_en",
 					"filename": "ESNG - Text.pdf"
 				},
 				"AD Chart": {
@@ -213,7 +213,7 @@
 			},
 			"GÖTEBORG/Landvetter : ESGG": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12472/ES_AD_2_ESGG_en",
+					"url": "https://aro.lfv.se//Editorial/View/13239/ES_AD_2_ESGG_en",
 					"filename": "ESGG - Text.pdf"
 				},
 				"AD Chart": {
@@ -225,15 +225,15 @@
 					"filename": "ESGG - Parking/docking chart.pdf"
 				},
 				"Aerodrome ground movement chart / Arrival": {
-					"url": "https://aro.lfv.se//Editorial/View/10728/ES_AD_2_ESGG_2-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12925/ES_AD_2_ESGG_2-5_en",
 					"filename": "ESGG - Aerodrome ground movement chart / Arrival.pdf"
 				},
 				"Aerodrome ground movement chart / Departure RWY 03": {
-					"url": "https://aro.lfv.se//Editorial/View/10729/ES_AD_2_ESGG_2-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/12926/ES_AD_2_ESGG_2-7_en",
 					"filename": "ESGG - Aerodrome ground movement chart / Departure RWY 03.pdf"
 				},
 				"Aerodrome ground movement chart / Departure RWY 21": {
-					"url": "https://aro.lfv.se//Editorial/View/10730/ES_AD_2_ESGG_2-8_en",
+					"url": "https://aro.lfv.se//Editorial/View/12927/ES_AD_2_ESGG_2-8_en",
 					"filename": "ESGG - Aerodrome ground movement chart / Departure RWY 21.pdf"
 				},
 				"AOC RWY 03/21": {
@@ -261,11 +261,11 @@
 					"filename": "ESGG - RNAV SIDs GENERAL.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 03": {
-					"url": "https://aro.lfv.se//Editorial/View/9090/ES_AD_2_ESGG_4-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/13237/ES_AD_2_ESGG_4-7_en",
 					"filename": "ESGG - RNAV (DME/DME or GNSS) SID RWY 03.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 21": {
-					"url": "https://aro.lfv.se//Editorial/View/9091/ES_AD_2_ESGG_4-13_en",
+					"url": "https://aro.lfv.se//Editorial/View/13238/ES_AD_2_ESGG_4-13_en",
 					"filename": "ESGG - RNAV (DME/DME or GNSS) SID RWY 21.pdf"
 				},
 				"RNAV STARs General": {
@@ -329,13 +329,13 @@
 					"filename": "ESGG - RNP y RWY 21 (AR).pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/12247/ES_AD_2_ESGG_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13012/ES_AD_2_ESGG_6-1",
 					"filename": "ESGG - VAC.pdf"
 				}
 			},
 			"GÖTEBORG/Säve : ESGP": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12252/ES_AD_2_ESGP_en",
+					"url": "https://aro.lfv.se//Editorial/View/13240/ES_AD_2_ESGP_en",
 					"filename": "ESGP - Text.pdf"
 				},
 				"List of waypoints and significant points": {
@@ -365,11 +365,11 @@
 			},
 			"HAGFORS : ESOH": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/11504/ES_AD_2_ESOH_en",
+					"url": "https://aro.lfv.se//Editorial/View/13257/ES_AD_2_ESOH_en",
 					"filename": "ESOH - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/7936/ES_AD_2_ESOH_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13256/ES_AD_2_ESOH_2-1_en",
 					"filename": "ESOH - AD Chart.pdf"
 				},
 				"AOC RWY 18/36": {
@@ -407,11 +407,11 @@
 			},
 			"HALMSTAD : ESMT": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12477/ES_AD_2_ESMT_en",
+					"url": "https://aro.lfv.se//Editorial/View/12957/ES_AD_2_ESMT_en",
 					"filename": "ESMT - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12475/ES_AD_2_ESMT_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12697/ES_AD_2_ESMT_2-1_en",
 					"filename": "ESMT - AD Chart.pdf"
 				},
 				"AOC RWY 01/19": {
@@ -419,11 +419,11 @@
 					"filename": "ESMT - AOC RWY 01/19.pdf"
 				},
 				"Area Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12382/ES_AD_2_ESMT_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12698/ES_AD_2_ESMT_4-1_en",
 					"filename": "ESMT - Area Chart.pdf"
 				},
 				"List of waypoints and significant points": {
-					"url": "https://aro.lfv.se//Editorial/View/5639/ES_AD_2_ESMT_4-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12699/ES_AD_2_ESMT_4-3_en",
 					"filename": "ESMT - List of waypoints and significant points.pdf"
 				},
 				"RNAV SID/STAR": {
@@ -434,9 +434,9 @@
 					"url": "https://aro.lfv.se//Editorial/View/8626/ES_AD_2_ESMT_4-5_en",
 					"filename": "ESMT - RNAV (GNSS) SID RWY 01.pdf"
 				},
-				"RNAV (GNSS) SID RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/8627/ES_AD_2_ESMT_4-7_en",
-					"filename": "ESMT - RNAV (GNSS) SID RWY 19.pdf"
+				"SID RNAV (GNSS) RWY 19 VAKTA 4L": {
+					"url": "https://aro.lfv.se//Editorial/View/12700/ES_AD_2_ESMT_4-7_en",
+					"filename": "ESMT - SID RNAV (GNSS) RWY 19 VAKTA 4L.pdf"
 				},
 				"RNAV (GNSS) STAR RWY 01": {
 					"url": "https://aro.lfv.se//Editorial/View/8628/ES_AD_2_ESMT_4-9_en",
@@ -447,35 +447,39 @@
 					"filename": "ESMT - RNAV (GNSS) STAR RWY 19.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/9978/ES_AD_2_ESMT_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12701/ES_AD_2_ESMT_4-91_en",
 					"filename": "ESMT - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
-				"ILS or LOC RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/8631/ES_AD_2_ESMT_5-1_en",
-					"filename": "ESMT - ILS or LOC RWY 19.pdf"
+				"ILS z or LOC z RWY 19": {
+					"url": "https://aro.lfv.se//Editorial/View/12702/ES_AD_2_ESMT_5-1_en",
+					"filename": "ESMT - ILS z or LOC z RWY 19.pdf"
+				},
+				"ILS y or LOC y RWY 19": {
+					"url": "https://aro.lfv.se//Editorial/View/12703/ES_AD_2_ESMT_5-2_en",
+					"filename": "ESMT - ILS y or LOC y RWY 19.pdf"
 				},
 				"NDB RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/8632/ES_AD_2_ESMT_5-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/12704/ES_AD_2_ESMT_5-3_en",
 					"filename": "ESMT - NDB RWY 19.pdf"
 				},
 				"NDB z RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/8633/ES_AD_2_ESMT_5-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12705/ES_AD_2_ESMT_5-4_en",
 					"filename": "ESMT - NDB z RWY 01.pdf"
 				},
 				"NDB y RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/8634/ES_AD_2_ESMT_5-4_en",
+					"url": "https://aro.lfv.se//Editorial/View/12706/ES_AD_2_ESMT_5-5_en",
 					"filename": "ESMT - NDB y RWY 01.pdf"
 				},
 				"RNP RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/8635/ES_AD_2_ESMT_5-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12765/ES_AD_2_ESMT_5-7_en",
 					"filename": "ESMT - RNP RWY 01.pdf"
 				},
 				"RNP RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/8636/ES_AD_2_ESMT_5-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/12766/ES_AD_2_ESMT_5-11_en",
 					"filename": "ESMT - RNP RWY 19.pdf"
 				},
 				"VAC ": {
-					"url": "https://aro.lfv.se//Editorial/View/9979/ES_AD_2_ESMT_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13246/ES_AD_2_ESMT_6-1_en",
 					"filename": "ESMT - VAC .pdf"
 				}
 			},
@@ -489,7 +493,7 @@
 					"filename": "ESUT - AD Chart.pdf"
 				},
 				"AOC RWY 15/33": {
-					"url": "https://aro.lfv.se//Editorial/View/12499/ES_AD_2_ESUT_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12751/ES_AD_2_ESUT_3-1_en",
 					"filename": "ESUT - AOC RWY 15/33.pdf"
 				},
 				"List of waypoints and significant points": {
@@ -523,7 +527,7 @@
 					"filename": "ESGJ - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/9946/ES_AD_2_ESGJ_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12929/ES_AD_2_ESGJ_2-1_en",
 					"filename": "ESGJ - AD Chart.pdf"
 				},
 				"AOC RWY 01/19": {
@@ -597,7 +601,7 @@
 			},
 			"KALMAR : ESMQ": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/11474/ES_AD_2_ESMQ_en",
+					"url": "https://aro.lfv.se//Editorial/View/12935/ES_AD_2_ESMQ_en",
 					"filename": "ESMQ - Text.pdf"
 				},
 				"AD Chart": {
@@ -661,31 +665,31 @@
 					"filename": "ESMQ - RNP RWY 34.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/12258/ES_AD_2_ESMQ_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12934/ES_AD_2_ESMQ_6-1_en",
 					"filename": "ESMQ - VAC.pdf"
 				}
 			},
 			"KARLSBORG : ESIA": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/11470/ES_AD_2_ESIA_en",
+					"url": "https://aro.lfv.se//Editorial/View/13242/ES_AD_2_ESIA_en",
 					"filename": "ESIA - Text.pdf"
 				},
 				"Area Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/11675/ES_AD_2_ESIA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13145/ES_AD_2_ESIA_4-1_en",
 					"filename": "ESIA - Area Chart.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/11676/ES_AD_2_ESIA_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13146/ES_AD_2_ESIA_4-91_en",
 					"filename": "ESIA - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/11677/ES_AD_2_ESIA_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13241/ES_AD_2_ESIA_6-1_en",
 					"filename": "ESIA - VAC.pdf"
 				}
 			},
 			"KARLSTAD : ESOK": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12491/ES_AD_2_ESOK_en",
+					"url": "https://aro.lfv.se//Editorial/View/12968/ES_AD_2_ESOK_en",
 					"filename": "ESOK - Text.pdf"
 				},
 				"AD Chart": {
@@ -701,16 +705,16 @@
 					"filename": "ESOK - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
-					"url": "https://aro.lfv.se//Editorial/View/8311/ES_AD_2_ESOK_4-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12967/ES_AD_2_ESOK_4-3_en",
 					"filename": "ESOK - List of waypoints and significant points.pdf"
 				},
-				"SID/STAR RWY 03": {
-					"url": "https://aro.lfv.se//Editorial/View/7780/ES_AD_2_ESOK_4-5_en",
-					"filename": "ESOK - SID/STAR RWY 03.pdf"
+				"SID RNP RWY 03 TESDI 1G, SIPSI 1G": {
+					"url": "https://aro.lfv.se//Editorial/View/13019/ES_AD_2_ESOK_4-5_en",
+					"filename": "ESOK - SID RNP RWY 03 TESDI 1G, SIPSI 1G.pdf"
 				},
-				"SID/STAR RWY 21": {
-					"url": "https://aro.lfv.se//Editorial/View/7781/ES_AD_2_ESOK_4-7_en",
-					"filename": "ESOK - SID/STAR RWY 21.pdf"
+				"SID RNP RWY 21 TESDI 1H, SIPSI 1H": {
+					"url": "https://aro.lfv.se//Editorial/View/13020/ES_AD_2_ESOK_4-7_en",
+					"filename": "ESOK - SID RNP RWY 21 TESDI 1H, SIPSI 1H.pdf"
 				},
 				"RNAV (GNSS) STAR RWY 03": {
 					"url": "https://aro.lfv.se//Editorial/View/8355/ES_AD_2_ESOK_4-9_en",
@@ -719,6 +723,14 @@
 				"RNAV (GNSS) STAR RWY 21": {
 					"url": "https://aro.lfv.se//Editorial/View/8356/ES_AD_2_ESOK_4-11_en",
 					"filename": "ESOK - RNAV (GNSS) STAR RWY 21.pdf"
+				},
+				"SID/STAR RWY 03": {
+					"url": "https://aro.lfv.se//Editorial/View/13021/ES_AD_2_ESOK_4-13_en",
+					"filename": "ESOK - SID/STAR RWY 03.pdf"
+				},
+				"SID/STAR RWY 21": {
+					"url": "https://aro.lfv.se//Editorial/View/13022/ES_AD_2_ESOK_4-15_en",
+					"filename": "ESOK - SID/STAR RWY 21.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
 					"url": "https://aro.lfv.se//Editorial/View/8438/ES_AD_2_ESOK_4-91_en",
@@ -755,7 +767,7 @@
 			},
 			"KIRUNA : ESNQ": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12485/ES_AD_2_ESNQ_en",
+					"url": "https://aro.lfv.se//Editorial/View/12961/ES_AD_2_ESNQ_en",
 					"filename": "ESNQ - Text.pdf"
 				},
 				"AD Chart": {
@@ -841,7 +853,7 @@
 			},
 			"KRAMFORS-SOLLEFTEÅ : ESNK": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/8642/ES_AD_2_ESNK_en",
+					"url": "https://aro.lfv.se//Editorial/View/12959/ES_AD_2_ESNK_en",
 					"filename": "ESNK - Text.pdf"
 				},
 				"AD Chart": {
@@ -849,7 +861,7 @@
 					"filename": "ESNK - AD Chart.pdf"
 				},
 				"AOC RWY 17/35": {
-					"url": "https://aro.lfv.se//Editorial/View/8641/ES_AD_2_ESNK_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13149/ES_AD_2_ESNK_3-1_en",
 					"filename": "ESNK - AOC RWY 17/35.pdf"
 				},
 				"List of waypoints and significant points": {
@@ -887,11 +899,11 @@
 			},
 			"KRISTIANSTAD : ESMK": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12257/ES_AD_2_ESMK_en",
+					"url": "https://aro.lfv.se//Editorial/View/12693/ES_AD_2_ESMK_en",
 					"filename": "ESMK - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12255/ES_AD_2_ESMK_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12689/ES_AD_2_ESMK_2-1_en",
 					"filename": "ESMK - AD Chart.pdf"
 				},
 				"AOC RWY 01/19": {
@@ -899,7 +911,7 @@
 					"filename": "ESMK - AOC RWY 01/19.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12057/ES_AD_2_ESMK_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12932/ES_AD_2_ESMK_4-1_en",
 					"filename": "ESMK - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -907,7 +919,7 @@
 					"filename": "ESMK - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12256/ES_AD_2_ESMK_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12933/ES_AD_2_ESMK_4-91_en",
 					"filename": "ESMK - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 19": {
@@ -931,29 +943,29 @@
 					"filename": "ESMK - RNP RWY 19.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/10739/ES_AD_2_ESMK_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12692/ES_AD_2_ESMK_6-1_en",
 					"filename": "ESMK - VAC.pdf"
 				}
 			},
 			"LINKÖPING/Malmen : ESCF": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12244/ES_AD_2_ESCF_en",
+					"url": "https://aro.lfv.se//Editorial/View/13235/ES_AD_2_ESCF_en",
 					"filename": "ESCF - Text.pdf"
 				},
 				"AD Chart ": {
-					"url": "https://aro.lfv.se//Editorial/View/7278/ES_AD_2_ESCF_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13224/ES_AD_2_ESCF_2-1_en",
 					"filename": "ESCF - AD Chart .pdf"
 				},
 				"AOC RWY 01/19": {
-					"url": "https://aro.lfv.se//Editorial/View/7279/ES_AD_2_ESCF_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13225/ES_AD_2_ESCF_3-1_en",
 					"filename": "ESCF - AOC RWY 01/19.pdf"
 				},
 				"AOC RWY 08/26": {
-					"url": "https://aro.lfv.se//Editorial/View/7280/ES_AD_2_ESCF_3-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/13226/ES_AD_2_ESCF_3-3_en",
 					"filename": "ESCF - AOC RWY 08/26.pdf"
 				},
 				"Area Chart (ÖSTGÖTA TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12091/ES_AD_2_ESSP_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13270/ES_AD_2_ESSP_4-1_en",
 					"filename": "ESCF - Area Chart (ÖSTGÖTA TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -961,49 +973,45 @@
 					"filename": "ESCF - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA": {
-					"url": "https://aro.lfv.se//Editorial/View/12092/ES_AD_2_ESSP_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13174/ES_AD_2_ESSP_4-91_en",
 					"filename": "ESCF - ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA.pdf"
 				},
-				"ILS or LOC RWY 19 ": {
-					"url": "https://aro.lfv.se//Editorial/View/9054/ES_AD_2_ESCF_5-1_en",
-					"filename": "ESCF - ILS or LOC RWY 19 .pdf"
+				"ILS z or LOC z RWY 01 ": {
+					"url": "https://aro.lfv.se//Editorial/View/13294/ES_AD_2_ESCF_5-1_en",
+					"filename": "ESCF - ILS z or LOC z RWY 01 .pdf"
 				},
-				"NDB RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/9055/ES_AD_2_ESCF_5-2_en",
-					"filename": "ESCF - NDB RWY 19.pdf"
-				},
-				"ILS or LOC RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/9056/ES_AD_2_ESCF_5-3_en",
-					"filename": "ESCF - ILS or LOC RWY 01.pdf"
+				"ILS y or LOC y RWY 01": {
+					"url": "https://aro.lfv.se//Editorial/View/13228/ES_AD_2_ESCF_5-2_en",
+					"filename": "ESCF - ILS y or LOC y RWY 01.pdf"
 				},
 				"NDB z RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/9057/ES_AD_2_ESCF_5-4_en",
+					"url": "https://aro.lfv.se//Editorial/View/13229/ES_AD_2_ESCF_5-3_en",
 					"filename": "ESCF - NDB z RWY 01.pdf"
 				},
 				"NDB y RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/9058/ES_AD_2_ESCF_5-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/13230/ES_AD_2_ESCF_5-4_en",
 					"filename": "ESCF - NDB y RWY 01.pdf"
 				},
-				"NDB x RWY 01 (Cat H)": {
-					"url": "https://aro.lfv.se//Editorial/View/9059/ES_AD_2_ESCF_5-6_en",
-					"filename": "ESCF - NDB x RWY 01 (Cat H).pdf"
+				"ILS or LOC RWY 19": {
+					"url": "https://aro.lfv.se//Editorial/View/13231/ES_AD_2_ESCF_5-5_en",
+					"filename": "ESCF - ILS or LOC RWY 19.pdf"
 				},
-				"RNP RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/9060/ES_AD_2_ESCF_5-7_en",
-					"filename": "ESCF - RNP RWY 19.pdf"
+				"RNP RWY 01 (LNAV/VNAV, LNAV only)": {
+					"url": "https://aro.lfv.se//Editorial/View/13232/ES_AD_2_ESCF_5-7_en",
+					"filename": "ESCF - RNP RWY 01 (LNAV/VNAV, LNAV only).pdf"
 				},
-				"RNP RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/9061/ES_AD_2_ESCF_5-9_en",
-					"filename": "ESCF - RNP RWY 01.pdf"
+				"RNP RWY 19 (LNAV/VNAV, LNAV only)": {
+					"url": "https://aro.lfv.se//Editorial/View/13233/ES_AD_2_ESCF_5-9_en",
+					"filename": "ESCF - RNP RWY 19 (LNAV/VNAV, LNAV only).pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/12243/ES_AD_2_ESCF_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13234/ES_AD_2_ESCF_6-1_en",
 					"filename": "ESCF - VAC.pdf"
 				}
 			},
 			"LINKÖPING/SAAB : ESSL": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12090/ES_AD_2_ESSL_en",
+					"url": "https://aro.lfv.se//Editorial/View/13172/ES_AD_2_ESSL_en",
 					"filename": "ESSL - Text.pdf"
 				},
 				"AD Chart": {
@@ -1015,7 +1023,7 @@
 					"filename": "ESSL - AOC RWY 11/29.pdf"
 				},
 				"Area Chart (ÖSTGÖTA TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12091/ES_AD_2_ESSP_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13270/ES_AD_2_ESSP_4-1_en",
 					"filename": "ESSL - Area Chart (ÖSTGÖTA TMA).pdf"
 				},
 				"List of Waypoints and significant points": {
@@ -1023,7 +1031,7 @@
 					"filename": "ESSL - List of Waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA": {
-					"url": "https://aro.lfv.se//Editorial/View/12092/ES_AD_2_ESSP_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13174/ES_AD_2_ESSP_4-91_en",
 					"filename": "ESSL - ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA.pdf"
 				},
 				"ILS or LOC RWY 29": {
@@ -1043,13 +1051,13 @@
 					"filename": "ESSL - RNP RWY 29 (LNAV, LNAV/VNAV only).pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/12089/ES_AD_2_ESSL_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13171/ES_AD_2_ESSL_6-1_en",
 					"filename": "ESSL - VAC.pdf"
 				}
 			},
 			"LJUNGBYHED : ESTL": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12276/ES_AD_2_ESTL_en",
+					"url": "https://aro.lfv.se//Editorial/View/12748/ES_AD_2_ESTL_en",
 					"filename": "ESTL - Text.pdf"
 				},
 				"AD Chart": {
@@ -1061,7 +1069,7 @@
 					"filename": "ESTL - AOC RWY 11R/29L.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12094/ES_AD_2_ESTL_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12987/ES_AD_2_ESTL_4-1_en",
 					"filename": "ESTL - Area Chart (TMA).pdf"
 				},
 				"List of Waypoints and significant points": {
@@ -1069,23 +1077,23 @@
 					"filename": "ESTL - List of Waypoints and significant points.pdf"
 				},
 				"SID RWY 11R": {
-					"url": "https://aro.lfv.se//Editorial/View/10985/ES_AD_2_ESTL_4-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12988/ES_AD_2_ESTL_4-5_en",
 					"filename": "ESTL - SID RWY 11R.pdf"
 				},
 				"SID RWY 29L": {
-					"url": "https://aro.lfv.se//Editorial/View/10986/ES_AD_2_ESTL_4-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/12989/ES_AD_2_ESTL_4-7_en",
 					"filename": "ESTL - SID RWY 29L.pdf"
 				},
 				"STAR RWY 11R": {
-					"url": "https://aro.lfv.se//Editorial/View/10987/ES_AD_2_ESTL_4-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/12990/ES_AD_2_ESTL_4-9_en",
 					"filename": "ESTL - STAR RWY 11R.pdf"
 				},
 				"STAR RWY 29L": {
-					"url": "https://aro.lfv.se//Editorial/View/10988/ES_AD_2_ESTL_4-11_en",
+					"url": "https://aro.lfv.se//Editorial/View/12991/ES_AD_2_ESTL_4-11_en",
 					"filename": "ESTL - STAR RWY 29L.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10812/ES_AD_2_ESTL_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12992/ES_AD_2_ESTL_4-91_en",
 					"filename": "ESTL - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 29L": {
@@ -1115,7 +1123,7 @@
 			},
 			"LULEÅ/Kallax : ESPA": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12390/ES_AD_2_ESPA_en",
+					"url": "https://aro.lfv.se//Editorial/View/13258/ES_AD_2_ESPA_en",
 					"filename": "ESPA - Text.pdf"
 				},
 				"AD chart": {
@@ -1139,7 +1147,7 @@
 					"filename": "ESPA - PATC RWY 32.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12078/ES_AD_2_ESPA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12969/ES_AD_2_ESPA_4-1_en",
 					"filename": "ESPA - Area Chart (TMA).pdf"
 				},
 				"List of Waypoints and significant points": {
@@ -1171,7 +1179,7 @@
 					"filename": "ESPA - SID/STAR RWY 32.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12079/ES_AD_2_ESPA_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12730/ES_AD_2_ESPA_4-91_en",
 					"filename": "ESPA - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS z or LOC z RWY 14": {
@@ -1211,13 +1219,13 @@
 					"filename": "ESPA - RNP RWY 32 (LNAV, LNAV/VNAV only).pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/11523/ES_AD_2_ESPA_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12731/ES_AD_2_ESPA_6-1_en",
 					"filename": "ESPA - VAC.pdf"
 				}
 			},
 			"LYCKSELE : ESNL": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/11484/ES_AD_2_ESNL_en",
+					"url": "https://aro.lfv.se//Editorial/View/13150/ES_AD_2_ESNL_en",
 					"filename": "ESNL - Text.pdf"
 				},
 				"AD chart": {
@@ -1261,7 +1269,7 @@
 					"filename": "ESNL - NDB RWY 32.pdf"
 				},
 				"RNP RWY 14": {
-					"url": "https://aro.lfv.se//Editorial/View/11481/ES_AD_2_ESNL_5-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/13248/ES_AD_2_ESNL_5-7_en",
 					"filename": "ESNL - RNP RWY 14.pdf"
 				},
 				"RNP RWY 32": {
@@ -1275,20 +1283,20 @@
 			},
 			"MALMÖ : ESMS": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12474/ES_AD_2_ESMS_en",
+					"url": "https://aro.lfv.se//Editorial/View/13245/ES_AD_2_ESMS_en",
 					"filename": "ESMS - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12058/ES_AD_2_ESMS_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13243/ES_AD_2_ESMS_2-1_en",
 					"filename": "ESMS - AD Chart.pdf"
 				},
 				"Parking/docking chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12473/ES_AD_2_ESMS_2-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12937/ES_AD_2_ESMS_2-3_en",
 					"filename": "ESMS - Parking/docking chart.pdf"
 				},
-				"AOC RWY 17/35 ": {
-					"url": "https://aro.lfv.se//Editorial/View/8458/ES_AD_2_ESMS_3-1_en",
-					"filename": "ESMS - AOC RWY 17/35 .pdf"
+				"AOC RWY 17/35": {
+					"url": "https://aro.lfv.se//Editorial/View/13138/ES_AD_2_ESMS_3-1_en_pdf",
+					"filename": "ESMS - AOC RWY 17/35.pdf"
 				},
 				"PATC RWY 17": {
 					"url": "https://aro.lfv.se//Editorial/View/3002/ES_AD_2_ESMS_3-3_en",
@@ -1299,11 +1307,11 @@
 					"filename": "ESMS - PATC RWY 35.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12060/ES_AD_2_ESMS_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12939/ES_AD_2_ESMS_4-1_en",
 					"filename": "ESMS - Area Chart (TMA).pdf"
 				},
 				"Area Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10958/ES_AD_2_ESMS_4-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/12940/ES_AD_2_ESMS_4-2_en",
 					"filename": "ESMS - Area Chart.pdf"
 				},
 				"List of waypoints and significant points": {
@@ -1311,69 +1319,65 @@
 					"filename": "ESMS - List of waypoints and significant points.pdf"
 				},
 				"RNAV (GNSS) SID RWY 17": {
-					"url": "https://aro.lfv.se//Editorial/View/10959/ES_AD_2_ESMS_4-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12941/ES_AD_2_ESMS_4-5_en",
 					"filename": "ESMS - RNAV (GNSS) SID RWY 17.pdf"
 				},
 				"RNAV (GNSS) SID RWY 35": {
-					"url": "https://aro.lfv.se//Editorial/View/10960/ES_AD_2_ESMS_4-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/12942/ES_AD_2_ESMS_4-9_en",
 					"filename": "ESMS - RNAV (GNSS) SID RWY 35.pdf"
 				},
 				"RNAV (GNSS) STAR RWY 17": {
-					"url": "https://aro.lfv.se//Editorial/View/10961/ES_AD_2_ESMS_4-13_en",
+					"url": "https://aro.lfv.se//Editorial/View/13147/ES_AD_2_ESMS_4-13_en",
 					"filename": "ESMS - RNAV (GNSS) STAR RWY 17.pdf"
 				},
 				"RNAV (GNSS) STAR RWY 35": {
-					"url": "https://aro.lfv.se//Editorial/View/10962/ES_AD_2_ESMS_4-17_en",
+					"url": "https://aro.lfv.se//Editorial/View/12944/ES_AD_2_ESMS_4-17_en",
 					"filename": "ESMS - RNAV (GNSS) STAR RWY 35.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10963/ES_AD_2_ESMS_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12945/ES_AD_2_ESMS_4-91_en",
 					"filename": "ESMS - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 17": {
-					"url": "https://aro.lfv.se//Editorial/View/7754/ES_AD_2_ESMS_5-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12946/ES_AD_2_ESMS_5-1_en",
 					"filename": "ESMS - ILS or LOC RWY 17.pdf"
 				},
 				"VOR RWY 17": {
-					"url": "https://aro.lfv.se//Editorial/View/7755/ES_AD_2_ESMS_5-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/12947/ES_AD_2_ESMS_5-2_en",
 					"filename": "ESMS - VOR RWY 17.pdf"
 				},
 				"ILS or LOC RWY 35": {
-					"url": "https://aro.lfv.se//Editorial/View/7756/ES_AD_2_ESMS_5-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/13244/ES_AD_2_ESMS_5-3_en",
 					"filename": "ESMS - ILS or LOC RWY 35.pdf"
 				},
-				"ILS OTS Cat II RWY 35": {
-					"url": "https://aro.lfv.se//Editorial/View/7757/ES_AD_2_ESMS_5-4_en",
-					"filename": "ESMS - ILS OTS Cat II RWY 35.pdf"
-				},
 				"VOR RWY 35": {
-					"url": "https://aro.lfv.se//Editorial/View/7758/ES_AD_2_ESMS_5-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12950/ES_AD_2_ESMS_5-5_en",
 					"filename": "ESMS - VOR RWY 35.pdf"
 				},
 				"RNP z RWY 17": {
-					"url": "https://aro.lfv.se//Editorial/View/7759/ES_AD_2_ESMS_5-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/12951/ES_AD_2_ESMS_5-7_en",
 					"filename": "ESMS - RNP z RWY 17.pdf"
 				},
 				"RNP y RWY 17 (AR)": {
-					"url": "https://aro.lfv.se//Editorial/View/7760/ES_AD_2_ESMS_5-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/12952/ES_AD_2_ESMS_5-9_en",
 					"filename": "ESMS - RNP y RWY 17 (AR).pdf"
 				},
 				"RNP z RWY 35": {
-					"url": "https://aro.lfv.se//Editorial/View/7761/ES_AD_2_ESMS_5-11_en",
+					"url": "https://aro.lfv.se//Editorial/View/12953/ES_AD_2_ESMS_5-11_en",
 					"filename": "ESMS - RNP z RWY 35.pdf"
 				},
 				"RNP y RWY 35 (AR)": {
-					"url": "https://aro.lfv.se//Editorial/View/7762/ES_AD_2_ESMS_5-13_en",
+					"url": "https://aro.lfv.se//Editorial/View/12954/ES_AD_2_ESMS_5-13_en",
 					"filename": "ESMS - RNP y RWY 35 (AR).pdf"
 				},
 				"VAC ": {
-					"url": "https://aro.lfv.se//Editorial/View/11679/ES_AD_2_ESMS_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12955/ES_AD_2_ESMS_6-1_en",
 					"filename": "ESMS - VAC .pdf"
 				}
 			},
 			"MORA/Siljan : ESKM": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12378/ES_AD_2_ESKM_en",
+					"url": "https://aro.lfv.se//Editorial/View/12931/ES_AD_2_ESKM_en",
 					"filename": "ESKM - Text.pdf"
 				},
 				"AD Chart": {
@@ -1381,7 +1385,7 @@
 					"filename": "ESKM - AD Chart.pdf"
 				},
 				"AOC RWY 16/34": {
-					"url": "https://aro.lfv.se//Editorial/View/7076/ES_AD_2_ESKM_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12930/ES_AD_2_ESKM_3-1_en",
 					"filename": "ESKM - AOC RWY 16/34.pdf"
 				},
 				"List of waypoints and significant points": {
@@ -1419,7 +1423,7 @@
 			},
 			"NORRKÖPING/Kungsängen : ESSP": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12273/ES_AD_2_ESSP_en",
+					"url": "https://aro.lfv.se//Editorial/View/12744/ES_AD_2_ESSP_en",
 					"filename": "ESSP - Text.pdf"
 				},
 				"AD Chart ": {
@@ -1435,35 +1439,39 @@
 					"filename": "ESSP - AOC RWY 27 .pdf"
 				},
 				"Area Chart (ÖSTGÖTA TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12091/ES_AD_2_ESSP_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13270/ES_AD_2_ESSP_4-1_en",
 					"filename": "ESSP - Area Chart (ÖSTGÖTA TMA).pdf"
 				},
 				"List of waypoints and significant points": {
-					"url": "https://aro.lfv.se//Editorial/View/4083/ES_AD_2_ESSP_4-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12737/ES_AD_2_ESSP_4-3_en",
 					"filename": "ESSP - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA": {
-					"url": "https://aro.lfv.se//Editorial/View/12092/ES_AD_2_ESSP_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13174/ES_AD_2_ESSP_4-91_en",
 					"filename": "ESSP - ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA.pdf"
 				},
-				"ILS or LOC RWY 27": {
-					"url": "https://aro.lfv.se//Editorial/View/9277/ES_AD_2_ESSP_5-1_en",
-					"filename": "ESSP - ILS or LOC RWY 27.pdf"
+				"ILS z or LOC z RWY 27": {
+					"url": "https://aro.lfv.se//Editorial/View/12738/ES_AD_2_ESSP_5-1_en",
+					"filename": "ESSP - ILS z or LOC z RWY 27.pdf"
+				},
+				"ILS y or LOC y RWY 27": {
+					"url": "https://aro.lfv.se//Editorial/View/12739/ES_AD_2_ESSP_5-2_en",
+					"filename": "ESSP - ILS y or LOC y RWY 27.pdf"
 				},
 				"NDB RWY 27": {
-					"url": "https://aro.lfv.se//Editorial/View/9278/ES_AD_2_ESSP_5-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/12740/ES_AD_2_ESSP_5-3_en",
 					"filename": "ESSP - NDB RWY 27.pdf"
 				},
 				"ILS or LOC RWY 09": {
-					"url": "https://aro.lfv.se//Editorial/View/9279/ES_AD_2_ESSP_5-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12741/ES_AD_2_ESSP_5-4_en",
 					"filename": "ESSP - ILS or LOC RWY 09.pdf"
 				},
 				"RNP RWY 27": {
-					"url": "https://aro.lfv.se//Editorial/View/9280/ES_AD_2_ESSP_5-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12742/ES_AD_2_ESSP_5-5_en",
 					"filename": "ESSP - RNP RWY 27.pdf"
 				},
 				"RNP RWY 09": {
-					"url": "https://aro.lfv.se//Editorial/View/9342/ES_AD_2_ESSP_5-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/12743/ES_AD_2_ESSP_5-9_en",
 					"filename": "ESSP - RNP RWY 09.pdf"
 				},
 				"VAC": {
@@ -1473,11 +1481,11 @@
 			},
 			"PAJALA : ESUP": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/10818/ES_AD_2_ESUP_en",
+					"url": "https://aro.lfv.se//Editorial/View/12750/ES_AD_2_ESUP_en",
 					"filename": "ESUP - Text.pdf"
 				},
 				"AD Chart  ": {
-					"url": "https://aro.lfv.se//Editorial/View/5527/ES_AD_2_ESUP_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12749/ES_AD_2_ESUP_2-1_en",
 					"filename": "ESUP - AD Chart  .pdf"
 				},
 				"AOC RWY 11/29": {
@@ -1509,13 +1517,13 @@
 					"filename": "ESUP - RNP RWY 29.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/8166/ES_AD_2_ESUP_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12993/ES_AD_2_ESUP_6-1_en",
 					"filename": "ESUP - VAC.pdf"
 				}
 			},
 			"RONNEBY : ESDF": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12469/ES_AD_2_ESDF_en",
+					"url": "https://aro.lfv.se//Editorial/View/13236/ES_AD_2_ESDF_en",
 					"filename": "ESDF - Text.pdf"
 				},
 				"AD Chart": {
@@ -1527,7 +1535,7 @@
 					"filename": "ESDF - AOC RWY 01/19.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/10940/ES_AD_2_ESDF_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12917/ES_AD_2_ESDF_4-1_en",
 					"filename": "ESDF - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -1535,7 +1543,7 @@
 					"filename": "ESDF - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/11666/ES_AD_2_ESDF_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12918/ES_AD_2_ESDF_4-91_en",
 					"filename": "ESDF - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 19": {
@@ -1543,19 +1551,19 @@
 					"filename": "ESDF - ILS or LOC RWY 19.pdf"
 				},
 				"PAR RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/10943/ES_AD_2_ESDF_5-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/12919/ES_AD_2_ESDF_5-2_en",
 					"filename": "ESDF - PAR RWY 19.pdf"
 				},
 				"ILS or LOC RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/10944/ES_AD_2_ESDF_5-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12920/ES_AD_2_ESDF_5-3_en",
 					"filename": "ESDF - ILS or LOC RWY 01.pdf"
 				},
 				"PAR RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/11004/ES_AD_2_ESDF_5-4_en",
+					"url": "https://aro.lfv.se//Editorial/View/12921/ES_AD_2_ESDF_5-4_en",
 					"filename": "ESDF - PAR RWY 01.pdf"
 				},
 				"RNP RWY 01 (LNAV/VNAV, LNAV only)": {
-					"url": "https://aro.lfv.se//Editorial/View/10945/ES_AD_2_ESDF_5-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12922/ES_AD_2_ESDF_5-5_en",
 					"filename": "ESDF - RNP RWY 01 (LNAV/VNAV, LNAV only).pdf"
 				},
 				"RNP RWY 19 (LNAV/VNAV, LNAV only)": {
@@ -1563,7 +1571,7 @@
 					"filename": "ESDF - RNP RWY 19 (LNAV/VNAV, LNAV only).pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/10947/ES_AD_2_ESDF_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12923/ES_AD_2_ESDF_6-1_en",
 					"filename": "ESDF - VAC.pdf"
 				}
 			},
@@ -1581,7 +1589,7 @@
 					"filename": "ESNS - AOC RWY 10/28.pdf"
 				},
 				"AREA CHART": {
-					"url": "https://aro.lfv.se//Editorial/View/12068/ES_AD_2_ESNS_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12722/ES_AD_2_ESNS_4-1_en",
 					"filename": "ESNS - AREA CHART.pdf"
 				},
 				"List of Waypoints and significant points": {
@@ -1619,31 +1627,31 @@
 			},
 			"STOCKHOLM/Arlanda : ESSA": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12494/ES_AD_2_ESSA_en",
+					"url": "https://aro.lfv.se//Editorial/View/13263/ES_AD_2_ESSA_en",
 					"filename": "ESSA - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12391/ES_AD_2_ESSA_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12970/ES_AD_2_ESSA_2-1_en",
 					"filename": "ESSA - AD Chart.pdf"
 				},
 				"Aerodrome chart/markings": {
-					"url": "https://aro.lfv.se//Editorial/View/4705/ES_AD_2_ESSA_2-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/13259/ES_AD_2_ESSA_2-3_en",
 					"filename": "ESSA - Aerodrome chart/markings.pdf"
 				},
 				"Aerodrome chart/lighting": {
-					"url": "https://aro.lfv.se//Editorial/View/12392/ES_AD_2_ESSA_2-4_en",
+					"url": "https://aro.lfv.se//Editorial/View/12972/ES_AD_2_ESSA_2-4_en",
 					"filename": "ESSA - Aerodrome chart/lighting.pdf"
 				},
 				"Aerodrome ground movement chart/arrival": {
-					"url": "https://aro.lfv.se//Editorial/View/12492/ES_AD_2_ESSA_2-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12973/ES_AD_2_ESSA_2-5_en",
 					"filename": "ESSA - Aerodrome ground movement chart/arrival.pdf"
 				},
 				"Aerodrome ground movement chart/departure": {
-					"url": "https://aro.lfv.se//Editorial/View/9387/ES_AD_2_ESSA_2-6_en",
+					"url": "https://aro.lfv.se//Editorial/View/12974/ES_AD_2_ESSA_2-6_en",
 					"filename": "ESSA - Aerodrome ground movement chart/departure.pdf"
 				},
 				"Aircraft parking/docking chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12493/ES_AD_2_ESSA_2-7_en",
+					"url": "https://aro.lfv.se//Editorial/View/13014/ES_AD_2_ESSA_2-7_en",
 					"filename": "ESSA - Aircraft parking/docking chart.pdf"
 				},
 				"AOC RWY 01L/19R": {
@@ -1671,11 +1679,11 @@
 					"filename": "ESSA - PATC RWY 19L.pdf"
 				},
 				"Area Chart (STOCKHOLM TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12267/ES_AD_2_ESSA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13260/ES_AD_2_ESSA_4-1_en",
 					"filename": "ESSA - Area Chart (STOCKHOLM TMA).pdf"
 				},
 				"Holding procedures - STOCKHOLM": {
-					"url": "https://aro.lfv.se//Editorial/View/10291/ES_AD_2_ESSA_4-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/13169/ES_AD_2_ESSA_4-2_en",
 					"filename": "ESSA - Holding procedures - STOCKHOLM.pdf"
 				},
 				"List of Waypoints and significant points": {
@@ -1687,27 +1695,27 @@
 					"filename": "ESSA - RNAV SIDs General.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 01L": {
-					"url": "https://aro.lfv.se//Editorial/View/9213/ES_AD_2_ESSA_4-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/13281/ES_AD_2_ESSA_4-9_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) SID RWY 01L.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 01R": {
-					"url": "https://aro.lfv.se//Editorial/View/9214/ES_AD_2_ESSA_4-15_en",
+					"url": "https://aro.lfv.se//Editorial/View/13282/ES_AD_2_ESSA_4-15_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) SID RWY 01R.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 08 Left turn": {
-					"url": "https://aro.lfv.se//Editorial/View/9215/ES_AD_2_ESSA_4-19_en",
+					"url": "https://aro.lfv.se//Editorial/View/13283/ES_AD_2_ESSA_4-19_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) SID RWY 08 Left turn.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 08 Right turn": {
-					"url": "https://aro.lfv.se//Editorial/View/10293/ES_AD_2_ESSA_4-25_en",
+					"url": "https://aro.lfv.se//Editorial/View/13284/ES_AD_2_ESSA_4-25_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) SID RWY 08 Right turn.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 19L": {
-					"url": "https://aro.lfv.se//Editorial/View/12082/ES_AD_2_ESSA_4-31_en",
+					"url": "https://aro.lfv.se//Editorial/View/13285/ES_AD_2_ESSA_4-31_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) SID RWY 19L.pdf"
 				},
 				"RNAV (DME/DME or GNSS) SID RWY 19R": {
-					"url": "https://aro.lfv.se//Editorial/View/9218/ES_AD_2_ESSA_4-37_en",
+					"url": "https://aro.lfv.se//Editorial/View/13286/ES_AD_2_ESSA_4-37_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) SID RWY 19R.pdf"
 				},
 				" PROP RNAV RWY 19R HAPZI 1G ": {
@@ -1715,7 +1723,7 @@
 					"filename": "ESSA -  PROP RNAV RWY 19R HAPZI 1G .pdf"
 				},
 				"RNAV (DME/DME or GNSS)  SID RWY 26": {
-					"url": "https://aro.lfv.se//Editorial/View/11553/ES_AD_2_ESSA_4-43_en",
+					"url": "https://aro.lfv.se//Editorial/View/13287/ES_AD_2_ESSA_4-43_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS)  SID RWY 26.pdf"
 				},
 				"RNAV STARs General": {
@@ -1723,23 +1731,23 @@
 					"filename": "ESSA - RNAV STARs General.pdf"
 				},
 				"RNAV (DME/DME or GNSS) STAR RWY 01L ": {
-					"url": "https://aro.lfv.se//Editorial/View/11554/ES_AD_2_ESSA_4-49_en",
+					"url": "https://aro.lfv.se//Editorial/View/13288/ES_AD_2_ESSA_4-49_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) STAR RWY 01L .pdf"
 				},
 				"RNAV (DME/DME or GNSS) STAR RWY 01L/01R ": {
-					"url": "https://aro.lfv.se//Editorial/View/11528/ES_AD_2_ESSA_4-53_en",
+					"url": "https://aro.lfv.se//Editorial/View/13289/ES_AD_2_ESSA_4-53_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) STAR RWY 01L/01R .pdf"
 				},
 				"RNAV (DME/DME or GNSS) STAR RWY 08 ": {
-					"url": "https://aro.lfv.se//Editorial/View/11529/ES_AD_2_ESSA_4-55_en",
+					"url": "https://aro.lfv.se//Editorial/View/13290/ES_AD_2_ESSA_4-55_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) STAR RWY 08 .pdf"
 				},
 				"RNAV (DME/DME or GNSS) STAR RWY 19R": {
-					"url": "https://aro.lfv.se//Editorial/View/11555/ES_AD_2_ESSA_4-57_en",
+					"url": "https://aro.lfv.se//Editorial/View/13291/ES_AD_2_ESSA_4-57_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) STAR RWY 19R.pdf"
 				},
 				"RNAV (DME/DME or GNSS) STAR RWY 19R/19L ": {
-					"url": "https://aro.lfv.se//Editorial/View/11530/ES_AD_2_ESSA_4-61_en",
+					"url": "https://aro.lfv.se//Editorial/View/13292/ES_AD_2_ESSA_4-61_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) STAR RWY 19R/19L .pdf"
 				},
 				"RNAV (DME/DME or GNSS)  STAR RWY 26": {
@@ -1747,11 +1755,11 @@
 					"filename": "ESSA - RNAV (DME/DME or GNSS)  STAR RWY 26.pdf"
 				},
 				"RNAV (DME/DME or GNSS) STAR OPEN RWY 26": {
-					"url": "https://aro.lfv.se//Editorial/View/11556/ES_AD_2_ESSA_4-67_en",
+					"url": "https://aro.lfv.se//Editorial/View/13293/ES_AD_2_ESSA_4-67_en",
 					"filename": "ESSA - RNAV (DME/DME or GNSS) STAR OPEN RWY 26.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – STOCKHOLM": {
-					"url": "https://aro.lfv.se//Editorial/View/11532/ES_AD_2_ESSA_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13261/ES_AD_2_ESSA_4-91_en",
 					"filename": "ESSA - ATC Surveillance Minimum Altitude Chart – STOCKHOLM.pdf"
 				},
 				"ILS or LOC RWY 01L": {
@@ -1831,21 +1839,21 @@
 					"filename": "ESSA - RNP y RWY 26 (AR).pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/9244/ES_AD_2_ESSA_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13262/ES_AD_2_ESSA_6-1_en",
 					"filename": "ESSA - VAC.pdf"
 				}
 			},
 			"STOCKHOLM/Bromma : ESSB": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12496/ES_AD_2_ESSB_en",
+					"url": "https://aro.lfv.se//Editorial/View/13269/ES_AD_2_ESSB_en",
 					"filename": "ESSB - Text.pdf"
 				},
 				"Aerodrome chart ": {
-					"url": "https://aro.lfv.se//Editorial/View/8870/ES_AD_2_ESSB_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12980/ES_AD_2_ESSB_2-1_en",
 					"filename": "ESSB - Aerodrome chart .pdf"
 				},
 				"Parking chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12495/ES_AD_2_ESSB_2-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12981/ES_AD_2_ESSB_2-3_en",
 					"filename": "ESSB - Parking chart.pdf"
 				},
 				"AOC RWY 12/30": {
@@ -1853,11 +1861,11 @@
 					"filename": "ESSB - AOC RWY 12/30.pdf"
 				},
 				"Area Chart (STOCKHOLM TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12267/ES_AD_2_ESSA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13260/ES_AD_2_ESSA_4-1_en",
 					"filename": "ESSB - Area Chart (STOCKHOLM TMA).pdf"
 				},
 				"Holding procedures - STOCKHOLM": {
-					"url": "https://aro.lfv.se//Editorial/View/10291/ES_AD_2_ESSA_4-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/13169/ES_AD_2_ESSA_4-2_en",
 					"filename": "ESSB - Holding procedures - STOCKHOLM.pdf"
 				},
 				"List of waypoints and significant points": {
@@ -1865,23 +1873,23 @@
 					"filename": "ESSB - List of waypoints and significant points.pdf"
 				},
 				"RNAV (GNSS) SID RWY 12": {
-					"url": "https://aro.lfv.se//Editorial/View/10031/ES_AD_2_ESSB_4-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/13264/ES_AD_2_ESSB_4-5_en",
 					"filename": "ESSB - RNAV (GNSS) SID RWY 12.pdf"
 				},
 				"RNAV (GNSS) SID RWY 30": {
-					"url": "https://aro.lfv.se//Editorial/View/10032/ES_AD_2_ESSB_4-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/13265/ES_AD_2_ESSB_4-9_en",
 					"filename": "ESSB - RNAV (GNSS) SID RWY 30.pdf"
 				},
 				"RNAV (GNSS) STAR RWY 12": {
-					"url": "https://aro.lfv.se//Editorial/View/9248/ES_AD_2_ESSB_4-13_en",
+					"url": "https://aro.lfv.se//Editorial/View/13266/ES_AD_2_ESSB_4-13_en",
 					"filename": "ESSB - RNAV (GNSS) STAR RWY 12.pdf"
 				},
 				"RNAV (GNSS) STAR RWY 30": {
-					"url": "https://aro.lfv.se//Editorial/View/9249/ES_AD_2_ESSB_4-17_en",
+					"url": "https://aro.lfv.se//Editorial/View/13267/ES_AD_2_ESSB_4-17_en",
 					"filename": "ESSB - RNAV (GNSS) STAR RWY 30.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – STOCKHOLM": {
-					"url": "https://aro.lfv.se//Editorial/View/11532/ES_AD_2_ESSA_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13261/ES_AD_2_ESSA_4-91_en",
 					"filename": "ESSB - ATC Surveillance Minimum Altitude Chart – STOCKHOLM.pdf"
 				},
 				"ILS or LOC RWY 12": {
@@ -1901,7 +1909,7 @@
 					"filename": "ESSB - RNP RWY 30.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/8680/ES_AD_2_ESSB_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13268/ES_AD_2_ESSB_6-1_en",
 					"filename": "ESSB - VAC.pdf"
 				},
 				"Helicopter VFR holdings and landing": {
@@ -1939,7 +1947,7 @@
 					"filename": "ESKN - AOC RWY 16/34.pdf"
 				},
 				"Area Chart (ÖSTGÖTA TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12091/ES_AD_2_ESSP_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13270/ES_AD_2_ESSP_4-1_en",
 					"filename": "ESKN - Area Chart (ÖSTGÖTA TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -1975,7 +1983,7 @@
 					"filename": "ESKN - STAR RWY 26.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA": {
-					"url": "https://aro.lfv.se//Editorial/View/12092/ES_AD_2_ESSP_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13174/ES_AD_2_ESSP_4-91_en",
 					"filename": "ESKN - ATC Surveillance Minimum Altitude Chart – ÖSTGÖTA.pdf"
 				},
 				"ILS or LOC RWY 26": {
@@ -2013,7 +2021,7 @@
 					"filename": "ESOW - AOC RWY 01/19.pdf"
 				},
 				"Area Chart (STOCKHOLM TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12267/ES_AD_2_ESSA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13260/ES_AD_2_ESSA_4-1_en",
 					"filename": "ESOW - Area Chart (STOCKHOLM TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2021,7 +2029,7 @@
 					"filename": "ESOW - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/9198/ES_AD_2_ESOW_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13168/ES_AD_2_ESOW_4-91_en",
 					"filename": "ESOW - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"NDB+DME+ILS 19": {
@@ -2067,7 +2075,7 @@
 					"filename": "ESNN - AOC RWY 34.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/10966/ES_AD_2_ESNN_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13249/ES_AD_2_ESNN_4-1_en",
 					"filename": "ESNN - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points ": {
@@ -2169,7 +2177,7 @@
 					"filename": "ESND - RNP RWY 27.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/9987/ES_AD_2_ESND_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13148/ES_AD_2_ESND_6-1_en",
 					"filename": "ESND - VAC.pdf"
 				}
 			},
@@ -2199,7 +2207,7 @@
 					"filename": "ESKS - PATC RWY 33.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/9961/ES_AD_2_ESKS_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12687/ES_AD_2_ESKS_4-1_en",
 					"filename": "ESKS - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2223,7 +2231,7 @@
 					"filename": "ESKS - RNP STAR RWY 33.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/9962/ES_AD_2_ESKS_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12688/ES_AD_2_ESKS_4-91_en",
 					"filename": "ESKS - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 15": {
@@ -2249,11 +2257,11 @@
 			},
 			"SÅTENÄS : ESIB": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12376/ES_AD_2_ESIB_en",
+					"url": "https://aro.lfv.se//Editorial/View/12686/ES_AD_2_ESIB_en",
 					"filename": "ESIB - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/8290/ES_AD_2_ESIB_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12685/ES_AD_2_ESIB_2-1_en",
 					"filename": "ESIB - AD Chart.pdf"
 				},
 				"Area Chart (TMA)": {
@@ -2307,7 +2315,7 @@
 			},
 			"TORSBY : ESST": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/9290/ES_AD_2_ESST_en",
+					"url": "https://aro.lfv.se//Editorial/View/13271/ES_AD_2_ESST_en",
 					"filename": "ESST - Text.pdf"
 				},
 				"AD Chart": {
@@ -2353,7 +2361,7 @@
 			},
 			"TROLLHÄTTAN/Vänersborg : ESGT": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12367/ES_AD_2_ESGT_en",
+					"url": "https://aro.lfv.se//Editorial/View/12684/ES_AD_2_ESGT_en",
 					"filename": "ESGT - Text.pdf"
 				},
 				"AD Chart": {
@@ -2361,7 +2369,7 @@
 					"filename": "ESGT - AD Chart.pdf"
 				},
 				"AOC RWY 15/33": {
-					"url": "https://aro.lfv.se//Editorial/View/5890/ES_AD_2_ESGT_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12683/ES_AD_2_ESGT_3-1_en",
 					"filename": "ESGT - AOC RWY 15/33.pdf"
 				},
 				"Area Chart (TMA)": {
@@ -2403,11 +2411,11 @@
 			},
 			"UMEÅ : ESNU": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12486/ES_AD_2_ESNU_en",
+					"url": "https://aro.lfv.se//Editorial/View/12965/ES_AD_2_ESNU_en",
 					"filename": "ESNU - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/11486/ES_AD_2_ESNU_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12962/ES_AD_2_ESNU_2-1_en",
 					"filename": "ESNU - AD Chart.pdf"
 				},
 				"AOC RWY 14/32": {
@@ -2415,7 +2423,7 @@
 					"filename": "ESNU - AOC RWY 14/32.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12070/ES_AD_2_ESNU_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12963/ES_AD_2_ESNU_4-1_en",
 					"filename": "ESNU - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2455,7 +2463,7 @@
 					"filename": "ESNU - SID and STAR RWY 32.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12071/ES_AD_2_ESNU_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12964/ES_AD_2_ESNU_4-91_en",
 					"filename": "ESNU - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 14": {
@@ -2487,17 +2495,17 @@
 					"filename": "ESNU - RNP RWY 32.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/8664/ES_AD_2_ESNU_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12725/ES_AD_2_ESNU_6-1_en",
 					"filename": "ESNU - VAC.pdf"
 				}
 			},
 			"UPPSALA : ESCM": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12467/ES_AD_2_ESCM_en",
+					"url": "https://aro.lfv.se//Editorial/View/12916/ES_AD_2_ESCM_en",
 					"filename": "ESCM - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/7510/ES_AD_2_ESCM_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12681/ES_AD_2_ESCM_2-1_en",
 					"filename": "ESCM - AD Chart.pdf"
 				},
 				"AOC RWY  08/26": {
@@ -2509,7 +2517,7 @@
 					"filename": "ESCM - AOC RWY 03/21.pdf"
 				},
 				"Area Chart (STOCKHOLM TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12267/ES_AD_2_ESSA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13260/ES_AD_2_ESSA_4-1_en",
 					"filename": "ESCM - Area Chart (STOCKHOLM TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2517,7 +2525,7 @@
 					"filename": "ESCM - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart – STOCKHOLM": {
-					"url": "https://aro.lfv.se//Editorial/View/11532/ES_AD_2_ESSA_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13261/ES_AD_2_ESSA_4-91_en",
 					"filename": "ESCM - ATC Surveillance Minimum Altitude Chart – STOCKHOLM.pdf"
 				},
 				"ILS or LOC RWY 21": {
@@ -2573,7 +2581,7 @@
 					"filename": "ESNV - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10003/ES_AD_2_ESNV_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12966/ES_AD_2_ESNV_2-1_en",
 					"filename": "ESNV - AD Chart.pdf"
 				},
 				"AOC RWY 10/28": {
@@ -2585,11 +2593,11 @@
 					"filename": "ESNV - List of waypoints and significant points.pdf"
 				},
 				"ILS or LOC RWY 28": {
-					"url": "https://aro.lfv.se//Editorial/View/4005/ES_AD_2_ESNV_5-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13250/ES_AD_2_ESNV_5-1_en",
 					"filename": "ESNV - ILS or LOC RWY 28.pdf"
 				},
 				"NDB RWY 28": {
-					"url": "https://aro.lfv.se//Editorial/View/4006/ES_AD_2_ESNV_5-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/13251/ES_AD_2_ESNV_5-2_en",
 					"filename": "ESNV - NDB RWY 28.pdf"
 				},
 				"NDB RWY 10": {
@@ -2611,15 +2619,15 @@
 			},
 			"VISBY : ESSV": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/12498/ES_AD_2_ESSV_en",
+					"url": "https://aro.lfv.se//Editorial/View/13177/ES_AD_2_ESSV_en",
 					"filename": "ESSV - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/12274/ES_AD_2_ESSV_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13175/ES_AD_2_ESSV_2-1_en",
 					"filename": "ESSV - AD Chart.pdf"
 				},
 				"Parking/docking chart": {
-					"url": "https://aro.lfv.se//Editorial/View/9292/ES_AD_2_ESSV_2-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/13176/ES_AD_2_ESSV_2-3_en",
 					"filename": "ESSV - Parking/docking chart.pdf"
 				},
 				"AOC RWY 03/21": {
@@ -2627,7 +2635,7 @@
 					"filename": "ESSV - AOC RWY 03/21.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/10799/ES_AD_2_ESSV_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12984/ES_AD_2_ESSV_4-1_en",
 					"filename": "ESSV - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2663,7 +2671,7 @@
 					"filename": "ESSV - SID and STAR RWY 21.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/9300/ES_AD_2_ESSV_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12985/ES_AD_2_ESSV_4-91_en",
 					"filename": "ESSV - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS z or LOC z RWY 21": {
@@ -2697,19 +2705,19 @@
 			},
 			"VÄXJÖ/Kronoberg : ESMX": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/7327/ES_AD_2_ESMX_en",
+					"url": "https://aro.lfv.se//Editorial/View/12720/ES_AD_2_ESMX_en",
 					"filename": "ESMX - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/7326/ES_AD_2_ESMX_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12709/ES_AD_2_ESMX_2-1_en",
 					"filename": "ESMX - AD Chart.pdf"
 				},
 				"AOC RWY 01/19": {
-					"url": "https://aro.lfv.se//Editorial/View/1060/ES_AD_2_ESMX_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12710/ES_AD_2_ESMX_3-1_en",
 					"filename": "ESMX - AOC RWY 01/19.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/9981/ES_AD_2_ESMX_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12711/ES_AD_2_ESMX_4-1_en",
 					"filename": "ESMX - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2717,35 +2725,35 @@
 					"filename": "ESMX - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/8639/ES_AD_2_ESMX_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12712/ES_AD_2_ESMX_4-91_en",
 					"filename": "ESMX - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/5052/ES_AD_2_ESMX_5-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12713/ES_AD_2_ESMX_5-1_en",
 					"filename": "ESMX - ILS or LOC RWY 19.pdf"
 				},
 				"NDB RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/5053/ES_AD_2_ESMX_5-2_en",
+					"url": "https://aro.lfv.se//Editorial/View/12714/ES_AD_2_ESMX_5-2_en",
 					"filename": "ESMX - NDB RWY 19.pdf"
 				},
 				"LOC RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/5054/ES_AD_2_ESMX_5-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/12715/ES_AD_2_ESMX_5-3_en",
 					"filename": "ESMX - LOC RWY 01.pdf"
 				},
 				"NDB RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/5055/ES_AD_2_ESMX_5-4_en",
+					"url": "https://aro.lfv.se//Editorial/View/12716/ES_AD_2_ESMX_5-4_en",
 					"filename": "ESMX - NDB RWY 01.pdf"
 				},
 				"RNP RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/6109/ES_AD_2_ESMX_5-5_en",
+					"url": "https://aro.lfv.se//Editorial/View/12717/ES_AD_2_ESMX_5-5_en",
 					"filename": "ESMX - RNP RWY 01.pdf"
 				},
 				"RNP RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/6227/ES_AD_2_ESMX_5-9_en",
+					"url": "https://aro.lfv.se//Editorial/View/12718/ES_AD_2_ESMX_5-9_en",
 					"filename": "ESMX - RNP RWY 19.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/9176/ES_AD_2_ESMX_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12719/ES_AD_2_ESMX_6-1_en",
 					"filename": "ESMX - VAC.pdf"
 				}
 			},
@@ -2771,7 +2779,7 @@
 					"filename": "ESTA - PATC RWY 14 .pdf"
 				},
 				"Area chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/12093/ES_AD_2_ESTA_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12986/ES_AD_2_ESTA_4-1_en",
 					"filename": "ESTA - Area chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
@@ -2787,7 +2795,7 @@
 					"filename": "ESTA - RNAV (GNSS) STAR RWY 32.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10804/ES_AD_2_ESTA_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/12747/ES_AD_2_ESTA_4-91_en",
 					"filename": "ESTA - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS z Cat I or LOC z RWY 14": {
@@ -2833,7 +2841,7 @@
 					"filename": "ESNZ - AD Chart.pdf"
 				},
 				"AOC RWY 12/30": {
-					"url": "https://aro.lfv.se//Editorial/View/12385/ES_AD_2_ESNZ_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/12727/ES_AD_2_ESNZ_3-1_en",
 					"filename": "ESNZ - AOC RWY 12/30.pdf"
 				},
 				"PATC RWY 12": {
@@ -2841,7 +2849,7 @@
 					"filename": "ESNZ - PATC RWY 12.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/10760/ES_AD_2_ESNZ_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13151/ES_AD_2_ESNZ_4-1_en",
 					"filename": "ESNZ - Area Chart (TMA).pdf"
 				},
 				"List of Waypoints and significant points": {
@@ -2881,7 +2889,7 @@
 					"filename": "ESNZ - STAR RWY 30.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10761/ES_AD_2_ESNZ_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13152/ES_AD_2_ESNZ_4-91_en",
 					"filename": "ESNZ - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
 				"ILS or LOC RWY 12": {
@@ -2919,79 +2927,63 @@
 			},
 			"ÖREBRO : ESOE": {
 				"Text": {
-					"url": "https://aro.lfv.se//Editorial/View/10970/ES_AD_2_ESOE_en",
+					"url": "https://aro.lfv.se//Editorial/View/13167/ES_AD_2_ESOE_en",
 					"filename": "ESOE - Text.pdf"
 				},
 				"AD Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/10969/ES_AD_2_ESOE_2-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13153/ES_AD_2_ESOE_2-1_en",
 					"filename": "ESOE - AD Chart.pdf"
 				},
 				"AOC RWY 01/19": {
-					"url": "https://aro.lfv.se//Editorial/View/5152/ES_AD_2_ESOE_3-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13154/ES_AD_2_ESOE_3-1_en",
 					"filename": "ESOE - AOC RWY 01/19.pdf"
 				},
 				"Area Chart (TMA)": {
-					"url": "https://aro.lfv.se//Editorial/View/11694/ES_AD_2_ESOE_4-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13155/ES_AD_2_ESOE_4-1_en",
 					"filename": "ESOE - Area Chart (TMA).pdf"
 				},
 				"List of waypoints and significant points": {
-					"url": "https://aro.lfv.se//Editorial/View/5555/ES_AD_2_ESOE_4-3_en",
+					"url": "https://aro.lfv.se//Editorial/View/13156/ES_AD_2_ESOE_4-3_en",
 					"filename": "ESOE - List of waypoints and significant points.pdf"
 				},
 				"ATC Surveillance Minimum Altitude Chart": {
-					"url": "https://aro.lfv.se//Editorial/View/11695/ES_AD_2_ESOE_4-91_en",
+					"url": "https://aro.lfv.se//Editorial/View/13157/ES_AD_2_ESOE_4-91_en",
 					"filename": "ESOE - ATC Surveillance Minimum Altitude Chart.pdf"
 				},
-				"ILS RWY 19 Cat A/B": {
-					"url": "https://aro.lfv.se//Editorial/View/6743/ES_AD_2_ESOE_5-1_en",
-					"filename": "ESOE - ILS RWY 19 Cat A/B.pdf"
+				"ILS z or LOC z RWY 01": {
+					"url": "https://aro.lfv.se//Editorial/View/13158/ES_AD_2_ESOE_5-1_en",
+					"filename": "ESOE - ILS z or LOC z RWY 01.pdf"
 				},
-				"ILS RWY 19 Cat C/D/DL": {
-					"url": "https://aro.lfv.se//Editorial/View/6744/ES_AD_2_ESOE_5-2_en",
-					"filename": "ESOE - ILS RWY 19 Cat C/D/DL.pdf"
+				"ILS y or LOC y RWY 01": {
+					"url": "https://aro.lfv.se//Editorial/View/13159/ES_AD_2_ESOE_5-2_en",
+					"filename": "ESOE - ILS y or LOC y RWY 01.pdf"
 				},
-				"NDB RWY 19 Cat A/B": {
-					"url": "https://aro.lfv.se//Editorial/View/6745/ES_AD_2_ESOE_5-3_en",
-					"filename": "ESOE - NDB RWY 19 Cat A/B.pdf"
+				"NDB RWY 01": {
+					"url": "https://aro.lfv.se//Editorial/View/13160/ES_AD_2_ESOE_5-3_en",
+					"filename": "ESOE - NDB RWY 01.pdf"
 				},
-				"NDB RWY 19 Cat C/D": {
-					"url": "https://aro.lfv.se//Editorial/View/6746/ES_AD_2_ESOE_5-4_en",
-					"filename": "ESOE - NDB RWY 19 Cat C/D.pdf"
+				"ILS z or LOC z RWY 19": {
+					"url": "https://aro.lfv.se//Editorial/View/13254/ES_AD_2_ESOE_5-4_en",
+					"filename": "ESOE - ILS z or LOC z RWY 19.pdf"
 				},
-				"ILS RWY 01 Cat A/B": {
-					"url": "https://aro.lfv.se//Editorial/View/6747/ES_AD_2_ESOE_5-5_en",
-					"filename": "ESOE - ILS RWY 01 Cat A/B.pdf"
+				"ILS y or LOC y RWY 19": {
+					"url": "https://aro.lfv.se//Editorial/View/13162/ES_AD_2_ESOE_5-5_en",
+					"filename": "ESOE - ILS y or LOC y RWY 19.pdf"
 				},
-				"ILS RWY 01 Cat C/D/DL": {
-					"url": "https://aro.lfv.se//Editorial/View/6748/ES_AD_2_ESOE_5-6_en",
-					"filename": "ESOE - ILS RWY 01 Cat C/D/DL.pdf"
-				},
-				"LOC RWY 01 Cat A/B": {
-					"url": "https://aro.lfv.se//Editorial/View/6749/ES_AD_2_ESOE_5-7_en",
-					"filename": "ESOE - LOC RWY 01 Cat A/B.pdf"
-				},
-				"LOC RWY 01 Cat C/D/DL": {
-					"url": "https://aro.lfv.se//Editorial/View/6750/ES_AD_2_ESOE_5-8_en",
-					"filename": "ESOE - LOC RWY 01 Cat C/D/DL.pdf"
-				},
-				"NDB RWY 01 Cat A/B": {
-					"url": "https://aro.lfv.se//Editorial/View/6751/ES_AD_2_ESOE_5-9_en",
-					"filename": "ESOE - NDB RWY 01 Cat A/B.pdf"
-				},
-				"NDB RWY 01 Cat C/D": {
-					"url": "https://aro.lfv.se//Editorial/View/6752/ES_AD_2_ESOE_5-10_en",
-					"filename": "ESOE - NDB RWY 01 Cat C/D.pdf"
+				"NDB RWY 19": {
+					"url": "https://aro.lfv.se//Editorial/View/13163/ES_AD_2_ESOE_5-6_en",
+					"filename": "ESOE - NDB RWY 19.pdf"
 				},
 				"RNP RWY 01": {
-					"url": "https://aro.lfv.se//Editorial/View/6753/ES_AD_2_ESOE_5-11_en",
+					"url": "https://aro.lfv.se//Editorial/View/13164/ES_AD_2_ESOE_5-7_en",
 					"filename": "ESOE - RNP RWY 01.pdf"
 				},
 				"RNP RWY 19": {
-					"url": "https://aro.lfv.se//Editorial/View/6754/ES_AD_2_ESOE_5-15_en",
+					"url": "https://aro.lfv.se//Editorial/View/13255/ES_AD_2_ESOE_5-11_en",
 					"filename": "ESOE - RNP RWY 19.pdf"
 				},
 				"VAC": {
-					"url": "https://aro.lfv.se//Editorial/View/6927/ES_AD_2_ESOE_6-1_en",
+					"url": "https://aro.lfv.se//Editorial/View/13166/ES_AD_2_ESOE_6-1_en",
 					"filename": "ESOE - VAC.pdf"
 				}
 			},

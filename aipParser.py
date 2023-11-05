@@ -38,7 +38,7 @@ import datetime
 import logging
 import traceback
 import ssl
-import urllib.error
+import urllib.error, urllib.parse
 from urllib.request import urlopen, Request
 
 from bs4 import BeautifulSoup
@@ -170,7 +170,6 @@ effectiveDates = [
 # hold all the website information
 aipInformation = {
     "BE": ["Belgium",   "https://ops.skeyes.be/html/belgocontrol_static"],
-    "BR": ["Brazil",    "https://aisweb.decea.mil.br"],
     "ES": ["Spain",     "https://aip.enaire.es"],
     "FI": ["Finland",   "https://ais.fi"],
     "FR": ["France",    "https://www.sia.aviation-civile.gouv.fr/dvd"],
@@ -304,7 +303,8 @@ def getWebPage ( pageType, pageName, pageURL, sslHack = False ):
 
     html = BeautifulSoup(page, "html.parser")
 
-    logger.debug ("    TITLE : " + html.title.string)
+    if (html.title):
+        logger.debug ("    TITLE : " + html.title.string)
     #logger.debug ("    PAGE :\n{0}".format(html))
 
     return html
@@ -352,406 +352,6 @@ def parseMainPageBE ( aipBaseUrl, aipRegion ):
             new_href = aipBaseUrl + "/html/eAIP/" + href.replace("#" + id, "")
             addAipPage (type, code, name, new_href)
             parseDromePageBE (type, code, name, aipBaseUrl, new_href)
-
-    return
-
-
-#
-# parse the main BR AIP page to get list of Aerodromes and their
-# associated information pages
-#
-def parseMainPageBR ( aipBaseUrl, aipRegion ):
-    global aipPages, sortOrder
-
-    aipMainPage = "{0}".format(aipBaseUrl)
-
-    # get site page
-    html = getWebPage ( "Aip",  aipRegion, aipMainPage)
-
-    # does not give drome names or link types
-    # so lets provide that info
-
-    # codes for link types (Translate from site so may be wrong)
-    linkMapping = {
-        "ADC":      "Aerodrome Charter",
-        "AOC":      "Obstacle Letters",
-        "ARC":      "Area Chart",
-        "ATCSMAC":  "Minimum Altititude Letter ATC Surveillance",
-        "GMC":      "Ground Movement Chart",
-        "IAC":      "Instrument approach letter",
-        "LC":       "Landing Chart",
-        "OTR":      "Others",
-        "PATC":     "Topographic Precision Approach Letter",
-        "PDC":      "Aerodrome Parking Charter",
-        "SID":      "Standard Instrument Output Letter",
-        "STAR":     "Standard Instrument Arrival Letter",
-        "VAC":      "Visual approach letter"
-    }
-
-    # ICAO code to name mapping (https://en.wikipedia.org/wiki/List_of_airports_in_Brazil)
-    codeMapping = {
-        "SBAA": "Conceição do Araguaia",
-        "SBAC": "Dragão do Mar",
-        "SBAE": "Moussa Nakhl Tobias",
-        "SBAQ": "Bartholomeu de Gusmão",
-        "SBAR": "Santa Maria",
-        "SBAT": "Piloto Oswaldo Marques Dias",
-        "SBAU": "Dario Guarita",
-        "SBAX": "Romeu Zema",
-        "SBBE": "Val-de-Cans-Júlio Cezar Ribeiro",
-        "SBBG": "Comte. Gustavo Kraemer",
-        "SBBH": "Pampulha-Carlos Drummond de Andrade",
-        "SBBI": "Bacacheri",
-        "SBBP": "Arthur Siqueira",
-        "SBBR": "Pres. Juscelino Kubitschek",
-        "SBBU": "Comte. João Ribeiro de Barros",
-        "SBBV": "Atlas Brasil Cantanhede",
-        "SBBW": "Barra do Garças",
-        "SBCA": "Regional West",
-        "SBCB": "Cabo Frio",
-        "SBCD": "Carlos Alberto da Costa Neves",
-        "SBCF": "Tancredo Neves",
-        "SBCG": "Campo Grande",
-        "SBCH": "Serafin Enoss Bertaso",
-        "SBCI": "Carolina",
-        "SBCJ": "Carajás",
-        "SBCN": "Nelson Ribeiro Guimarães",
-        "SBCP": "Bartolomeu Lysandro",
-        "SBCR": "Corumbá",
-        "SBCT": "Afonso Pena",
-        "SBCV": "Caravelas",
-        "SBCX": "Hugo Cantergiani",
-        "SBCY": "Mal. Rondon",
-        "SBCZ": "Cruzeiro do Sul",
-        "SBDB": "Bonito",
-        "SBDN": "Adhemar de Barros",
-        "SBDO": "Francisco de Matos Pereira",
-        "SBEG": "Brig. Eduardo Gomes",
-        "SBFI": "Cataratas",
-        "SBFL": "Hercílio Luz",
-        "SBFN": "Gov. Carlos Wilson",
-        "SBFZ": "Pinto Martins",
-        "SBGL": "Galeão-Antonio Carlos Jobim",
-        "SBGO": "Santa Genoveva",
-        "SBGP": "Gavião Peixoto",
-        "SBGR": "Gov. André Franco Montoro",
-        "SBGV": "Cel. Altino Machado de Oliveira",
-        "SBGW": "Edu Chaves",
-        "SBHT": "Altamira",
-        "SBIH": "Itaituba",
-        "SBIL": "Jorge Amado",
-        "SBIP": "Vale do Aço",
-        "SBIT": "Francisco Vilela do Amaral",
-        "SBIZ": "Pref. Renato Moreira",
-        "SBJA": "Humberto Ghizzo Bortoluzzi",
-        "SBJD": "Comte. Rodolfo Rolim Amaro",
-        "SBJE": "Comte. Ariston Pessoa",
-        "SBJF": "Francisco Álvares de Assis",
-        "SBJH": "São Paulo Catarina Executive",
-        "SBJI": "José Coleto",
-        "SBJP": "Pres. Castro Pinto",
-        "SBJR": "Jacarepaguá-Roberto Marinho",
-        "SBJU": "Orlando Bezerra de Menezes",
-        "SBJV": "Lauro Carneiro de Loyola",
-        "SBKG": "Pres. João Suassuna",
-        "SBKP": "Viracopos",
-        "SBLE": "Cel. Horácio de Mattos",
-        "SBLJ": "Antônio Correia Pinto de Macedo",
-        "SBLN": "Gov. Lucas Nogueira Garcez",
-        "SBLO": "Gov. José Richa",
-        "SBLP": "Bom Jesus da Lapa",
-        "SBMA": "João Correa da Rocha",
-        "SBMD": "Serra do Areão",
-        "SBME": "Joaquim de Azevedo Mancebo",
-        "SBMG": "Sílvio Name Júnior",
-        "SBMI": "Laélio Baptista",
-        "SBMK": "Mário Ribeiro",
-        "SBML": "Frank Miloye Milenkovich",
-        "SBMO": "Zumbi dos Palmares",
-        "SBMQ": "Alberto Alcolumbre",
-        "SBMS": "Gov. Dix-Sept Rosado",
-        "SBMT": "Campo de Marte",
-        "SBMY": "Manicoré",
-        "SBNF": "Min. Victor Konder",
-        "SBNM": "Sepé Tiaraju",
-        "SBNV": "Aeródromo Nacional de Aviação",
-        "SBOI": "Oiapoque",
-        "SBPA": "Salgado Filho",
-        "SBPB": "Pref. Dr. João Silva Filho",
-        "SBPC": "Emb. Walther Moreira Salles",
-        "SBPF": "Lauro Kurtz",
-        "SBPG": "Comte. Antonio Amilton Beraldo",
-        "SBPJ": "Brig. Lysias Rodrigues",
-        "SBPK": "João Simões Lopes Neto",
-        "SBPL": "Sen. Nilo Coelho",
-        "SBPO": "Juvenal Loureiro Cardoso",
-        "SBPP": "Ponta Porã",
-        "SBPR": "Carlos Prates",
-        "SBPS": "Porto Seguro",
-        "SBPV": "Gov. Jorge Teixeira de Oliveira",
-        "SBRB": "Plácido de Castro",
-        "SBRD": "Maestro Marinho Franco",
-        "SBRF": "Guararapes-Gilberto Freyre",
-        "SBRJ": "Santos Dumont",
-        "SBRP": "Dr. Leite Lopes",
-        "SBSG": "Gov. Aluízio Alves",
-        "SBSJ": "Prof. Urbano Ernesto Stumpf",
-        "SBSL": "Mal. Cunha Machado",
-        "SBSM": "Santa Maria",
-        "SBSN": "Maestro Wilson Fonseca",
-        "SBSO": "Adolino Bedin",
-        "SBSP": "Congonhas",
-        "SBSR": "Prof. Eribelto Manoel Reino",
-        "SBST": "Guarujá Civil Metropolitan",
-        "SBSV": "Dep. Luís Eduardo Magalhães",
-        "SBTB": "Porto Trombetas",
-        "SBTC": "Una-Comandatuba",
-        "SBTD": "Luiz dal Canalle Filho",
-        "SBTE": "Sen. Petrônio Portella",
-        "SBTF": "Pref. Orlando Marinho",
-        "SBTG": "Plínio Alarcom",
-        "SBTK": "José Galera dos Santos",
-        "SBTT": "Tabatinga",
-        "SBTU": "Tucuruí",
-        "SBUA": "São Gabriel da Cachoeira",
-        "SBUF": "Paulo Afonso",
-        "SBUG": "Ruben Berta",
-        "SBUL": "Ten. Cel. Av. César Bombonato",
-        "SBUR": "Mário de Almeida Franco",
-        "SBUY": "Porto Urucu",
-        "SBVC": "Glauber Rocha",
-        "SBVG": "Maj. Brig. Trompowsky",
-        "SBVH": "Brig. Camarão",
-        "SBVT": "Eurico de Aguiar Salles",
-        "SBZM": "Pres. Itamar Franco",
-        "SDAE": "São Pedro",
-        "SDAG": "Carmelo Jordão",
-        "SDAM": "Campo dos Amarais-Prof. Francisco Amaral",
-        "SDCG": "Sen. Eunice Michiles",
-        "SDCO": "Bertram Luiz Leupolz",
-        "SDGX": "Morro de São Paulo",
-        "SDIM": "Antônio Ribeiro Nogueira Jr.",
-        "SDIY": "Gov. João Durval Carneiro",
-        "SDNM": "Brig. Eduardo Gomes",
-        "SDNO": "Nelson Garófalo",
-        "SDOU": "Jornalista Benedito Pimentel",
-        "SDOW": "Ourilândia do Norte",
-        "SDPE": "Porto Nacional",
-        "SDRR": "Comte. Luiz Gonzaga Lutti",
-        "SDRS": "Resende",
-        "SDSC": "Mário Pereira Lopes",
-        "SDTK": "Paraty",
-        "SDUB": "Gastão Madeira",
-        "SDUN": "Ernani do Amaral Peixoto",
-        "SDWQ": "Alenquer",
-        "SDZG": "Pedro Teixeira Castelo",
-        "SILC": "Bom Futuro",
-        "SIMK": "Ten. Lund Presotto",
-        "SIQE": "Planalto Central",
-        "SIRI": "Barra Grande",
-        "SIZX": "Inácio Luís do Nascimento",
-        "SJNP": "Novo Progresso",
-        "SJOG": "Ariquemes",
-        "SJRG": "Rio Grande",
-        "SN6L": "Luciano de Arruda Coelho",
-        "SNAB": "Comte. Mairson C. Bezerra",
-        "SNAX": "Marcelo Pires Halzhausen",
-        "SNBA": "Chafei Amsei",
-        "SNBJ": "Belo Jardim",
-        "SNBR": "Barreiras",
-        "SNBX": "Barra",
-        "SNCP": "Planalto Serrano",
-        "SNCT": "Ubaporanga",
-        "SNDC": "Redenção",
-        "SNDT": "Juscelino Kubitschek",
-        "SNDV": "Brig. Cabral",
-        "SNEB": "Nagib Demachki",
-        "SNEE": "Vacaria",
-        "SNFX": "São Félix do Xingu",
-        "SNGA": "Guarapari",
-        "SNGI": "Guanambi",
-        "SNGN": "Garanhuns",
-        "SNHS": "Santa Magalhães",
-        "SNIG": "Dr. Francisco Tomé da Frota",
-        "SNJN": "Januária",
-        "SNJR": "Pref. Octávio de Almeida Neves",
-        "SNKE": "Santana do Araguaia",
-        "SNKI": "Raimundo de Andrade",
-        "SNLO": "Comte. Luiz Carlos de Oliveira",
-        "SNMA": "Monte Alegre",
-        "SNMU": "Mucuri",
-        "SNMZ": "Porto de Moz",
-        "SNOB": "Cel. Virgílio Távora Lima",
-        "SNOE": "Oeiras",
-        "SNOU": "Feijó",
-        "SNOX": "Oriximiná",
-        "SNPC": "Sen. Helvídio Nunes",
-        "SNPD": "Pedro Pereira dos Santos",
-        "SNQU": "Mucugê",
-        "SNRJ": "Juruti",
-        "SNRU": "Oscar Laranjeiras",
-        "SNSM": "Salinópolis",
-        "SNTF": "9 de maio",
-        "SNTI": "Óbidos",
-        "SNTO": "Teófilo Otoni",
-        "SNTS": "Brig. Firmino Ayres",
-        "SNVB": "Valença",
-        "SNVS": "Breves",
-        "SNWS": "Dr. Lúcio Lima",
-        "SNYA": "Almeirim",
-        "SNZR": "Pedro Rabelo de Souza",
-        "SSAP": "Capitão João Busse",
-        "SSBZ": "Umberto Modiano",
-        "SSCK": "Olavo Cecco Rigon",
-        "SSCN": "Canela",
-        "SSCP": "Francisco Lacerda Junior",
-        "SSCT": "Engenheiro Gastão de Mesquita Filho",
-        "SSER": "Erechim",
-        "SSFB": "Paulo Abdala",
-        "SSGG": "Tancredo Thomas de Faria",
-        "SSGY": "Walter Martins de Oliveira",
-        "SSIJ": "João Batista Bos Filho",
-        "SSIM": "Diomício Freitas",
-        "SSJA": "Santa Terezinha",
-        "SSKM": "Cel. Geraldo Guias de Aquino",
-        "SSKW": "Capital do Café",
-        "SSLT": "Gaudêncio Machado Ramos",
-        "SSOE": "Hélio Wasum",
-        "SSOG": "Alberto Bertelli",
-        "SSOU": "Aripuanã",
-        "SSPG": "Santos Dumont",
-        "SSPI": "Edu Chaves",
-        "SSPK": "Porecatu",
-        "SSRG": "Alberto Bertelli",
-        "SSRS": "Barreirinhas",
-        "SSSB": "São Borja",
-        "SSSC": "Luiz Beck da Silva",
-        "SSST": "Santiago",
-        "SSTE": "Torres",
-        "SSUM": "Orlando de Carvalho",
-        "SSUV": "José Cleto",
-        "SSVI": "Ângelo Ponzoni",
-        "SSVL": "Telêmaco Borba",
-        "SSYA": "Avelino Vieira",
-        "SSZR": "Luís Alberto Lehr",
-        "SWBC": "Barcelos",
-        "SWBE": "Valfrido Salmito de Almeida",
-        "SWBG": "André Antônio Maggi",
-        "SWBI": "Barreirinha",
-        "SWBR": "Borba",
-        "SWCA": "Carauari",
-        "SWEI": "Amaury Feitosa Tomaz",
-        "SWEK": "Canarana",
-        "SWFX": "São Félix do Araguaia",
-        "SWGI": "Comte. Jacinto Nunes",
-        "SWGN": "Araguaína",
-        "SWHP": "Água Boa (Olhos d'água)",
-        "SWHT": "Francisco Correa da Cruz",
-        "SWII": "Ipiranga",
-        "SWIQ": "Minaçu",
-        "SWJN": "Juína",
-        "SWJU": "Juruena",
-        "SWKF": "Confresa",
-        "SWKO": "Coari",
-        "SWKQ": "Serra da Capivara",
-        "SWLB": "Lábrea",
-        "SWLC": "Gal. Leite de Castro",
-        "SWMW": "Maués",
-        "SWOB": "Fonte Boa",
-        "SWPI": "Júlio Belém",
-        "SWPM": "Euflávio Odilon Ribeiro",
-        "SWPY": "Primavera do Leste",
-        "SWRA": "Deputado Joaquim Coelho",
-        "SWSI": "Presidente João Figueiredo",
-        "SWST": "Santa Terezinha",
-        "SWSX": "Xinguara Municipal",
-        "SWTP": "Tapuruquara",
-        "SWTS": "Tangará da Serra",
-        "SWVC": "Vila Rica",
-        "SWXM": "Orlando Villas-Bôas",
-        "SWYN": "Apuí",
-        "SBAN": "Anápolis Air Force Base",
-        "SBBE": "Belém Air Force Base",
-        "SBBV": "Boa Vista Air Force Base",
-        "SBBR": "Brasília Air Force Base",
-        "SBCG": "Campo Grande Air Force Base",
-        "SBCO": "Canoas Air Force Base",
-        "SBFL": "Florianópolis Air Force Base",
-        "SBFZ": "Fortaleza Air Force Base",
-        "SBGR": "São Paulo Air Force Base",
-        "SBMN": "Manaus Air Force Base",
-        "SBNT": "Natal Air Force Base",
-        "SBPV": "Porto Velho Air Force Base",
-        "SBRF": "Recife Air Force Base",
-        "SBGL": "Galeão Air Force Base",
-        "SBSC": "Santa Cruz Air Force Base",
-        "SBAF": "Afonsos Air Force Base",
-        "SBSV": "Salvador Air Force Base",
-        "SBSM": "Santa Maria Air Force Base",
-        "SBST": "Santos Air Force Base",
-        "SBES": "São Pedro da Aldeia",
-        "SBXP": "Rio/São Paulo",
-        "SDGC": "Garça, São Paulo",
-        "SDPW": "Piracicaba",
-        "SNDR": "Domingos Rego, Timon"
-    }
-
-    # loop through all the table <td> tags
-    type = adType2
-    for tr in html.find_all("tr"):
-        href = ""
-        code = ""
-        name = ""
-        title = ""
-        codeFound = True
-        for td in tr.find_all("td"):
-            allLinks = td.find_all("a")
-            if len(allLinks) == 0:
-                continue
-            link = allLinks[0]
-            if code in ("", None):
-                code = link.get_text()
-                if code in codeMapping.keys():
-                    name = codeMapping[code]
-                    if ("href" in link.attrs):
-                        href = link["href"]
-                    addAipPage (type, code, name, href, True)
-                else:
-                    logger.info ("    Unknown drome code found [{0}]".format(code))
-                    codeFound = False
-                    break
-
-                continue
-
-            linkText = link.get_text()
-            if linkText in ("IAC", "SID", "VAC"):
-                continue
-
-            if linkText in linkMapping.keys():
-                title = linkMapping[linkText]
-            else:
-                title = linkText
-
-            filename = code + " - " + title.replace("/", "-").replace(".", "") + ".pdf"
-            if ("href" in link.attrs):
-                href = link["href"]
-
-            logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, href, filename))
-
-            tmpPages = {}
-            key = code
-            # check what order we want to store data
-            if sortOrder == "NAME":
-                key = name
-            if key in aipPages[type].keys():
-                tmpPages = aipPages[type][key]["PageLinks"]
-
-            tmpPages[title] = href, filename
-
-            # add the links to the page structure
-            updateAipPageLinks (type, code, name, tmpPages)
-
-            break
 
     return
 
@@ -882,49 +482,72 @@ def parseMainPageES ( aipBaseUrl, aipRegion ):
 # associated information pages
 #
 def parseMainPageFI ( aipBaseUrl, aipRegion ):
-    aipMainPage = "{0}/eaip/en/index3.htm".format(aipBaseUrl)
+    aipMainPage = "{0}/eAIP/menu.html".format(aipBaseUrl)
 
     # get site page
     html = getWebPage ( "Aip",  aipRegion, aipMainPage )
 
     # loop through all the link tags
-    type = adType2
-    charts = False
-    for div in html.find_all("div"):
-        if div.get_text() != "AD":
-            continue
+    type = ""
+    for link in html.find_all("a"):
+        title = ""
+        href = ""
+        id = ""
+        code = ""
+        name = ""
 
-        for link in html.find_all("a"):
-            #logger.debug (link)
-            href = ""
-            code = ""
-            name = ""
-
-            if ("class" not in link.attrs):
+        if ("title" in link.attrs):
+            title = link["title"]
+            if ("AD  " == title[:4]):
+                code = title[6:10]
+            else:
+                code = title[5:9]
+            if ("Unco" == code):
                 continue
-            linkText = link.get_text().strip()
-            if link["class"][0] == "level1":
-                if "AD 2 Lentopaikat" == linkText:
-                    charts = True
-                else:
-                    charts = False
-            if not charts or linkText[:4] == "AD 2":
+        if ("href" in link.attrs):
+            href = link["href"]
+        if ("id" in link.attrs):
+            id = link["id"]
+            if ("AD 2en-GB" == id):
+                type = adType2
+                continue
+            if ("AD 3en-GB" == id):
+                type = adType3
                 continue
 
-            if ("href" in link.attrs):
-                href = link["href"]
-                if href[-4:] != ".htm":
+        # loop through all the span tags in the link tag
+        for span in link.find_all("span"):
+            if ("class" not in span.attrs):
+                continue
+            if ( "Number" in span["class"] ):
+                name = span.get_text().strip()
+    
+        if (type == adType2):
+            if ("AD 2 " not in title):
+                if ("AD  2 " not in title):
                     continue
-            name = linkText[7:]
-            code = linkText[:4]
+            if ("AD 2 " not in name):
+                if ("AD  2 " not in name):
+                    continue
+        if (type == adType3):
+            if ("AD 3 " not in title):
+                continue
+            if ("AD 3 " not in name):
+                continue
 
-            #logger.debug (code + "==" + href + "==" + type)
+        #if (title not in ["", None] and id not in ["", None] and href not in ["", None] and name not in ["", None] and type not in ["", None] and code not in ["", None]):
+        #    #logger.debug (link)
+        #logger.debug ("CODE : " + code +  "## TITLE : " + title + "## ID : " + id + "## NAME : " + name + "## HREF : " + href)
 
-            # check if this is a valid link we want
-            if (href and code):
-                new_href = aipBaseUrl + "/eaip/" + href.replace("../", "")
-                addAipPage (type, code, name, new_href)
-                parseDromePageFI (type, code, name, aipBaseUrl, new_href)
+        # check if this is a valid link we want
+        if (name and href and code and type):
+            new_name = name[12:]
+            if ("AD  " in name):
+                new_name = name[13:]
+
+            new_href = aipBaseUrl + "/eAIP/" + urllib.parse.quote(href.split("#")[0])
+            addAipPage (type, code, new_name, new_href)
+            parseDromePageFI (type, code, new_name, aipBaseUrl, new_href)
 
     return
 
@@ -1341,25 +964,34 @@ def parseDromePageFI ( type, code, dromeTitle, baseUrl, dromeUrl ):
     html = getWebPage ( "Drome",  code, dromeUrl )
 
     pdfPages = {}
-    for td in html.find_all("td"):
-        # check if we are in the charts section
-        if ("class" in td.attrs):
-            clas = td["class"][0]
-            if (clas != "chartPad"):
-                continue
+    for tr in html.find_all("tr"):
+        title = ""
+        href = ""
+        if ("id" in tr.attrs):
+            id = tr["id"]
+            if (type == adType2):
+                if ("AD 2 " not in id):
+                    if ("AD  2 " not in id):
+                        continue
+            if (type == adType3):
+                if ("AD 3 " not in id):
+                    continue
         else:
             continue
 
-        # in charts section so parse the table
-        title = ""
-        href = ""
-        for link in td.find_all("a"):
-            title = link.get_text()
-            href = link["href"]
+        for td in tr.find_all("td"):
+            for span in td.find_all("span"):
+                title = span.get_text()
+
+            for link in td.find_all("a"):
+                if ("href" in link.attrs):
+                    href = link["href"]
+
+            #logger.debug ("## TITLE : " + title + " ## HREF : " + href + " ##")
 
         # check we have both parts
         if (title and href):
-            new_href = baseUrl + "/eaip/ad/" + code.lower() + "/" + href
+            new_href = baseUrl + href[2:]
             filename = code + " - " + title.replace("/", "-") + ".pdf"
             pdfPages[title] = new_href, filename
             logger.debug ("    {0} == {1} == {2} == {3}".format(code, title, new_href, filename))
@@ -1615,7 +1247,7 @@ logger.info ("Started")
 # Parse the command line
 #
 parser = argparse.ArgumentParser()
-parser.add_argument('--region', help='Region to generate [BE | BR | ES | FI | FR | IE | NL | NO | RU | SE | UK]', choices=["BE", "BR", "ES", "FI", "FR", "IE", "NL", "NO", "RU", "SE", "UK"], default="UK")
+parser.add_argument('--region', help='Region to generate [BE | ES | FI | FR | IE | NL | NO | RU | SE | UK]', choices=["BE", "ES", "FI", "FR", "IE", "NL", "NO", "RU", "SE", "UK"], default="UK")
 parser.add_argument('--previous', action="store_true", help='User previous schedule', default=False)
 parser.add_argument('--codesort', action="store_true", help='Sort by Drome code, not Drome name', default=False)
 parser.add_argument('--debug', action="store_true", help='Set debug logging', default=False)
@@ -1696,16 +1328,13 @@ elif aipRegion == "BE":
     aipBaseUrl = "{0}/eaip/eAIP_Main".format(aipRegionUrl)
     parseMainPageBE (aipBaseUrl, aipRegion)
 
-elif aipRegion == "BR":
-    aipBaseUrl = "{0}/?i=cartas&amdt={1}".format(aipRegionUrl, currentRelease)
-    parseMainPageBR (aipBaseUrl, aipRegion)
-
 elif aipRegion == "ES":
     aipBaseUrl = "{0}/AIP".format(aipRegionUrl)
     parseMainPageES (aipBaseUrl, aipRegion)
 
 elif aipRegion == "FI":
-    aipBaseUrl = "{0}/ais".format(aipRegionUrl)
+    logger.info ("WARNING - Using hard coded URL. Update to latest")
+    aipBaseUrl = "{0}/eaip/005-2023_2023_10_05".format(aipRegionUrl)
     parseMainPageFI (aipBaseUrl, aipRegion)
 
 elif aipRegion == "FR":
@@ -1721,7 +1350,7 @@ elif aipRegion == "NO":
     parseMainPageNO (aipBaseUrl, aipRegion)
 
 elif aipRegion == "NL":
-    aipBaseUrl = "{0}/{1}-AIRAC".format(aipRegionUrl, currentPublished)
+    aipBaseUrl = "{0}/web/{1}-AIRAC".format(aipRegionUrl, currentPublished)
     parseMainPageNL (aipBaseUrl, aipRegion)
 
 elif aipRegion == "RU":
