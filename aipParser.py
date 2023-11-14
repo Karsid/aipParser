@@ -232,7 +232,7 @@ def addAipPage (adType, dromeCode, dromeName, dromeHref, ignoreDups = False):
     # check its a known type
     if adType not in aipPages.keys():
         logger.info ("    Unknown AD type found [{0}] for [{1}]. Ignoring.".format(adType, key))
-        return
+        return False
 
     if key not in aipPages[adType].keys():
         dromeStructure = {
@@ -245,11 +245,11 @@ def addAipPage (adType, dromeCode, dromeName, dromeHref, ignoreDups = False):
     else:
         if not ignoreDups:
             logger.info ("    Duplicate [{0}] found [{1}] for AD type [{2}]. Ignoring.".format(sortOrder, key, adType))
-        return
+        return False
 
     logger.debug ("    {0} == {1} == {2} == {3}".format(adType, dromeCode, dromeName, dromeHref))
 
-    return
+    return True
 
 
 #
@@ -535,10 +535,6 @@ def parseMainPageFI ( aipBaseUrl, aipRegion ):
             if ("AD 3 " not in name):
                 continue
 
-        #if (title not in ["", None] and id not in ["", None] and href not in ["", None] and name not in ["", None] and type not in ["", None] and code not in ["", None]):
-        #    #logger.debug (link)
-        #logger.debug ("CODE : " + code +  "## TITLE : " + title + "## ID : " + id + "## NAME : " + name + "## HREF : " + href)
-
         # check if this is a valid link we want
         if (name and href and code and type):
             new_name = name[12:]
@@ -546,8 +542,9 @@ def parseMainPageFI ( aipBaseUrl, aipRegion ):
                 new_name = name[13:]
 
             new_href = aipBaseUrl + "/eAIP/" + urllib.parse.quote(href.split("#")[0])
-            addAipPage (type, code, new_name, new_href)
-            parseDromePageFI (type, code, new_name, aipBaseUrl, new_href)
+            # check if its a dupe and do not parse drome page if it is
+            if ( addAipPage (type, code, new_name, new_href) ):
+                parseDromePageFI (type, code, new_name, aipBaseUrl, new_href)
 
     return
 
